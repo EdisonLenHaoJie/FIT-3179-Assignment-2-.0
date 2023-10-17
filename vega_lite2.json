@@ -1,0 +1,115 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "World Population Of Each Countries",
+    "width": 800,
+    "height": 600,
+    "projection": {"type": "equalEarth"},
+    "data": {
+        "url": "https://raw.githubusercontent.com/JiazhouLiu/FIT3179/main/VegaLite/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
+        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+    },
+    "transform": [
+        {
+            "lookup": "properties.ISO_A3",
+            "from": {
+                "data": {
+                    "url": "countries-table.csv"
+                },
+                "key": "cca3",
+                "fields": ["population_2023"]
+            }
+        },
+        {
+            "filter": {
+                "or": [
+                    "country_selector === 'All'",
+                    "datum['properties.ISO_A3'] === country_selector"
+                ]
+            }
+        }
+    ],
+    "params": [
+        {
+            "name": "country_selector",
+            "value": "All",
+            "bind": {
+                "input": "select",
+                "options": ["All", "IND", "CHN", "USA", "IDN", "PAK", "NGA", "BRA", "BGD", "RUS", "MEX", "ETH", "JPN", "PHL", "EGY", "COD", "VNM", "IRN", "TUR", "DEU", "THA", "GBR", "TZA", "FRA", "ZAF", "ITA", "KEN", "MMR", "COL", "KOR", "UGA", "SDN", "ESP", "ARG", "DZA", "IRQ", "AFG", "POL", "CAN", "MAR", "SAU", "UKR", "AGO", "UZB", "YEM", "PER", "MYS", "GHA", "MOZ", "NPL"],
+                "name": "Select Country"
+            }
+        }
+    ],
+    "layer": [
+      {
+          "data": {
+              "url": "oceans.topojson",
+              "format": { "type": "topojson", "feature": "oceans" }
+          },
+          "mark": { "type": "geoshape", "fill": "skyblue" }
+      },
+      {
+          "data": {
+              "url": "WorldMapWithGraticules.topojson",
+              "format": { "type": "topojson", "feature": "ne_110m_graticules_30" }
+          },
+          "mark": { "type": "geoshape", "fill": null, "stroke": "lightgray" }
+      },
+      {
+          "mark": {"type": "geoshape"},
+          "encoding": {
+              "opacity": {
+                  "condition": [
+                      {
+                          "test": "country_selector === 'All'",
+                          "value": 1
+                      },
+                      {
+                          "test": "datum['properties.ISO_A3'] === country_selector",
+                          "value": 1
+                      }
+                  ],
+                  "value": 1
+              },
+              "color": {
+                  "field": "population_2023",
+                  "type": "quantitative",
+                  "scale": {"type": "log"}
+              },
+              "tooltip": [
+                  {"field": "properties.ISO_A3", "type": "nominal", "title": "Country"},
+                  {"field": "population_2023", "type": "quantitative"}
+              ]
+          }
+      },
+        {
+            "data": {
+                "values": [
+                    {"Country": "IND", "Latitude": 21.7679, "Longitude": 78.8718},
+                    {"Country": "CHN", "Latitude": 35.8617, "Longitude": 104.1954},
+                    {"Country": "USA", "Latitude": 37.0902, "Longitude": -95.7129},
+                    {"Country": "RUS", "Latitude": 61.5240, "Longitude": 105.3188},
+                    {"Country": "MYS", "Latitude": 4.2105, "Longitude": 101.9758},
+                    {"Country": "AUS", "Latitude": -25.2744, "Longitude": 133.7751},
+                    {"Country": "JPN", "Latitude": 36.2048, "Longitude": 138.2529},
+                    {"Country": "MEX", "Latitude": 23.6345, "Longitude": -102.5528},
+                    {"Country": "CAN", "Latitude": 56.1304, "Longitude": -106.3468}
+                ]
+            },
+            "mark": {
+                "type": "text",
+                "fontSize": 11.5,
+                "fontStyle": "italic",
+                "fontWeight": "bold"
+            },
+            "transform": [{
+                "filter": "country_selector === 'All'"
+            }],
+            "encoding": {
+                "longitude": {"field": "Longitude", "type": "quantitative"},
+                "latitude": {"field": "Latitude", "type": "quantitative"},
+                "text": {"field": "Country", "type": "nominal"},
+                "color": {"value": "Black"}
+            }
+        }
+    ]
+  }

@@ -1,0 +1,1787 @@
+[
+  {
+    "year": 2000,
+    "country": "Australia",
+    "fertility": 1.75,
+    "life_expect": 79.709999,
+    "cluster": 4
+  },
+  {
+    "year": 2001,
+    "country": "Australia",
+    "fertility": 1.73,
+    "life_expect": 80.019997,
+    "cluster": 4
+  },
+  {
+    "year": 2002,
+    "country": "Australia",
+    "fertility": 1.76,
+    "life_expect": 80.239998,
+    "cluster": 4
+  },
+  {
+    "year": 2003,
+    "country": "Australia",
+    "fertility": 1.77,
+    "life_expect": 80.540001,
+    "cluster": 4
+  },
+  {
+    "year": 2004,
+    "country": "Australia",
+    "fertility": 1.78,
+    "life_expect": 80.809998,
+    "cluster": 4
+  },
+  {
+    "year": 2005,
+    "country": "Australia",
+    "fertility": 1.81,
+    "life_expect": 81.089996,
+    "cluster": 4
+  },
+  {
+    "year": 2006,
+    "country": "Australia",
+    "fertility": 1.86,
+    "life_expect": 81.269997,
+    "cluster": 4
+  },
+  {
+    "year": 2007,
+    "country": "Australia",
+    "fertility": 1.93,
+    "life_expect": 81.43,
+    "cluster": 4
+  },
+  {
+    "year": 2008,
+    "country": "Australia",
+    "fertility": 1.96,
+    "life_expect": 81.580002,
+    "cluster": 4
+  },
+  {
+    "year": 2009,
+    "country": "Australia",
+    "fertility": 1.89,
+    "life_expect": 81.790001,
+    "cluster": 4
+  },
+  {
+    "year": 2010,
+    "country": "Australia",
+    "fertility": 1.89,
+    "life_expect": 81.989998,
+    "cluster": 4
+  },
+  {
+    "year": 2011,
+    "country": "Australia",
+    "fertility": 1.88,
+    "life_expect": 82.150002,
+    "cluster": 4
+  },
+  {
+    "year": 2012,
+    "country": "Australia",
+    "fertility": 1.93,
+    "life_expect": 82.330002,
+    "cluster": 4
+  },
+  {
+    "year": 2013,
+    "country": "Australia",
+    "fertility": 1.91,
+    "life_expect": 82.529999,
+    "cluster": 4
+  },
+  {
+    "year": 2014,
+    "country": "Australia",
+    "fertility": 1.81,
+    "life_expect": 82.580002,
+    "cluster": 4
+  },
+  {
+    "year": 2015,
+    "country": "Australia",
+    "fertility": 1.81,
+    "life_expect": 82.550003,
+    "cluster": 4
+  },
+  {
+    "year": 2016,
+    "country": "Australia",
+    "fertility": 1.74,
+    "life_expect": 82.519997,
+    "cluster": 4
+  },
+  {
+    "year": 2000,
+    "country": "Brazil",
+    "fertility": 2.29,
+    "life_expect": 71.360001,
+    "cluster": 3
+  },
+  {
+    "year": 2001,
+    "country": "Brazil",
+    "fertility": 2.24,
+    "life_expect": 71.760002,
+    "cluster": 3
+  },
+  {
+    "year": 2002,
+    "country": "Brazil",
+    "fertility": 2.19,
+    "life_expect": 72.059998,
+    "cluster": 3
+  },
+  {
+    "year": 2003,
+    "country": "Brazil",
+    "fertility": 2.14,
+    "life_expect": 72.330002,
+    "cluster": 3
+  },
+  {
+    "year": 2004,
+    "country": "Brazil",
+    "fertility": 2.09,
+    "life_expect": 72.620003,
+    "cluster": 3
+  },
+  {
+    "year": 2005,
+    "country": "Brazil",
+    "fertility": 2.04,
+    "life_expect": 72.93,
+    "cluster": 3
+  },
+  {
+    "year": 2006,
+    "country": "Brazil",
+    "fertility": 1.98,
+    "life_expect": 73.199997,
+    "cluster": 3
+  },
+  {
+    "year": 2007,
+    "country": "Brazil",
+    "fertility": 1.93,
+    "life_expect": 73.459999,
+    "cluster": 3
+  },
+  {
+    "year": 2008,
+    "country": "Brazil",
+    "fertility": 1.89,
+    "life_expect": 73.720001,
+    "cluster": 3
+  },
+  {
+    "year": 2009,
+    "country": "Brazil",
+    "fertility": 1.85,
+    "life_expect": 73.940002,
+    "cluster": 3
+  },
+  {
+    "year": 2010,
+    "country": "Brazil",
+    "fertility": 1.82,
+    "life_expect": 74.150002,
+    "cluster": 3
+  },
+  {
+    "year": 2011,
+    "country": "Brazil",
+    "fertility": 1.79,
+    "life_expect": 74.379997,
+    "cluster": 3
+  },
+  {
+    "year": 2012,
+    "country": "Brazil",
+    "fertility": 1.77,
+    "life_expect": 74.639999,
+    "cluster": 3
+  },
+  {
+    "year": 2013,
+    "country": "Brazil",
+    "fertility": 1.75,
+    "life_expect": 74.839996,
+    "cluster": 3
+  },
+  {
+    "year": 2014,
+    "country": "Brazil",
+    "fertility": 1.74,
+    "life_expect": 75.010002,
+    "cluster": 3
+  },
+  {
+    "year": 2015,
+    "country": "Brazil",
+    "fertility": 1.72,
+    "life_expect": 75.139999,
+    "cluster": 3
+  },
+  {
+    "year": 2016,
+    "country": "Brazil",
+    "fertility": 1.71,
+    "life_expect": 75.239998,
+    "cluster": 3
+  },
+  {
+    "year": 2000,
+    "country": "Canada",
+    "fertility": 1.49,
+    "life_expect": 79.260002,
+    "cluster": 3
+  },
+  {
+    "year": 2001,
+    "country": "Canada",
+    "fertility": 1.51,
+    "life_expect": 79.480003,
+    "cluster": 3
+  },
+  {
+    "year": 2002,
+    "country": "Canada",
+    "fertility": 1.53,
+    "life_expect": 79.660004,
+    "cluster": 3
+  },
+  {
+    "year": 2003,
+    "country": "Canada",
+    "fertility": 1.53,
+    "life_expect": 79.839996,
+    "cluster": 3
+  },
+  {
+    "year": 2004,
+    "country": "Canada",
+    "fertility": 1.53,
+    "life_expect": 80.050003,
+    "cluster": 3
+  },
+  {
+    "year": 2005,
+    "country": "Canada",
+    "fertility": 1.54,
+    "life_expect": 80.230003,
+    "cluster": 3
+  },
+  {
+    "year": 2006,
+    "country": "Canada",
+    "fertility": 1.59,
+    "life_expect": 80.480003,
+    "cluster": 3
+  },
+  {
+    "year": 2007,
+    "country": "Canada",
+    "fertility": 1.66,
+    "life_expect": 80.650002,
+    "cluster": 3
+  },
+  {
+    "year": 2008,
+    "country": "Canada",
+    "fertility": 1.68,
+    "life_expect": 80.870003,
+    "cluster": 3
+  },
+  {
+    "year": 2009,
+    "country": "Canada",
+    "fertility": 1.67,
+    "life_expect": 81.120003,
+    "cluster": 3
+  },
+  {
+    "year": 2010,
+    "country": "Canada",
+    "fertility": 1.68,
+    "life_expect": 81.339996,
+    "cluster": 3
+  },
+  {
+    "year": 2011,
+    "country": "Canada",
+    "fertility": 1.61,
+    "life_expect": 81.529999,
+    "cluster": 3
+  },
+  {
+    "year": 2012,
+    "country": "Canada",
+    "fertility": 1.61,
+    "life_expect": 81.660004,
+    "cluster": 3
+  },
+  {
+    "year": 2013,
+    "country": "Canada",
+    "fertility": 1.59,
+    "life_expect": 81.75,
+    "cluster": 3
+  },
+  {
+    "year": 2014,
+    "country": "Canada",
+    "fertility": 1.61,
+    "life_expect": 81.790001,
+    "cluster": 3
+  },
+  {
+    "year": 2015,
+    "country": "Canada",
+    "fertility": 1.61,
+    "life_expect": 81.769997,
+    "cluster": 3
+  },
+  {
+    "year": 2016,
+    "country": "Canada",
+    "fertility": 1.54,
+    "life_expect": 81.849998,
+    "cluster": 3
+  },
+  {
+    "year": 2000,
+    "country": "China",
+    "fertility": 1.47,
+    "life_expect": 69.940002,
+    "cluster": 0
+  },
+  {
+    "year": 2001,
+    "country": "China",
+    "fertility": 1.46,
+    "life_expect": 70.220001,
+    "cluster": 0
+  },
+  {
+    "year": 2002,
+    "country": "China",
+    "fertility": 1.44,
+    "life_expect": 70.519997,
+    "cluster": 0
+  },
+  {
+    "year": 2003,
+    "country": "China",
+    "fertility": 1.42,
+    "life_expect": 71.220001,
+    "cluster": 0
+  },
+  {
+    "year": 2004,
+    "country": "China",
+    "fertility": 1.41,
+    "life_expect": 71.779999,
+    "cluster": 0
+  },
+  {
+    "year": 2005,
+    "country": "China",
+    "fertility": 1.39,
+    "life_expect": 72.260002,
+    "cluster": 0
+  },
+  {
+    "year": 2006,
+    "country": "China",
+    "fertility": 1.38,
+    "life_expect": 72.879997,
+    "cluster": 0
+  },
+  {
+    "year": 2007,
+    "country": "China",
+    "fertility": 1.37,
+    "life_expect": 73.379997,
+    "cluster": 0
+  },
+  {
+    "year": 2008,
+    "country": "China",
+    "fertility": 1.37,
+    "life_expect": 73.599998,
+    "cluster": 0
+  },
+  {
+    "year": 2009,
+    "country": "China",
+    "fertility": 1.36,
+    "life_expect": 74.120003,
+    "cluster": 0
+  },
+  {
+    "year": 2010,
+    "country": "China",
+    "fertility": 1.34,
+    "life_expect": 74.419998,
+    "cluster": 0
+  },
+  {
+    "year": 2011,
+    "country": "China",
+    "fertility": 1.32,
+    "life_expect": 74.870003,
+    "cluster": 0
+  },
+  {
+    "year": 2012,
+    "country": "China",
+    "fertility": 1.29,
+    "life_expect": 75.25,
+    "cluster": 0
+  },
+  {
+    "year": 2013,
+    "country": "China",
+    "fertility": 1.27,
+    "life_expect": 75.519997,
+    "cluster": 0
+  },
+  {
+    "year": 2014,
+    "country": "China",
+    "fertility": 1.24,
+    "life_expect": 75.68,
+    "cluster": 0
+  },
+  {
+    "year": 2015,
+    "country": "China",
+    "fertility": 1.22,
+    "life_expect": 76.040001,
+    "cluster": 0
+  },
+  {
+    "year": 2016,
+    "country": "China",
+    "fertility": 1.2,
+    "life_expect": 76.360001,
+    "cluster": 0
+  },
+  {
+    "year": 2000,
+    "country": "France",
+    "fertility": 1.89,
+    "life_expect": 79.120003,
+    "cluster": 1
+  },
+  {
+    "year": 2001,
+    "country": "France",
+    "fertility": 1.9,
+    "life_expect": 79.349998,
+    "cluster": 1
+  },
+  {
+    "year": 2002,
+    "country": "France",
+    "fertility": 1.88,
+    "life_expect": 79.589996,
+    "cluster": 1
+  },
+  {
+    "year": 2003,
+    "country": "France",
+    "fertility": 1.9,
+    "life_expect": 79.769997,
+    "cluster": 1
+  },
+  {
+    "year": 2004,
+    "country": "France",
+    "fertility": 1.92,
+    "life_expect": 80.150002,
+    "cluster": 1
+  },
+  {
+    "year": 2005,
+    "country": "France",
+    "fertility": 1.92,
+    "life_expect": 80.400002,
+    "cluster": 1
+  },
+  {
+    "year": 2006,
+    "country": "France",
+    "fertility": 1.98,
+    "life_expect": 80.669998,
+    "cluster": 1
+  },
+  {
+    "year": 2007,
+    "country": "France",
+    "fertility": 2.02,
+    "life_expect": 80.910004,
+    "cluster": 1
+  },
+  {
+    "year": 2008,
+    "country": "France",
+    "fertility": 2,
+    "life_expect": 81.080002,
+    "cluster": 1
+  },
+  {
+    "year": 2009,
+    "country": "France",
+    "fertility": 2,
+    "life_expect": 81.290001,
+    "cluster": 1
+  },
+  {
+    "year": 2010,
+    "country": "France",
+    "fertility": 2,
+    "life_expect": 81.480003,
+    "cluster": 1
+  },
+  {
+    "year": 2011,
+    "country": "France",
+    "fertility": 2.03,
+    "life_expect": 81.709999,
+    "cluster": 1
+  },
+  {
+    "year": 2012,
+    "country": "France",
+    "fertility": 2.01,
+    "life_expect": 81.839996,
+    "cluster": 1
+  },
+  {
+    "year": 2013,
+    "country": "France",
+    "fertility": 1.99,
+    "life_expect": 82.010002,
+    "cluster": 1
+  },
+  {
+    "year": 2014,
+    "country": "France",
+    "fertility": 1.96,
+    "life_expect": 82.220001,
+    "cluster": 1
+  },
+  {
+    "year": 2015,
+    "country": "France",
+    "fertility": 1.92,
+    "life_expect": 82.269997,
+    "cluster": 1
+  },
+  {
+    "year": 2016,
+    "country": "France",
+    "fertility": 1.9,
+    "life_expect": 82.339996,
+    "cluster": 1
+  },
+  {
+    "year": 2000,
+    "country": "Germany",
+    "fertility": 1.36,
+    "life_expect": 78.019997,
+    "cluster": 1
+  },
+  {
+    "year": 2001,
+    "country": "Germany",
+    "fertility": 1.38,
+    "life_expect": 78.300003,
+    "cluster": 1
+  },
+  {
+    "year": 2002,
+    "country": "Germany",
+    "fertility": 1.31,
+    "life_expect": 78.519997,
+    "cluster": 1
+  },
+  {
+    "year": 2003,
+    "country": "Germany",
+    "fertility": 1.34,
+    "life_expect": 78.720001,
+    "cluster": 1
+  },
+  {
+    "year": 2004,
+    "country": "Germany",
+    "fertility": 1.37,
+    "life_expect": 79.019997,
+    "cluster": 1
+  },
+  {
+    "year": 2005,
+    "country": "Germany",
+    "fertility": 1.37,
+    "life_expect": 79.25,
+    "cluster": 1
+  },
+  {
+    "year": 2006,
+    "country": "Germany",
+    "fertility": 1.37,
+    "life_expect": 79.489998,
+    "cluster": 1
+  },
+  {
+    "year": 2007,
+    "country": "Germany",
+    "fertility": 1.38,
+    "life_expect": 79.669998,
+    "cluster": 1
+  },
+  {
+    "year": 2008,
+    "country": "Germany",
+    "fertility": 1.38,
+    "life_expect": 79.830002,
+    "cluster": 1
+  },
+  {
+    "year": 2009,
+    "country": "Germany",
+    "fertility": 1.36,
+    "life_expect": 79.970001,
+    "cluster": 1
+  },
+  {
+    "year": 2010,
+    "country": "Germany",
+    "fertility": 1.36,
+    "life_expect": 80.139999,
+    "cluster": 1
+  },
+  {
+    "year": 2011,
+    "country": "Germany",
+    "fertility": 1.36,
+    "life_expect": 80.32,
+    "cluster": 1
+  },
+  {
+    "year": 2012,
+    "country": "Germany",
+    "fertility": 1.38,
+    "life_expect": 80.480003,
+    "cluster": 1
+  },
+  {
+    "year": 2013,
+    "country": "Germany",
+    "fertility": 1.41,
+    "life_expect": 80.57,
+    "cluster": 1
+  },
+  {
+    "year": 2014,
+    "country": "Germany",
+    "fertility": 1.47,
+    "life_expect": 80.790001,
+    "cluster": 1
+  },
+  {
+    "year": 2015,
+    "country": "Germany",
+    "fertility": 1.5,
+    "life_expect": 80.870003,
+    "cluster": 1
+  },
+  {
+    "year": 2016,
+    "country": "Germany",
+    "fertility": 1.59,
+    "life_expect": 80.93,
+    "cluster": 1
+  },
+  {
+    "year": 2000,
+    "country": "India",
+    "fertility": 3.13,
+    "life_expect": 62.290001,
+    "cluster": 0
+  },
+  {
+    "year": 2001,
+    "country": "India",
+    "fertility": 3.05,
+    "life_expect": 62.619999,
+    "cluster": 0
+  },
+  {
+    "year": 2002,
+    "country": "India",
+    "fertility": 2.98,
+    "life_expect": 63,
+    "cluster": 0
+  },
+  {
+    "year": 2003,
+    "country": "India",
+    "fertility": 2.9,
+    "life_expect": 63.400002,
+    "cluster": 0
+  },
+  {
+    "year": 2004,
+    "country": "India",
+    "fertility": 2.82,
+    "life_expect": 63.77,
+    "cluster": 0
+  },
+  {
+    "year": 2005,
+    "country": "India",
+    "fertility": 2.74,
+    "life_expect": 64.160004,
+    "cluster": 0
+  },
+  {
+    "year": 2006,
+    "country": "India",
+    "fertility": 2.66,
+    "life_expect": 64.550003,
+    "cluster": 0
+  },
+  {
+    "year": 2007,
+    "country": "India",
+    "fertility": 2.58,
+    "life_expect": 64.93,
+    "cluster": 0
+  },
+  {
+    "year": 2008,
+    "country": "India",
+    "fertility": 2.5,
+    "life_expect": 65.32,
+    "cluster": 0
+  },
+  {
+    "year": 2009,
+    "country": "India",
+    "fertility": 2.42,
+    "life_expect": 65.730003,
+    "cluster": 0
+  },
+  {
+    "year": 2010,
+    "country": "India",
+    "fertility": 2.35,
+    "life_expect": 66.120003,
+    "cluster": 0
+  },
+  {
+    "year": 2011,
+    "country": "India",
+    "fertility": 2.29,
+    "life_expect": 66.510002,
+    "cluster": 0
+  },
+  {
+    "year": 2012,
+    "country": "India",
+    "fertility": 2.24,
+    "life_expect": 66.910004,
+    "cluster": 0
+  },
+  {
+    "year": 2013,
+    "country": "India",
+    "fertility": 2.19,
+    "life_expect": 67.279999,
+    "cluster": 0
+  },
+  {
+    "year": 2014,
+    "country": "India",
+    "fertility": 2.14,
+    "life_expect": 67.720001,
+    "cluster": 0
+  },
+  {
+    "year": 2015,
+    "country": "India",
+    "fertility": 2.09,
+    "life_expect": 68.099998,
+    "cluster": 0
+  },
+  {
+    "year": 2016,
+    "country": "India",
+    "fertility": 2.04,
+    "life_expect": 68.550003,
+    "cluster": 0
+  },
+  {
+    "year": 2000,
+    "country": "Italy",
+    "fertility": 1.24,
+    "life_expect": 79.599998,
+    "cluster": 1
+  },
+  {
+    "year": 2001,
+    "country": "Italy",
+    "fertility": 1.26,
+    "life_expect": 79.93,
+    "cluster": 1
+  },
+  {
+    "year": 2002,
+    "country": "Italy",
+    "fertility": 1.28,
+    "life_expect": 80.169998,
+    "cluster": 1
+  },
+  {
+    "year": 2003,
+    "country": "Italy",
+    "fertility": 1.29,
+    "life_expect": 80.269997,
+    "cluster": 1
+  },
+  {
+    "year": 2004,
+    "country": "Italy",
+    "fertility": 1.32,
+    "life_expect": 80.720001,
+    "cluster": 1
+  },
+  {
+    "year": 2005,
+    "country": "Italy",
+    "fertility": 1.34,
+    "life_expect": 80.910004,
+    "cluster": 1
+  },
+  {
+    "year": 2006,
+    "country": "Italy",
+    "fertility": 1.37,
+    "life_expect": 81.089996,
+    "cluster": 1
+  },
+  {
+    "year": 2007,
+    "country": "Italy",
+    "fertility": 1.4,
+    "life_expect": 81.269997,
+    "cluster": 1
+  },
+  {
+    "year": 2008,
+    "country": "Italy",
+    "fertility": 1.42,
+    "life_expect": 81.459999,
+    "cluster": 1
+  },
+  {
+    "year": 2009,
+    "country": "Italy",
+    "fertility": 1.42,
+    "life_expect": 81.57,
+    "cluster": 1
+  },
+  {
+    "year": 2010,
+    "country": "Italy",
+    "fertility": 1.44,
+    "life_expect": 81.779999,
+    "cluster": 1
+  },
+  {
+    "year": 2011,
+    "country": "Italy",
+    "fertility": 1.46,
+    "life_expect": 81.919998,
+    "cluster": 1
+  },
+  {
+    "year": 2012,
+    "country": "Italy",
+    "fertility": 1.48,
+    "life_expect": 82.019997,
+    "cluster": 1
+  },
+  {
+    "year": 2013,
+    "country": "Italy",
+    "fertility": 1.46,
+    "life_expect": 82.239998,
+    "cluster": 1
+  },
+  {
+    "year": 2014,
+    "country": "Italy",
+    "fertility": 1.46,
+    "life_expect": 82.290001,
+    "cluster": 1
+  },
+  {
+    "year": 2015,
+    "country": "Italy",
+    "fertility": 1.47,
+    "life_expect": 82.330002,
+    "cluster": 1
+  },
+  {
+    "year": 2016,
+    "country": "Italy",
+    "fertility": 1.34,
+    "life_expect": 82.339996,
+    "cluster": 1
+  },
+  {
+    "year": 2000,
+    "country": "Japan",
+    "fertility": 1.36,
+    "life_expect": 81.029999,
+    "cluster": 0
+  },
+  {
+    "year": 2001,
+    "country": "Japan",
+    "fertility": 1.33,
+    "life_expect": 81.309998,
+    "cluster": 0
+  },
+  {
+    "year": 2002,
+    "country": "Japan",
+    "fertility": 1.32,
+    "life_expect": 81.559998,
+    "cluster": 0
+  },
+  {
+    "year": 2003,
+    "country": "Japan",
+    "fertility": 1.29,
+    "life_expect": 81.75,
+    "cluster": 0
+  },
+  {
+    "year": 2004,
+    "country": "Japan",
+    "fertility": 1.29,
+    "life_expect": 81.93,
+    "cluster": 0
+  },
+  {
+    "year": 2005,
+    "country": "Japan",
+    "fertility": 1.26,
+    "life_expect": 82.050003,
+    "cluster": 0
+  },
+  {
+    "year": 2006,
+    "country": "Japan",
+    "fertility": 1.26,
+    "life_expect": 82.239998,
+    "cluster": 0
+  },
+  {
+    "year": 2007,
+    "country": "Japan",
+    "fertility": 1.34,
+    "life_expect": 82.410004,
+    "cluster": 0
+  },
+  {
+    "year": 2008,
+    "country": "Japan",
+    "fertility": 1.37,
+    "life_expect": 82.57,
+    "cluster": 0
+  },
+  {
+    "year": 2009,
+    "country": "Japan",
+    "fertility": 1.37,
+    "life_expect": 82.769997,
+    "cluster": 0
+  },
+  {
+    "year": 2010,
+    "country": "Japan",
+    "fertility": 1.39,
+    "life_expect": 82.910004,
+    "cluster": 0
+  },
+  {
+    "year": 2011,
+    "country": "Japan",
+    "fertility": 1.41,
+    "life_expect": 82.660004,
+    "cluster": 0
+  },
+  {
+    "year": 2012,
+    "country": "Japan",
+    "fertility": 1.42,
+    "life_expect": 83.230003,
+    "cluster": 0
+  },
+  {
+    "year": 2013,
+    "country": "Japan",
+    "fertility": 1.43,
+    "life_expect": 83.440002,
+    "cluster": 0
+  },
+  {
+    "year": 2014,
+    "country": "Japan",
+    "fertility": 1.43,
+    "life_expect": 83.690002,
+    "cluster": 0
+  },
+  {
+    "year": 2015,
+    "country": "Japan",
+    "fertility": 1.46,
+    "life_expect": 83.830002,
+    "cluster": 0
+  },
+  {
+    "year": 2016,
+    "country": "Japan",
+    "fertility": 1.44,
+    "life_expect": 83.940002,
+    "cluster": 0
+  },
+  {
+    "year": 2000,
+    "country": "Mexico",
+    "fertility": 2.43,
+    "life_expect": 74.610001,
+    "cluster": 3
+  },
+  {
+    "year": 2001,
+    "country": "Mexico",
+    "fertility": 2.37,
+    "life_expect": 74.870003,
+    "cluster": 3
+  },
+  {
+    "year": 2002,
+    "country": "Mexico",
+    "fertility": 2.32,
+    "life_expect": 74.889999,
+    "cluster": 3
+  },
+  {
+    "year": 2003,
+    "country": "Mexico",
+    "fertility": 2.27,
+    "life_expect": 74.93,
+    "cluster": 3
+  },
+  {
+    "year": 2004,
+    "country": "Mexico",
+    "fertility": 2.22,
+    "life_expect": 75.220001,
+    "cluster": 3
+  },
+  {
+    "year": 2005,
+    "country": "Mexico",
+    "fertility": 2.18,
+    "life_expect": 75.209999,
+    "cluster": 3
+  },
+  {
+    "year": 2006,
+    "country": "Mexico",
+    "fertility": 2.15,
+    "life_expect": 75.459999,
+    "cluster": 3
+  },
+  {
+    "year": 2007,
+    "country": "Mexico",
+    "fertility": 2.12,
+    "life_expect": 75.660004,
+    "cluster": 3
+  },
+  {
+    "year": 2008,
+    "country": "Mexico",
+    "fertility": 2.09,
+    "life_expect": 75.440002,
+    "cluster": 3
+  },
+  {
+    "year": 2009,
+    "country": "Mexico",
+    "fertility": 2.07,
+    "life_expect": 75.349998,
+    "cluster": 3
+  },
+  {
+    "year": 2010,
+    "country": "Mexico",
+    "fertility": 2.04,
+    "life_expect": 75.440002,
+    "cluster": 3
+  },
+  {
+    "year": 2011,
+    "country": "Mexico",
+    "fertility": 2.01,
+    "life_expect": 75.720001,
+    "cluster": 3
+  },
+  {
+    "year": 2012,
+    "country": "Mexico",
+    "fertility": 1.98,
+    "life_expect": 75.879997,
+    "cluster": 3
+  },
+  {
+    "year": 2013,
+    "country": "Mexico",
+    "fertility": 1.95,
+    "life_expect": 75.790001,
+    "cluster": 3
+  },
+  {
+    "year": 2014,
+    "country": "Mexico",
+    "fertility": 1.92,
+    "life_expect": 75.900002,
+    "cluster": 3
+  },
+  {
+    "year": 2015,
+    "country": "Mexico",
+    "fertility": 1.89,
+    "life_expect": 76.190002,
+    "cluster": 3
+  },
+  {
+    "year": 2016,
+    "country": "Mexico",
+    "fertility": 1.86,
+    "life_expect": 76.379997,
+    "cluster": 3
+  },
+  {
+    "year": 2000,
+    "country": "Russia",
+    "fertility": 1.25,
+    "life_expect": 65.279999,
+    "cluster": 1
+  },
+  {
+    "year": 2001,
+    "country": "Russia",
+    "fertility": 1.25,
+    "life_expect": 65.279999,
+    "cluster": 1
+  },
+  {
+    "year": 2002,
+    "country": "Russia",
+    "fertility": 1.26,
+    "life_expect": 65.129997,
+    "cluster": 1
+  },
+  {
+    "year": 2003,
+    "country": "Russia",
+    "fertility": 1.3,
+    "life_expect": 65.18,
+    "cluster": 1
+  },
+  {
+    "year": 2004,
+    "country": "Russia",
+    "fertility": 1.34,
+    "life_expect": 65.459999,
+    "cluster": 1
+  },
+  {
+    "year": 2005,
+    "country": "Russia",
+    "fertility": 1.38,
+    "life_expect": 65.610001,
+    "cluster": 1
+  },
+  {
+    "year": 2006,
+    "country": "Russia",
+    "fertility": 1.42,
+    "life_expect": 66.849998,
+    "cluster": 1
+  },
+  {
+    "year": 2007,
+    "country": "Russia",
+    "fertility": 1.47,
+    "life_expect": 67.559998,
+    "cluster": 1
+  },
+  {
+    "year": 2008,
+    "country": "Russia",
+    "fertility": 1.52,
+    "life_expect": 67.870003,
+    "cluster": 1
+  },
+  {
+    "year": 2009,
+    "country": "Russia",
+    "fertility": 1.57,
+    "life_expect": 68.849998,
+    "cluster": 1
+  },
+  {
+    "year": 2010,
+    "country": "Russia",
+    "fertility": 1.61,
+    "life_expect": 69.220001,
+    "cluster": 1
+  },
+  {
+    "year": 2011,
+    "country": "Russia",
+    "fertility": 1.65,
+    "life_expect": 69.860001,
+    "cluster": 1
+  },
+  {
+    "year": 2012,
+    "country": "Russia",
+    "fertility": 1.68,
+    "life_expect": 70.449997,
+    "cluster": 1
+  },
+  {
+    "year": 2013,
+    "country": "Russia",
+    "fertility": 1.7,
+    "life_expect": 70.760002,
+    "cluster": 1
+  },
+  {
+    "year": 2014,
+    "country": "Russia",
+    "fertility": 1.75,
+    "life_expect": 70.860001,
+    "cluster": 1
+  },
+  {
+    "year": 2015,
+    "country": "Russia",
+    "fertility": 1.78,
+    "life_expect": 70.830002,
+    "cluster": 1
+  },
+  {
+    "year": 2016,
+    "country": "Russia",
+    "fertility": 1.76,
+    "life_expect": 70.870003,
+    "cluster": 1
+  },
+  {
+    "year": 2000,
+    "country": "Spain",
+    "fertility": 1.24,
+    "life_expect": 79.400002,
+    "cluster": 1
+  },
+  {
+    "year": 2001,
+    "country": "Spain",
+    "fertility": 1.23,
+    "life_expect": 79.669998,
+    "cluster": 1
+  },
+  {
+    "year": 2002,
+    "country": "Spain",
+    "fertility": 1.24,
+    "life_expect": 79.830002,
+    "cluster": 1
+  },
+  {
+    "year": 2003,
+    "country": "Spain",
+    "fertility": 1.26,
+    "life_expect": 79.980003,
+    "cluster": 1
+  },
+  {
+    "year": 2004,
+    "country": "Spain",
+    "fertility": 1.28,
+    "life_expect": 80.25,
+    "cluster": 1
+  },
+  {
+    "year": 2005,
+    "country": "Spain",
+    "fertility": 1.31,
+    "life_expect": 80.480003,
+    "cluster": 1
+  },
+  {
+    "year": 2006,
+    "country": "Spain",
+    "fertility": 1.35,
+    "life_expect": 80.830002,
+    "cluster": 1
+  },
+  {
+    "year": 2007,
+    "country": "Spain",
+    "fertility": 1.38,
+    "life_expect": 81.07,
+    "cluster": 1
+  },
+  {
+    "year": 2008,
+    "country": "Spain",
+    "fertility": 1.4,
+    "life_expect": 81.360001,
+    "cluster": 1
+  },
+  {
+    "year": 2009,
+    "country": "Spain",
+    "fertility": 1.39,
+    "life_expect": 81.68,
+    "cluster": 1
+  },
+  {
+    "year": 2010,
+    "country": "Spain",
+    "fertility": 1.38,
+    "life_expect": 81.970001,
+    "cluster": 1
+  },
+  {
+    "year": 2011,
+    "country": "Spain",
+    "fertility": 1.37,
+    "life_expect": 82.18,
+    "cluster": 1
+  },
+  {
+    "year": 2012,
+    "country": "Spain",
+    "fertility": 1.34,
+    "life_expect": 82.32,
+    "cluster": 1
+  },
+  {
+    "year": 2013,
+    "country": "Spain",
+    "fertility": 1.32,
+    "life_expect": 82.629997,
+    "cluster": 1
+  },
+  {
+    "year": 2014,
+    "country": "Spain",
+    "fertility": 1.33,
+    "life_expect": 82.839996,
+    "cluster": 1
+  },
+  {
+    "year": 2015,
+    "country": "Spain",
+    "fertility": 1.34,
+    "life_expect": 82.910004,
+    "cluster": 1
+  },
+  {
+    "year": 2016,
+    "country": "Spain",
+    "fertility": 1.33,
+    "life_expect": 82.970001,
+    "cluster": 1
+  },
+  {
+    "year": 2000,
+    "country": "Switzerland",
+    "fertility": 1.48,
+    "life_expect": 79.970001,
+    "cluster": 1
+  },
+  {
+    "year": 2001,
+    "country": "Switzerland",
+    "fertility": 1.46,
+    "life_expect": 80.209999,
+    "cluster": 1
+  },
+  {
+    "year": 2002,
+    "country": "Switzerland",
+    "fertility": 1.45,
+    "life_expect": 80.400002,
+    "cluster": 1
+  },
+  {
+    "year": 2003,
+    "country": "Switzerland",
+    "fertility": 1.43,
+    "life_expect": 80.620003,
+    "cluster": 1
+  },
+  {
+    "year": 2004,
+    "country": "Switzerland",
+    "fertility": 1.42,
+    "life_expect": 81.029999,
+    "cluster": 1
+  },
+  {
+    "year": 2005,
+    "country": "Switzerland",
+    "fertility": 1.41,
+    "life_expect": 81.279999,
+    "cluster": 1
+  },
+  {
+    "year": 2006,
+    "country": "Switzerland",
+    "fertility": 1.42,
+    "life_expect": 81.480003,
+    "cluster": 1
+  },
+  {
+    "year": 2007,
+    "country": "Switzerland",
+    "fertility": 1.44,
+    "life_expect": 81.690002,
+    "cluster": 1
+  },
+  {
+    "year": 2008,
+    "country": "Switzerland",
+    "fertility": 1.47,
+    "life_expect": 81.919998,
+    "cluster": 1
+  },
+  {
+    "year": 2009,
+    "country": "Switzerland",
+    "fertility": 1.5,
+    "life_expect": 82.059998,
+    "cluster": 1
+  },
+  {
+    "year": 2010,
+    "country": "Switzerland",
+    "fertility": 1.52,
+    "life_expect": 82.300003,
+    "cluster": 1
+  },
+  {
+    "year": 2011,
+    "country": "Switzerland",
+    "fertility": 1.53,
+    "life_expect": 82.540001,
+    "cluster": 1
+  },
+  {
+    "year": 2012,
+    "country": "Switzerland",
+    "fertility": 1.54,
+    "life_expect": 82.660004,
+    "cluster": 1
+  },
+  {
+    "year": 2013,
+    "country": "Switzerland",
+    "fertility": 1.56,
+    "life_expect": 82.800003,
+    "cluster": 1
+  },
+  {
+    "year": 2014,
+    "country": "Switzerland",
+    "fertility": 1.54,
+    "life_expect": 83.089996,
+    "cluster": 1
+  },
+  {
+    "year": 2015,
+    "country": "Switzerland",
+    "fertility": 1.54,
+    "life_expect": 83.160004,
+    "cluster": 1
+  },
+  {
+    "year": 2016,
+    "country": "Switzerland",
+    "fertility": 1.52,
+    "life_expect": 83.18,
+    "cluster": 1
+  },
+  {
+    "year": 2000,
+    "country": "United Kingdom",
+    "fertility": 1.66,
+    "life_expect": 77.839996,
+    "cluster": 1
+  },
+  {
+    "year": 2001,
+    "country": "United Kingdom",
+    "fertility": 1.63,
+    "life_expect": 78.099998,
+    "cluster": 1
+  },
+  {
+    "year": 2002,
+    "country": "United Kingdom",
+    "fertility": 1.64,
+    "life_expect": 78.309998,
+    "cluster": 1
+  },
+  {
+    "year": 2003,
+    "country": "United Kingdom",
+    "fertility": 1.68,
+    "life_expect": 78.449997,
+    "cluster": 1
+  },
+  {
+    "year": 2004,
+    "country": "United Kingdom",
+    "fertility": 1.74,
+    "life_expect": 78.82,
+    "cluster": 1
+  },
+  {
+    "year": 2005,
+    "country": "United Kingdom",
+    "fertility": 1.79,
+    "life_expect": 79.099998,
+    "cluster": 1
+  },
+  {
+    "year": 2006,
+    "country": "United Kingdom",
+    "fertility": 1.84,
+    "life_expect": 79.379997,
+    "cluster": 1
+  },
+  {
+    "year": 2007,
+    "country": "United Kingdom",
+    "fertility": 1.91,
+    "life_expect": 79.639999,
+    "cluster": 1
+  },
+  {
+    "year": 2008,
+    "country": "United Kingdom",
+    "fertility": 1.96,
+    "life_expect": 79.879997,
+    "cluster": 1
+  },
+  {
+    "year": 2009,
+    "country": "United Kingdom",
+    "fertility": 1.94,
+    "life_expect": 80.169998,
+    "cluster": 1
+  },
+  {
+    "year": 2010,
+    "country": "United Kingdom",
+    "fertility": 1.93,
+    "life_expect": 80.389999,
+    "cluster": 1
+  },
+  {
+    "year": 2011,
+    "country": "United Kingdom",
+    "fertility": 1.91,
+    "life_expect": 80.580002,
+    "cluster": 1
+  },
+  {
+    "year": 2012,
+    "country": "United Kingdom",
+    "fertility": 1.92,
+    "life_expect": 80.68,
+    "cluster": 1
+  },
+  {
+    "year": 2013,
+    "country": "United Kingdom",
+    "fertility": 1.85,
+    "life_expect": 80.769997,
+    "cluster": 1
+  },
+  {
+    "year": 2014,
+    "country": "United Kingdom",
+    "fertility": 1.81,
+    "life_expect": 80.82,
+    "cluster": 1
+  },
+  {
+    "year": 2015,
+    "country": "United Kingdom",
+    "fertility": 1.8,
+    "life_expect": 80.860001,
+    "cluster": 1
+  },
+  {
+    "year": 2016,
+    "country": "United Kingdom",
+    "fertility": 1.74,
+    "life_expect": 80.900002,
+    "cluster": 1
+  },
+  {
+    "year": 2000,
+    "country": "United States",
+    "fertility": 2.07,
+    "life_expect": 76.959999,
+    "cluster": 3
+  },
+  {
+    "year": 2001,
+    "country": "United States",
+    "fertility": 2.03,
+    "life_expect": 77.040001,
+    "cluster": 3
+  },
+  {
+    "year": 2002,
+    "country": "United States",
+    "fertility": 2.01,
+    "life_expect": 77.169998,
+    "cluster": 3
+  },
+  {
+    "year": 2003,
+    "country": "United States",
+    "fertility": 2.05,
+    "life_expect": 77.32,
+    "cluster": 3
+  },
+  {
+    "year": 2004,
+    "country": "United States",
+    "fertility": 2.05,
+    "life_expect": 77.540001,
+    "cluster": 3
+  },
+  {
+    "year": 2005,
+    "country": "United States",
+    "fertility": 2.05,
+    "life_expect": 77.699997,
+    "cluster": 3
+  },
+  {
+    "year": 2006,
+    "country": "United States",
+    "fertility": 2.1,
+    "life_expect": 77.949997,
+    "cluster": 3
+  },
+  {
+    "year": 2007,
+    "country": "United States",
+    "fertility": 2.12,
+    "life_expect": 78.169998,
+    "cluster": 3
+  },
+  {
+    "year": 2008,
+    "country": "United States",
+    "fertility": 2.08,
+    "life_expect": 78.370003,
+    "cluster": 3
+  },
+  {
+    "year": 2009,
+    "country": "United States",
+    "fertility": 2.01,
+    "life_expect": 78.599998,
+    "cluster": 3
+  },
+  {
+    "year": 2010,
+    "country": "United States",
+    "fertility": 1.93,
+    "life_expect": 78.779999,
+    "cluster": 3
+  },
+  {
+    "year": 2011,
+    "country": "United States",
+    "fertility": 1.89,
+    "life_expect": 78.870003,
+    "cluster": 3
+  },
+  {
+    "year": 2012,
+    "country": "United States",
+    "fertility": 1.88,
+    "life_expect": 78.940002,
+    "cluster": 3
+  },
+  {
+    "year": 2013,
+    "country": "United States",
+    "fertility": 1.86,
+    "life_expect": 78.959999,
+    "cluster": 3
+  },
+  {
+    "year": 2014,
+    "country": "United States",
+    "fertility": 1.86,
+    "life_expect": 78.940002,
+    "cluster": 3
+  },
+  {
+    "year": 2015,
+    "country": "United States",
+    "fertility": 1.84,
+    "life_expect": 78.870003,
+    "cluster": 3
+  },
+  {
+    "year": 2016,
+    "country": "United States",
+    "fertility": 1.82,
+    "life_expect": 78.860001,
+    "cluster": 3
+  }
+]

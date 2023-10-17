@@ -1,0 +1,3691 @@
+Country,date,Cancer cases
+Japan,Jan 1 2000,1424525
+Japan,Feb 1 2000,1833653
+Japan,Mar 1 2000,1365979
+Japan,Apr 1 2000,963015
+Japan,May 1 2000,1808118
+Japan,Jun 1 2000,1437306
+Japan,Jul 1 2000,1537240
+Japan,Aug 1 2000,945248
+Japan,Sep 1 2000,1340311
+Japan,Oct 1 2000,1363526
+Japan,Nov 1 2000,1537087
+Japan,Dec 1 2000,1707674
+Japan,Jan 1 2001,1330767
+Japan,Feb 1 2001,1168154
+Japan,Mar 1 2001,1364985
+Japan,Apr 1 2001,1893073
+Japan,May 1 2001,1491089
+Japan,Jun 1 2001,1707824
+Japan,Jul 1 2001,1839359
+Japan,Aug 1 2001,1432428
+Japan,Sep 1 2001,1488695
+Japan,Oct 1 2001,1412538
+Japan,Nov 1 2001,1141651
+Japan,Dec 1 2001,1591405
+Japan,Jan 1 2002,1014176
+Japan,Feb 1 2002,1521168
+Japan,Mar 1 2002,956885
+Japan,Apr 1 2002,1190862
+Japan,May 1 2002,1030366
+Japan,Jun 1 2002,1556115
+Japan,Jul 1 2002,1833881
+Japan,Aug 1 2002,1691039
+Japan,Sep 1 2002,1709404
+Japan,Oct 1 2002,1852668
+Japan,Nov 1 2002,1728978
+Japan,Dec 1 2002,1648795
+Japan,Jan 1 2003,1548875
+Japan,Feb 1 2003,1345091
+Japan,Mar 1 2003,1414599
+Japan,Apr 1 2003,1795057
+Japan,May 1 2003,1305914
+Japan,Jun 1 2003,1891781
+Japan,Jul 1 2003,1040863
+Japan,Aug 1 2003,1225475
+Japan,Sep 1 2003,1467116
+Japan,Oct 1 2003,1276169
+Japan,Nov 1 2003,1282980
+Japan,Dec 1 2003,1495579
+Japan,Jan 1 2004,1125925
+Japan,Feb 1 2004,1385747
+Japan,Mar 1 2004,1541296
+Japan,Apr 1 2004,1378521
+Japan,May 1 2004,1063878
+Japan,Jun 1 2004,1327437
+Japan,Jul 1 2004,1261432
+Japan,Aug 1 2004,1035710
+Japan,Sep 1 2004,1251594
+Japan,Oct 1 2004,1344346
+Japan,Nov 1 2004,1580727
+Japan,Dec 1 2004,928957
+Japan,Jan 1 2005,1231420
+Japan,Feb 1 2005,1000170
+Japan,Mar 1 2005,1396439
+Japan,Apr 1 2005,1264544
+Japan,May 1 2005,1422109
+Japan,Jun 1 2005,1439211
+Japan,Jul 1 2005,1284111
+Japan,Aug 1 2005,1708065
+Japan,Sep 1 2005,1843187
+Japan,Oct 1 2005,1595345
+Japan,Nov 1 2005,919718
+Japan,Dec 1 2005,1888565
+Japan,Jan 1 2006,1597778
+Japan,Feb 1 2006,1247350
+Japan,Mar 1 2006,1022897
+Japan,Apr 1 2006,1267048
+Japan,May 1 2006,1129805
+Japan,Jun 1 2006,915126
+Japan,Jul 1 2006,1448495
+Japan,Aug 1 2006,1022456
+Japan,Sep 1 2006,1705816
+Japan,Oct 1 2006,1645316
+Japan,Nov 1 2006,1721553
+Japan,Dec 1 2006,1092428
+Japan,Jan 1 2007,1637575
+Japan,Feb 1 2007,1675880
+Japan,Mar 1 2007,1448366
+Japan,Apr 1 2007,1335971
+Japan,May 1 2007,1823417
+Japan,Jun 1 2007,1453501
+Japan,Jul 1 2007,1727032
+Japan,Aug 1 2007,979347
+Japan,Sep 1 2007,1567743
+Japan,Oct 1 2007,1661004
+Japan,Nov 1 2007,1400403
+Japan,Dec 1 2007,1677541
+Japan,Jan 1 2008,1609088
+Japan,Feb 1 2008,1038937
+Japan,Mar 1 2008,1512352
+Japan,Apr 1 2008,1552548
+Japan,May 1 2008,1855321
+Japan,Jun 1 2008,1288140
+Japan,Jul 1 2008,1479408
+Japan,Aug 1 2008,1887742
+Japan,Sep 1 2008,1042591
+Japan,Oct 1 2008,1793994
+Japan,Nov 1 2008,1540637
+Japan,Dec 1 2008,974611
+Japan,Jan 1 2009,1408391
+Japan,Feb 1 2009,1251934
+Japan,Mar 1 2009,1169616
+Japan,Apr 1 2009,1311014
+Japan,May 1 2009,1576442
+Japan,Jun 1 2009,1259533
+Japan,Jul 1 2009,1192739
+Japan,Aug 1 2009,1854689
+Japan,Sep 1 2009,1792936
+Japan,Oct 1 2009,1121554
+Japan,Nov 1 2009,1431239
+Japan,Dec 1 2009,1785659
+Japan,Jan 1 2010,1415139
+Japan,Feb 1 2010,980065
+Japan,Mar 1 2010,1174679
+Russia,Jan 1 2000,2518473
+Russia,Feb 1 2000,2701073
+Russia,Mar 1 2000,4276490
+Russia,Apr 1 2000,2053669
+Russia,May 1 2000,3222481
+Russia,Jun 1 2000,3724845
+Russia,Jul 1 2000,4078628
+Russia,Aug 1 2000,4923571
+Russia,Sep 1 2000,2798695
+Russia,Oct 1 2000,3468578
+Russia,Nov 1 2000,4408762
+Russia,Dec 1 2000,1930704
+Russia,Jan 1 2001,3052484
+Russia,Feb 1 2001,3581925
+Russia,Mar 1 2001,3268931
+Russia,Apr 1 2001,3875260
+Russia,May 1 2001,2867762
+Russia,Jun 1 2001,4912893
+Russia,Jul 1 2001,2140398
+Russia,Aug 1 2001,3530084
+Russia,Sep 1 2001,2530720
+Russia,Oct 1 2001,4653255
+Russia,Nov 1 2001,4963247
+Russia,Dec 1 2001,2867372
+Russia,Jan 1 2002,4969034
+Russia,Feb 1 2002,2378522
+Russia,Mar 1 2002,4201775
+Russia,Apr 1 2002,4006072
+Russia,May 1 2002,2602890
+Russia,Jun 1 2002,3916217
+Russia,Jul 1 2002,3531530
+Russia,Aug 1 2002,3147770
+Russia,Sep 1 2002,3738579
+Russia,Oct 1 2002,2478455
+Russia,Nov 1 2002,4626433
+Russia,Dec 1 2002,4166631
+Russia,Jan 1 2003,2308488
+Russia,Feb 1 2003,3285664
+Russia,Mar 1 2003,3890257
+Russia,Apr 1 2003,3529238
+Russia,May 1 2003,3525259
+Russia,Jun 1 2003,4818913
+Russia,Jul 1 2003,4684982
+Russia,Aug 1 2003,3142921
+Russia,Sep 1 2003,4238444
+Russia,Oct 1 2003,4201902
+Russia,Nov 1 2003,2274807
+Russia,Dec 1 2003,4674328
+Russia,Jan 1 2004,3614197
+Russia,Feb 1 2004,3143353
+Russia,Mar 1 2004,3492838
+Russia,Apr 1 2004,3984535
+Russia,May 1 2004,4724661
+Russia,Jun 1 2004,4376658
+Russia,Jul 1 2004,4484934
+Russia,Aug 1 2004,4482043
+Russia,Sep 1 2004,3796608
+Russia,Oct 1 2004,2755603
+Russia,Nov 1 2004,2122828
+Russia,Dec 1 2004,4179475
+Russia,Jan 1 2005,4271502
+Russia,Feb 1 2005,3147183
+Russia,Mar 1 2005,4165323
+Russia,Apr 1 2005,2575367
+Russia,May 1 2005,3824376
+Russia,Jun 1 2005,4255709
+Russia,Jul 1 2005,4462584
+Russia,Aug 1 2005,2014231
+Russia,Sep 1 2005,2657578
+Russia,Oct 1 2005,4490262
+Russia,Nov 1 2005,4076175
+Russia,Dec 1 2005,2358787
+Russia,Jan 1 2006,3592729
+Russia,Feb 1 2006,3335647
+Russia,Mar 1 2006,2227634
+Russia,Apr 1 2006,3999182
+Russia,May 1 2006,2598446
+Russia,Jun 1 2006,3937831
+Russia,Jul 1 2006,2178688
+Russia,Aug 1 2006,4111642
+Russia,Sep 1 2006,3282549
+Russia,Oct 1 2006,4046608
+Russia,Nov 1 2006,4733965
+Russia,Dec 1 2006,3319845
+Russia,Jan 1 2007,2511637
+Russia,Feb 1 2007,4222610
+Russia,Mar 1 2007,2702799
+Russia,Apr 1 2007,3462839
+Russia,May 1 2007,1918655
+Russia,Jun 1 2007,3464316
+Russia,Jul 1 2007,3863695
+Russia,Aug 1 2007,1946916
+Russia,Sep 1 2007,4525179
+Russia,Oct 1 2007,1978976
+Russia,Nov 1 2007,3254435
+Russia,Dec 1 2007,4688257
+Russia,Jan 1 2008,2207561
+Russia,Feb 1 2008,3353294
+Russia,Mar 1 2008,2539522
+Russia,Apr 1 2008,4303734
+Russia,May 1 2008,4446628
+Russia,Jun 1 2008,2493115
+Russia,Jul 1 2008,2700303
+Russia,Aug 1 2008,4063906
+Russia,Sep 1 2008,2737827
+Russia,Oct 1 2008,4533860
+Russia,Nov 1 2008,1986515
+Russia,Dec 1 2008,2392813
+Russia,Jan 1 2009,4097592
+Russia,Feb 1 2009,4351501
+Russia,Mar 1 2009,3950431
+Russia,Apr 1 2009,2909234
+Russia,May 1 2009,3138888
+Russia,Jun 1 2009,3256488
+Russia,Jul 1 2009,4264656
+Russia,Aug 1 2009,4733910
+Russia,Sep 1 2009,2755464
+Russia,Oct 1 2009,2040899
+Russia,Nov 1 2009,3758510
+Russia,Dec 1 2009,3927690
+Russia,Jan 1 2010,3556288
+Russia,Feb 1 2010,4843694
+Russia,Mar 1 2010,3291077
+Indonesia,Jan 1 2000,1271421
+Indonesia,Feb 1 2000,1839655
+Indonesia,Mar 1 2000,1082616
+Indonesia,Apr 1 2000,1553425
+Indonesia,May 1 2000,1058171
+Indonesia,Jun 1 2000,1271715
+Indonesia,Jul 1 2000,1804093
+Indonesia,Aug 1 2000,1541169
+Indonesia,Sep 1 2000,1479823
+Indonesia,Oct 1 2000,1764991
+Indonesia,Nov 1 2000,1428546
+Indonesia,Dec 1 2000,1461987
+Indonesia,Jan 1 2001,1321073
+Indonesia,Feb 1 2001,1382004
+Indonesia,Mar 1 2001,1065923
+Indonesia,Apr 1 2001,1515077
+Indonesia,May 1 2001,1668197
+Indonesia,Jun 1 2001,1390851
+Indonesia,Jul 1 2001,1587544
+Indonesia,Aug 1 2001,1261177
+Indonesia,Sep 1 2001,1664986
+Indonesia,Oct 1 2001,966889
+Indonesia,Nov 1 2001,1252315
+Indonesia,Dec 1 2001,1103117
+Indonesia,Jan 1 2002,1156350
+Indonesia,Feb 1 2002,1206145
+Indonesia,Mar 1 2002,1796885
+Indonesia,Apr 1 2002,1171759
+Indonesia,May 1 2002,1250910
+Indonesia,Jun 1 2002,1429266
+Indonesia,Jul 1 2002,1109874
+Indonesia,Aug 1 2002,1144996
+Indonesia,Sep 1 2002,1855969
+Indonesia,Oct 1 2002,1839722
+Indonesia,Nov 1 2002,1542436
+Indonesia,Dec 1 2002,1777613
+Indonesia,Jan 1 2003,1816840
+Indonesia,Feb 1 2003,1765178
+Indonesia,Mar 1 2003,1706526
+Indonesia,Apr 1 2003,1390767
+Indonesia,May 1 2003,1145306
+Indonesia,Jun 1 2003,1807653
+Indonesia,Jul 1 2003,1452725
+Indonesia,Aug 1 2003,1348786
+Indonesia,Sep 1 2003,1887296
+Indonesia,Oct 1 2003,1521459
+Indonesia,Nov 1 2003,1399945
+Indonesia,Dec 1 2003,1790412
+Indonesia,Jan 1 2004,1681793
+Indonesia,Feb 1 2004,982624
+Indonesia,Mar 1 2004,1047089
+Indonesia,Apr 1 2004,1743436
+Indonesia,May 1 2004,1666182
+Indonesia,Jun 1 2004,1719918
+Indonesia,Jul 1 2004,1125996
+Indonesia,Aug 1 2004,1146040
+Indonesia,Sep 1 2004,1668134
+Indonesia,Oct 1 2004,1845997
+Indonesia,Nov 1 2004,1126941
+Indonesia,Dec 1 2004,1606180
+Indonesia,Jan 1 2005,1305494
+Indonesia,Feb 1 2005,1117388
+Indonesia,Mar 1 2005,1063083
+Indonesia,Apr 1 2005,1179014
+Indonesia,May 1 2005,1501110
+Indonesia,Jun 1 2005,1208059
+Indonesia,Jul 1 2005,930751
+Indonesia,Aug 1 2005,1361621
+Indonesia,Sep 1 2005,1457382
+Indonesia,Oct 1 2005,990805
+Indonesia,Nov 1 2005,1493294
+Indonesia,Dec 1 2005,1433281
+Indonesia,Jan 1 2006,1160108
+Indonesia,Feb 1 2006,1145742
+Indonesia,Mar 1 2006,1424951
+Indonesia,Apr 1 2006,1217722
+Indonesia,May 1 2006,1086935
+Indonesia,Jun 1 2006,1391359
+Indonesia,Jul 1 2006,1242902
+Indonesia,Aug 1 2006,912273
+Indonesia,Sep 1 2006,1870010
+Indonesia,Oct 1 2006,1889014
+Indonesia,Nov 1 2006,1684697
+Indonesia,Dec 1 2006,1282160
+Indonesia,Jan 1 2007,1112381
+Indonesia,Feb 1 2007,1402876
+Indonesia,Mar 1 2007,1701045
+Indonesia,Apr 1 2007,1852174
+Indonesia,May 1 2007,1839218
+Indonesia,Jun 1 2007,1850730
+Indonesia,Jul 1 2007,1333323
+Indonesia,Aug 1 2007,1778377
+Indonesia,Sep 1 2007,1494673
+Indonesia,Oct 1 2007,1510403
+Indonesia,Nov 1 2007,1683135
+Indonesia,Dec 1 2007,1068877
+Indonesia,Jan 1 2008,1647722
+Indonesia,Feb 1 2008,1038703
+Indonesia,Mar 1 2008,1576362
+Indonesia,Apr 1 2008,1321079
+Indonesia,May 1 2008,1561234
+Indonesia,Jun 1 2008,1671447
+Indonesia,Jul 1 2008,1359822
+Indonesia,Aug 1 2008,1823966
+Indonesia,Sep 1 2008,1197285
+Indonesia,Oct 1 2008,1271976
+Indonesia,Nov 1 2008,1512102
+Indonesia,Dec 1 2008,1377122
+Indonesia,Jan 1 2009,1554006
+Indonesia,Feb 1 2009,1480875
+Indonesia,Mar 1 2009,1212433
+Indonesia,Apr 1 2009,1117550
+Indonesia,May 1 2009,1436914
+Indonesia,Jun 1 2009,1345287
+Indonesia,Jul 1 2009,1210060
+Indonesia,Aug 1 2009,1281790
+Indonesia,Sep 1 2009,1271529
+Indonesia,Oct 1 2009,969981
+Indonesia,Nov 1 2009,1301561
+Indonesia,Dec 1 2009,1105982
+Indonesia,Jan 1 2010,1573407
+Indonesia,Feb 1 2010,1164577
+Indonesia,Mar 1 2010,1456673
+Spain,Jan 1 2000,1251457
+Spain,Feb 1 2000,1264476
+Spain,Mar 1 2000,1211991
+Spain,Apr 1 2000,1350600
+Spain,May 1 2000,1736771
+Spain,Jun 1 2000,1059849
+Spain,Jul 1 2000,1300287
+Spain,Aug 1 2000,1547668
+Spain,Sep 1 2000,1659702
+Spain,Oct 1 2000,1253245
+Spain,Nov 1 2000,918394
+Spain,Dec 1 2000,1464494
+Spain,Jan 1 2001,1805752
+Spain,Feb 1 2001,1772258
+Spain,Mar 1 2001,1436931
+Spain,Apr 1 2001,1463693
+Spain,May 1 2001,1086550
+Spain,Jun 1 2001,1241968
+Spain,Jul 1 2001,1291682
+Spain,Aug 1 2001,1365305
+Spain,Sep 1 2001,1793121
+Spain,Oct 1 2001,1674325
+Spain,Nov 1 2001,1519679
+Spain,Dec 1 2001,1224027
+Spain,Jan 1 2002,1263241
+Spain,Feb 1 2002,1370188
+Spain,Mar 1 2002,1196408
+Spain,Apr 1 2002,1337897
+Spain,May 1 2002,913005
+Spain,Jun 1 2002,1101898
+Spain,Jul 1 2002,1190567
+Spain,Aug 1 2002,1151923
+Spain,Sep 1 2002,1645189
+Spain,Oct 1 2002,1861984
+Spain,Nov 1 2002,1163010
+Spain,Dec 1 2002,1283031
+Spain,Jan 1 2003,948092
+Spain,Feb 1 2003,1256652
+Spain,Mar 1 2003,1325067
+Spain,Apr 1 2003,1016105
+Spain,May 1 2003,1499894
+Spain,Jun 1 2003,1774239
+Spain,Jul 1 2003,1073304
+Spain,Aug 1 2003,1708741
+Spain,Sep 1 2003,1884654
+Spain,Oct 1 2003,984103
+Spain,Nov 1 2003,1535227
+Spain,Dec 1 2003,1645163
+Spain,Jan 1 2004,1426937
+Spain,Feb 1 2004,927747
+Spain,Mar 1 2004,1526114
+Spain,Apr 1 2004,982096
+Spain,May 1 2004,1550400
+Spain,Jun 1 2004,1740751
+Spain,Jul 1 2004,1827394
+Spain,Aug 1 2004,1680853
+Spain,Sep 1 2004,1723139
+Spain,Oct 1 2004,1762781
+Spain,Nov 1 2004,1091282
+Spain,Dec 1 2004,1413257
+Spain,Jan 1 2005,1566296
+Spain,Feb 1 2005,966249
+Spain,Mar 1 2005,1438396
+Spain,Apr 1 2005,1569958
+Spain,May 1 2005,1191062
+Spain,Jun 1 2005,1284195
+Spain,Jul 1 2005,980788
+Spain,Aug 1 2005,1453705
+Spain,Sep 1 2005,1360454
+Spain,Oct 1 2005,1096812
+Spain,Nov 1 2005,1179452
+Spain,Dec 1 2005,913415
+Spain,Jan 1 2006,1025690
+Spain,Feb 1 2006,1394702
+Spain,Mar 1 2006,1590332
+Spain,Apr 1 2006,1237672
+Spain,May 1 2006,1511461
+Spain,Jun 1 2006,1467620
+Spain,Jul 1 2006,1012565
+Spain,Aug 1 2006,1773745
+Spain,Sep 1 2006,1682158
+Spain,Oct 1 2006,1851693
+Spain,Nov 1 2006,1472974
+Spain,Dec 1 2006,1832497
+Spain,Jan 1 2007,1493499
+Spain,Feb 1 2007,1134008
+Spain,Mar 1 2007,1333073
+Spain,Apr 1 2007,1796586
+Spain,May 1 2007,1425528
+Spain,Jun 1 2007,1614931
+Spain,Jul 1 2007,927585
+Spain,Aug 1 2007,1344639
+Spain,Sep 1 2007,1302271
+Spain,Oct 1 2007,1656675
+Spain,Nov 1 2007,1657442
+Spain,Dec 1 2007,1110582
+Spain,Jan 1 2008,1727527
+Spain,Feb 1 2008,1815568
+Spain,Mar 1 2008,1628270
+Spain,Apr 1 2008,1079865
+Spain,May 1 2008,1340240
+Spain,Jun 1 2008,1051780
+Spain,Jul 1 2008,1556895
+Spain,Aug 1 2008,1677068
+Spain,Sep 1 2008,1429649
+Spain,Oct 1 2008,1053735
+Spain,Nov 1 2008,1225357
+Spain,Dec 1 2008,1139500
+Spain,Jan 1 2009,998807
+Spain,Feb 1 2009,1864200
+Spain,Mar 1 2009,1066259
+Spain,Apr 1 2009,1086421
+Spain,May 1 2009,1457837
+Spain,Jun 1 2009,1424725
+Spain,Jul 1 2009,1566313
+Spain,Aug 1 2009,1781775
+Spain,Sep 1 2009,1218844
+Spain,Oct 1 2009,1329611
+Spain,Nov 1 2009,1756194
+Spain,Dec 1 2009,1781252
+Spain,Jan 1 2010,1865200
+Spain,Feb 1 2010,1057589
+Spain,Mar 1 2010,1615670
+Philippines,Jan 1 2000,1221983
+Philippines,Feb 1 2000,1864258
+Philippines,Mar 1 2000,1619730
+Philippines,Apr 1 2000,1537374
+Philippines,May 1 2000,1039665
+Philippines,Jun 1 2000,1719100
+Philippines,Jul 1 2000,1692581
+Philippines,Aug 1 2000,1506255
+Philippines,Sep 1 2000,1445170
+Philippines,Oct 1 2000,1517362
+Philippines,Nov 1 2000,1726839
+Philippines,Dec 1 2000,1594001
+Philippines,Jan 1 2001,1731868
+Philippines,Feb 1 2001,1064922
+Philippines,Mar 1 2001,1718240
+Philippines,Apr 1 2001,1287304
+Philippines,May 1 2001,1667617
+Philippines,Jun 1 2001,1569677
+Philippines,Jul 1 2001,1051930
+Philippines,Aug 1 2001,1086309
+Philippines,Sep 1 2001,1708012
+Philippines,Oct 1 2001,1556704
+Philippines,Nov 1 2001,1393119
+Philippines,Dec 1 2001,1754149
+Philippines,Jan 1 2002,1184800
+Philippines,Feb 1 2002,1384033
+Philippines,Mar 1 2002,1165132
+Philippines,Apr 1 2002,1086761
+Philippines,May 1 2002,921925
+Philippines,Jun 1 2002,1471437
+Philippines,Jul 1 2002,1343167
+Philippines,Aug 1 2002,1349416
+Philippines,Sep 1 2002,1876814
+Philippines,Oct 1 2002,1036868
+Philippines,Nov 1 2002,1619849
+Philippines,Dec 1 2002,1599794
+Philippines,Jan 1 2003,1321043
+Philippines,Feb 1 2003,1779647
+Philippines,Mar 1 2003,1599309
+Philippines,Apr 1 2003,1015007
+Philippines,May 1 2003,1171753
+Philippines,Jun 1 2003,1107658
+Philippines,Jul 1 2003,914917
+Philippines,Aug 1 2003,1177865
+Philippines,Sep 1 2003,1072428
+Philippines,Oct 1 2003,1632474
+Philippines,Nov 1 2003,1639206
+Philippines,Dec 1 2003,1518806
+Philippines,Jan 1 2004,1787248
+Philippines,Feb 1 2004,1234155
+Philippines,Mar 1 2004,1290649
+Philippines,Apr 1 2004,1218839
+Philippines,May 1 2004,1293718
+Philippines,Jun 1 2004,1539314
+Philippines,Jul 1 2004,1458271
+Philippines,Aug 1 2004,1871405
+Philippines,Sep 1 2004,1445271
+Philippines,Oct 1 2004,1761397
+Philippines,Nov 1 2004,1745917
+Philippines,Dec 1 2004,1635784
+Philippines,Jan 1 2005,1759804
+Philippines,Feb 1 2005,1291244
+Philippines,Mar 1 2005,1148622
+Philippines,Apr 1 2005,1255896
+Philippines,May 1 2005,1087861
+Philippines,Jun 1 2005,1816143
+Philippines,Jul 1 2005,1072340
+Philippines,Aug 1 2005,1113459
+Philippines,Sep 1 2005,1094440
+Philippines,Oct 1 2005,1459253
+Philippines,Nov 1 2005,1553099
+Philippines,Dec 1 2005,1016850
+Philippines,Jan 1 2006,1343869
+Philippines,Feb 1 2006,1405748
+Philippines,Mar 1 2006,1890659
+Philippines,Apr 1 2006,1523206
+Philippines,May 1 2006,1314975
+Philippines,Jun 1 2006,1418415
+Philippines,Jul 1 2006,1791988
+Philippines,Aug 1 2006,1323971
+Philippines,Sep 1 2006,1295249
+Philippines,Oct 1 2006,1248744
+Philippines,Nov 1 2006,1199957
+Philippines,Dec 1 2006,1750222
+Philippines,Jan 1 2007,1182372
+Philippines,Feb 1 2007,1444833
+Philippines,Mar 1 2007,1008511
+Philippines,Apr 1 2007,942334
+Philippines,May 1 2007,1841624
+Philippines,Jun 1 2007,928483
+Philippines,Jul 1 2007,1645335
+Philippines,Aug 1 2007,1348221
+Philippines,Sep 1 2007,1789778
+Philippines,Oct 1 2007,1195464
+Philippines,Nov 1 2007,1268108
+Philippines,Dec 1 2007,1665741
+Philippines,Jan 1 2008,1171063
+Philippines,Feb 1 2008,1422330
+Philippines,Mar 1 2008,1525825
+Philippines,Apr 1 2008,1173339
+Philippines,May 1 2008,1659141
+Philippines,Jun 1 2008,1252105
+Philippines,Jul 1 2008,1240809
+Philippines,Aug 1 2008,1706462
+Philippines,Sep 1 2008,1198420
+Philippines,Oct 1 2008,1898000
+Philippines,Nov 1 2008,1564719
+Philippines,Dec 1 2008,1452717
+Philippines,Jan 1 2009,1440424
+Philippines,Feb 1 2009,1533358
+Philippines,Mar 1 2009,1669543
+Philippines,Apr 1 2009,1615937
+Philippines,May 1 2009,1821222
+Philippines,Jun 1 2009,1843566
+Philippines,Jul 1 2009,1423138
+Philippines,Aug 1 2009,1055066
+Philippines,Sep 1 2009,1245411
+Philippines,Oct 1 2009,1416046
+Philippines,Nov 1 2009,1599376
+Philippines,Dec 1 2009,1400825
+Philippines,Jan 1 2010,1617685
+Philippines,Feb 1 2010,1128101
+Philippines,Mar 1 2010,1217025
+Chile,Jan 1 2000,589468
+Chile,Feb 1 2000,548403
+Chile,Mar 1 2000,475168
+Chile,Apr 1 2000,257559
+Chile,May 1 2000,267916
+Chile,Jun 1 2000,560142
+Chile,Jul 1 2000,304975
+Chile,Aug 1 2000,205245
+Chile,Sep 1 2000,428952
+Chile,Oct 1 2000,577900
+Chile,Nov 1 2000,278845
+Chile,Dec 1 2000,442042
+Chile,Jan 1 2001,393545
+Chile,Feb 1 2001,220401
+Chile,Mar 1 2001,380861
+Chile,Apr 1 2001,400898
+Chile,May 1 2001,201829
+Chile,Jun 1 2001,381507
+Chile,Jul 1 2001,365778
+Chile,Aug 1 2001,259372
+Chile,Sep 1 2001,283758
+Chile,Oct 1 2001,423117
+Chile,Nov 1 2001,525739
+Chile,Dec 1 2001,338722
+Chile,Jan 1 2002,497513
+Chile,Feb 1 2002,493271
+Chile,Mar 1 2002,578982
+Chile,Apr 1 2002,594682
+Chile,May 1 2002,548790
+Chile,Jun 1 2002,524418
+Chile,Jul 1 2002,361055
+Chile,Aug 1 2002,463448
+Chile,Sep 1 2002,291361
+Chile,Oct 1 2002,475888
+Chile,Nov 1 2002,263879
+Chile,Dec 1 2002,217550
+Chile,Jan 1 2003,577685
+Chile,Feb 1 2003,463174
+Chile,Mar 1 2003,416553
+Chile,Apr 1 2003,494567
+Chile,May 1 2003,400523
+Chile,Jun 1 2003,566058
+Chile,Jul 1 2003,582851
+Chile,Aug 1 2003,464125
+Chile,Sep 1 2003,420826
+Chile,Oct 1 2003,255144
+Chile,Nov 1 2003,456221
+Chile,Dec 1 2003,282417
+Chile,Jan 1 2004,299094
+Chile,Feb 1 2004,460090
+Chile,Mar 1 2004,449996
+Chile,Apr 1 2004,420440
+Chile,May 1 2004,507820
+Chile,Jun 1 2004,396101
+Chile,Jul 1 2004,351495
+Chile,Aug 1 2004,520706
+Chile,Sep 1 2004,470367
+Chile,Oct 1 2004,330521
+Chile,Nov 1 2004,402374
+Chile,Dec 1 2004,547292
+Chile,Jan 1 2005,520514
+Chile,Feb 1 2005,339286
+Chile,Mar 1 2005,502165
+Chile,Apr 1 2005,504699
+Chile,May 1 2005,507702
+Chile,Jun 1 2005,429247
+Chile,Jul 1 2005,289642
+Chile,Aug 1 2005,225515
+Chile,Sep 1 2005,222343
+Chile,Oct 1 2005,399772
+Chile,Nov 1 2005,583994
+Chile,Dec 1 2005,203508
+Chile,Jan 1 2006,516459
+Chile,Feb 1 2006,366464
+Chile,Mar 1 2006,484911
+Chile,Apr 1 2006,301114
+Chile,May 1 2006,488906
+Chile,Jun 1 2006,374750
+Chile,Jul 1 2006,312467
+Chile,Aug 1 2006,474121
+Chile,Sep 1 2006,412365
+Chile,Oct 1 2006,441081
+Chile,Nov 1 2006,502768
+Chile,Dec 1 2006,563742
+Chile,Jan 1 2007,242422
+Chile,Feb 1 2007,563548
+Chile,Mar 1 2007,306372
+Chile,Apr 1 2007,231557
+Chile,May 1 2007,380425
+Chile,Jun 1 2007,532431
+Chile,Jul 1 2007,366099
+Chile,Aug 1 2007,576297
+Chile,Sep 1 2007,542626
+Chile,Oct 1 2007,526558
+Chile,Nov 1 2007,307699
+Chile,Dec 1 2007,448056
+Chile,Jan 1 2008,475417
+Chile,Feb 1 2008,344026
+Chile,Mar 1 2008,516089
+Chile,Apr 1 2008,360497
+Chile,May 1 2008,443393
+Chile,Jun 1 2008,452528
+Chile,Jul 1 2008,443819
+Chile,Aug 1 2008,562836
+Chile,Sep 1 2008,387430
+Chile,Oct 1 2008,284356
+Chile,Nov 1 2008,272942
+Chile,Dec 1 2008,281034
+Chile,Jan 1 2009,343880
+Chile,Feb 1 2009,480580
+Chile,Mar 1 2009,437329
+Chile,Apr 1 2009,581512
+Chile,May 1 2009,575151
+Chile,Jun 1 2009,306934
+Chile,Jul 1 2009,463675
+Chile,Aug 1 2009,253083
+Chile,Sep 1 2009,397932
+Chile,Oct 1 2009,359364
+Chile,Nov 1 2009,376299
+Chile,Dec 1 2009,297222
+Chile,Jan 1 2010,240044
+Chile,Feb 1 2010,595920
+Chile,Mar 1 2010,490821
+Nigeria,Jan 1 2000,930430
+Nigeria,Feb 1 2000,1708457
+Nigeria,Mar 1 2000,1810842
+Nigeria,Apr 1 2000,1211794
+Nigeria,May 1 2000,1442434
+Nigeria,Jun 1 2000,1169278
+Nigeria,Jul 1 2000,1738815
+Nigeria,Aug 1 2000,1742464
+Nigeria,Sep 1 2000,1360795
+Nigeria,Oct 1 2000,1165391
+Nigeria,Nov 1 2000,938258
+Nigeria,Dec 1 2000,1209932
+Nigeria,Jan 1 2001,1337491
+Nigeria,Feb 1 2001,1852864
+Nigeria,Mar 1 2001,1175305
+Nigeria,Apr 1 2001,1677400
+Nigeria,May 1 2001,1664304
+Nigeria,Jun 1 2001,1467360
+Nigeria,Jul 1 2001,1669237
+Nigeria,Aug 1 2001,1075391
+Nigeria,Sep 1 2001,1539452
+Nigeria,Oct 1 2001,1791954
+Nigeria,Nov 1 2001,1365703
+Nigeria,Dec 1 2001,1787079
+Nigeria,Jan 1 2002,1504023
+Nigeria,Feb 1 2002,1421519
+Nigeria,Mar 1 2002,1468098
+Nigeria,Apr 1 2002,1593337
+Nigeria,May 1 2002,1488513
+Nigeria,Jun 1 2002,1248956
+Nigeria,Jul 1 2002,1710780
+Nigeria,Aug 1 2002,1715554
+Nigeria,Sep 1 2002,1085149
+Nigeria,Oct 1 2002,1445741
+Nigeria,Nov 1 2002,1619052
+Nigeria,Dec 1 2002,1781058
+Nigeria,Jan 1 2003,1203512
+Nigeria,Feb 1 2003,1318183
+Nigeria,Mar 1 2003,1485704
+Nigeria,Apr 1 2003,1644496
+Nigeria,May 1 2003,1260921
+Nigeria,Jun 1 2003,1260952
+Nigeria,Jul 1 2003,1142350
+Nigeria,Aug 1 2003,1249556
+Nigeria,Sep 1 2003,1496102
+Nigeria,Oct 1 2003,1202965
+Nigeria,Nov 1 2003,1118710
+Nigeria,Dec 1 2003,1174569
+Nigeria,Jan 1 2004,1152860
+Nigeria,Feb 1 2004,1885102
+Nigeria,Mar 1 2004,920640
+Nigeria,Apr 1 2004,1123981
+Nigeria,May 1 2004,1882557
+Nigeria,Jun 1 2004,1645946
+Nigeria,Jul 1 2004,1456163
+Nigeria,Aug 1 2004,1406811
+Nigeria,Sep 1 2004,961655
+Nigeria,Oct 1 2004,1821248
+Nigeria,Nov 1 2004,1000049
+Nigeria,Dec 1 2004,1539664
+Nigeria,Jan 1 2005,1627411
+Nigeria,Feb 1 2005,1395349
+Nigeria,Mar 1 2005,1633776
+Nigeria,Apr 1 2005,1379469
+Nigeria,May 1 2005,918741
+Nigeria,Jun 1 2005,1683056
+Nigeria,Jul 1 2005,1604753
+Nigeria,Aug 1 2005,1086835
+Nigeria,Sep 1 2005,1073862
+Nigeria,Oct 1 2005,1558984
+Nigeria,Nov 1 2005,1876061
+Nigeria,Dec 1 2005,1170824
+Nigeria,Jan 1 2006,1740362
+Nigeria,Feb 1 2006,1086922
+Nigeria,Mar 1 2006,1617045
+Nigeria,Apr 1 2006,1253788
+Nigeria,May 1 2006,1898680
+Nigeria,Jun 1 2006,1468920
+Nigeria,Jul 1 2006,1028740
+Nigeria,Aug 1 2006,1130657
+Nigeria,Sep 1 2006,1534579
+Nigeria,Oct 1 2006,1848056
+Nigeria,Nov 1 2006,1237762
+Nigeria,Dec 1 2006,1873827
+Nigeria,Jan 1 2007,1840164
+Nigeria,Feb 1 2007,1031596
+Nigeria,Mar 1 2007,1617139
+Nigeria,Apr 1 2007,1498318
+Nigeria,May 1 2007,1319277
+Nigeria,Jun 1 2007,1604658
+Nigeria,Jul 1 2007,1178498
+Nigeria,Aug 1 2007,1529670
+Nigeria,Sep 1 2007,1159314
+Nigeria,Oct 1 2007,1395570
+Nigeria,Nov 1 2007,1164135
+Nigeria,Dec 1 2007,1350512
+Nigeria,Jan 1 2008,1121947
+Nigeria,Feb 1 2008,1033067
+Nigeria,Mar 1 2008,1168014
+Nigeria,Apr 1 2008,1469558
+Nigeria,May 1 2008,1656762
+Nigeria,Jun 1 2008,916307
+Nigeria,Jul 1 2008,1686656
+Nigeria,Aug 1 2008,925557
+Nigeria,Sep 1 2008,1033048
+Nigeria,Oct 1 2008,1802673
+Nigeria,Nov 1 2008,1048232
+Nigeria,Dec 1 2008,1633870
+Nigeria,Jan 1 2009,1846456
+Nigeria,Feb 1 2009,1858297
+Nigeria,Mar 1 2009,1396721
+Nigeria,Apr 1 2009,912686
+Nigeria,May 1 2009,1435766
+Nigeria,Jun 1 2009,1615126
+Nigeria,Jul 1 2009,998989
+Nigeria,Aug 1 2009,1891568
+Nigeria,Sep 1 2009,1226928
+Nigeria,Oct 1 2009,1367150
+Nigeria,Nov 1 2009,1534813
+Nigeria,Dec 1 2009,1796448
+Nigeria,Jan 1 2010,1264847
+Nigeria,Feb 1 2010,1002340
+Nigeria,Mar 1 2010,1687796
+Thailand,Jan 1 2000,1819071
+Thailand,Feb 1 2000,1381589
+Thailand,Mar 1 2000,1212629
+Thailand,Apr 1 2000,1173945
+Thailand,May 1 2000,977910
+Thailand,Jun 1 2000,1398755
+Thailand,Jul 1 2000,1814889
+Thailand,Aug 1 2000,1083843
+Thailand,Sep 1 2000,1798912
+Thailand,Oct 1 2000,1460498
+Thailand,Nov 1 2000,1733423
+Thailand,Dec 1 2000,1644245
+Thailand,Jan 1 2001,1298042
+Thailand,Feb 1 2001,1075365
+Thailand,Mar 1 2001,922799
+Thailand,Apr 1 2001,1039005
+Thailand,May 1 2001,1641058
+Thailand,Jun 1 2001,1468809
+Thailand,Jul 1 2001,1191468
+Thailand,Aug 1 2001,1883858
+Thailand,Sep 1 2001,1048050
+Thailand,Oct 1 2001,1243196
+Thailand,Nov 1 2001,1332416
+Thailand,Dec 1 2001,1514274
+Thailand,Jan 1 2002,1098879
+Thailand,Feb 1 2002,1339689
+Thailand,Mar 1 2002,1676288
+Thailand,Apr 1 2002,986869
+Thailand,May 1 2002,1079667
+Thailand,Jun 1 2002,1393733
+Thailand,Jul 1 2002,1824496
+Thailand,Aug 1 2002,1567410
+Thailand,Sep 1 2002,1752162
+Thailand,Oct 1 2002,1093342
+Thailand,Nov 1 2002,1031268
+Thailand,Dec 1 2002,1839387
+Thailand,Jan 1 2003,1219987
+Thailand,Feb 1 2003,1406867
+Thailand,Mar 1 2003,1631800
+Thailand,Apr 1 2003,1593742
+Thailand,May 1 2003,1443751
+Thailand,Jun 1 2003,1667450
+Thailand,Jul 1 2003,1843482
+Thailand,Aug 1 2003,1498814
+Thailand,Sep 1 2003,1019104
+Thailand,Oct 1 2003,1320445
+Thailand,Nov 1 2003,1534599
+Thailand,Dec 1 2003,1085633
+Thailand,Jan 1 2004,1551163
+Thailand,Feb 1 2004,918342
+Thailand,Mar 1 2004,1123254
+Thailand,Apr 1 2004,1210798
+Thailand,May 1 2004,1304291
+Thailand,Jun 1 2004,1806949
+Thailand,Jul 1 2004,1259275
+Thailand,Aug 1 2004,1357048
+Thailand,Sep 1 2004,1414638
+Thailand,Oct 1 2004,948525
+Thailand,Nov 1 2004,1712040
+Thailand,Dec 1 2004,1301185
+Thailand,Jan 1 2005,1729514
+Thailand,Feb 1 2005,1216169
+Thailand,Mar 1 2005,1028029
+Thailand,Apr 1 2005,1636601
+Thailand,May 1 2005,945486
+Thailand,Jun 1 2005,1722923
+Thailand,Jul 1 2005,1116291
+Thailand,Aug 1 2005,1226138
+Thailand,Sep 1 2005,1100806
+Thailand,Oct 1 2005,1892747
+Thailand,Nov 1 2005,1895672
+Thailand,Dec 1 2005,1394696
+Thailand,Jan 1 2006,1257360
+Thailand,Feb 1 2006,1291101
+Thailand,Mar 1 2006,905947
+Thailand,Apr 1 2006,1715363
+Thailand,May 1 2006,1152079
+Thailand,Jun 1 2006,1149111
+Thailand,Jul 1 2006,1727959
+Thailand,Aug 1 2006,1638824
+Thailand,Sep 1 2006,1848560
+Thailand,Oct 1 2006,1242193
+Thailand,Nov 1 2006,1316425
+Thailand,Dec 1 2006,1457602
+Thailand,Jan 1 2007,1335608
+Thailand,Feb 1 2007,1187600
+Thailand,Mar 1 2007,1114869
+Thailand,Apr 1 2007,1117048
+Thailand,May 1 2007,989507
+Thailand,Jun 1 2007,911684
+Thailand,Jul 1 2007,1264137
+Thailand,Aug 1 2007,1446364
+Thailand,Sep 1 2007,1167242
+Thailand,Oct 1 2007,1800155
+Thailand,Nov 1 2007,1447359
+Thailand,Dec 1 2007,1685412
+Thailand,Jan 1 2008,1288147
+Thailand,Feb 1 2008,1353367
+Thailand,Mar 1 2008,1145544
+Thailand,Apr 1 2008,1769949
+Thailand,May 1 2008,1050222
+Thailand,Jun 1 2008,1175954
+Thailand,Jul 1 2008,1324502
+Thailand,Aug 1 2008,1120123
+Thailand,Sep 1 2008,1610191
+Thailand,Oct 1 2008,1179823
+Thailand,Nov 1 2008,1317958
+Thailand,Dec 1 2008,1645403
+Thailand,Jan 1 2009,1898185
+Thailand,Feb 1 2009,1772990
+Thailand,Mar 1 2009,1209430
+Thailand,Apr 1 2009,957855
+Thailand,May 1 2009,1758919
+Thailand,Jun 1 2009,1893415
+Thailand,Jul 1 2009,1722284
+Thailand,Aug 1 2009,1166104
+Thailand,Sep 1 2009,1897267
+Thailand,Oct 1 2009,1147820
+Thailand,Nov 1 2009,1250537
+Thailand,Dec 1 2009,1809948
+Thailand,Jan 1 2010,935417
+Thailand,Feb 1 2010,1722018
+Thailand,Mar 1 2010,1635103
+Greece,Jan 1 2000,281393
+Greece,Feb 1 2000,268723
+Greece,Mar 1 2000,571675
+Greece,Apr 1 2000,521709
+Greece,May 1 2000,298981
+Greece,Jun 1 2000,348398
+Greece,Jul 1 2000,443814
+Greece,Aug 1 2000,421598
+Greece,Sep 1 2000,467849
+Greece,Oct 1 2000,204497
+Greece,Nov 1 2000,316351
+Greece,Dec 1 2000,226339
+Greece,Jan 1 2001,564817
+Greece,Feb 1 2001,226820
+Greece,Mar 1 2001,302498
+Greece,Apr 1 2001,570980
+Greece,May 1 2001,323765
+Greece,Jun 1 2001,396818
+Greece,Jul 1 2001,260501
+Greece,Aug 1 2001,437164
+Greece,Sep 1 2001,291859
+Greece,Oct 1 2001,503611
+Greece,Nov 1 2001,351648
+Greece,Dec 1 2001,493602
+Greece,Jan 1 2002,510645
+Greece,Feb 1 2002,466984
+Greece,Mar 1 2002,577387
+Greece,Apr 1 2002,315355
+Greece,May 1 2002,311424
+Greece,Jun 1 2002,296133
+Greece,Jul 1 2002,217781
+Greece,Aug 1 2002,359348
+Greece,Sep 1 2002,442500
+Greece,Oct 1 2002,442721
+Greece,Nov 1 2002,393364
+Greece,Dec 1 2002,413845
+Greece,Jan 1 2003,304755
+Greece,Feb 1 2003,221093
+Greece,Mar 1 2003,542441
+Greece,Apr 1 2003,542978
+Greece,May 1 2003,262819
+Greece,Jun 1 2003,205176
+Greece,Jul 1 2003,240347
+Greece,Aug 1 2003,313086
+Greece,Sep 1 2003,205980
+Greece,Oct 1 2003,395699
+Greece,Nov 1 2003,475054
+Greece,Dec 1 2003,284315
+Greece,Jan 1 2004,202634
+Greece,Feb 1 2004,584056
+Greece,Mar 1 2004,246477
+Greece,Apr 1 2004,498945
+Greece,May 1 2004,473168
+Greece,Jun 1 2004,523707
+Greece,Jul 1 2004,266540
+Greece,Aug 1 2004,555591
+Greece,Sep 1 2004,400612
+Greece,Oct 1 2004,537522
+Greece,Nov 1 2004,453605
+Greece,Dec 1 2004,389392
+Greece,Jan 1 2005,363119
+Greece,Feb 1 2005,204154
+Greece,Mar 1 2005,379007
+Greece,Apr 1 2005,355617
+Greece,May 1 2005,514070
+Greece,Jun 1 2005,461038
+Greece,Jul 1 2005,444989
+Greece,Aug 1 2005,596929
+Greece,Sep 1 2005,599173
+Greece,Oct 1 2005,294435
+Greece,Nov 1 2005,488559
+Greece,Dec 1 2005,463502
+Greece,Jan 1 2006,528957
+Greece,Feb 1 2006,249822
+Greece,Mar 1 2006,354732
+Greece,Apr 1 2006,413133
+Greece,May 1 2006,334135
+Greece,Jun 1 2006,560619
+Greece,Jul 1 2006,373330
+Greece,Aug 1 2006,351347
+Greece,Sep 1 2006,485468
+Greece,Oct 1 2006,539972
+Greece,Nov 1 2006,452219
+Greece,Dec 1 2006,520676
+Greece,Jan 1 2007,561786
+Greece,Feb 1 2007,488874
+Greece,Mar 1 2007,354336
+Greece,Apr 1 2007,412409
+Greece,May 1 2007,312200
+Greece,Jun 1 2007,293420
+Greece,Jul 1 2007,211231
+Greece,Aug 1 2007,389778
+Greece,Sep 1 2007,418075
+Greece,Oct 1 2007,570410
+Greece,Nov 1 2007,384758
+Greece,Dec 1 2007,548747
+Greece,Jan 1 2008,413594
+Greece,Feb 1 2008,442541
+Greece,Mar 1 2008,464605
+Greece,Apr 1 2008,270824
+Greece,May 1 2008,577184
+Greece,Jun 1 2008,313578
+Greece,Jul 1 2008,402549
+Greece,Aug 1 2008,231496
+Greece,Sep 1 2008,557938
+Greece,Oct 1 2008,505702
+Greece,Nov 1 2008,501366
+Greece,Dec 1 2008,238339
+Greece,Jan 1 2009,449041
+Greece,Feb 1 2009,524106
+Greece,Mar 1 2009,245634
+Greece,Apr 1 2009,289627
+Greece,May 1 2009,315953
+Greece,Jun 1 2009,369487
+Greece,Jul 1 2009,556357
+Greece,Aug 1 2009,521181
+Greece,Sep 1 2009,274382
+Greece,Oct 1 2009,525960
+Greece,Nov 1 2009,249177
+Greece,Dec 1 2009,320151
+Greece,Jan 1 2010,461424
+Greece,Feb 1 2010,496075
+Greece,Mar 1 2010,273526
+Belgium,Jan 1 2000,349627
+Belgium,Feb 1 2000,554097
+Belgium,Mar 1 2000,475369
+Belgium,Apr 1 2000,430331
+Belgium,May 1 2000,356343
+Belgium,Jun 1 2000,274135
+Belgium,Jul 1 2000,551312
+Belgium,Aug 1 2000,385012
+Belgium,Sep 1 2000,387815
+Belgium,Oct 1 2000,453404
+Belgium,Nov 1 2000,441818
+Belgium,Dec 1 2000,287864
+Belgium,Jan 1 2001,433785
+Belgium,Feb 1 2001,291816
+Belgium,Mar 1 2001,448099
+Belgium,Apr 1 2001,362169
+Belgium,May 1 2001,516954
+Belgium,Jun 1 2001,245879
+Belgium,Jul 1 2001,530002
+Belgium,Aug 1 2001,488193
+Belgium,Sep 1 2001,558016
+Belgium,Oct 1 2001,324129
+Belgium,Nov 1 2001,247690
+Belgium,Dec 1 2001,392449
+Belgium,Jan 1 2002,386107
+Belgium,Feb 1 2002,209389
+Belgium,Mar 1 2002,324078
+Belgium,Apr 1 2002,294266
+Belgium,May 1 2002,304392
+Belgium,Jun 1 2002,235557
+Belgium,Jul 1 2002,215063
+Belgium,Aug 1 2002,294479
+Belgium,Sep 1 2002,545533
+Belgium,Oct 1 2002,455506
+Belgium,Nov 1 2002,272060
+Belgium,Dec 1 2002,490332
+Belgium,Jan 1 2003,381281
+Belgium,Feb 1 2003,223108
+Belgium,Mar 1 2003,599468
+Belgium,Apr 1 2003,584630
+Belgium,May 1 2003,402024
+Belgium,Jun 1 2003,449741
+Belgium,Jul 1 2003,477663
+Belgium,Aug 1 2003,524410
+Belgium,Sep 1 2003,505812
+Belgium,Oct 1 2003,466956
+Belgium,Nov 1 2003,579304
+Belgium,Dec 1 2003,544282
+Belgium,Jan 1 2004,321928
+Belgium,Feb 1 2004,206289
+Belgium,Mar 1 2004,357571
+Belgium,Apr 1 2004,223162
+Belgium,May 1 2004,273226
+Belgium,Jun 1 2004,268267
+Belgium,Jul 1 2004,561295
+Belgium,Aug 1 2004,448339
+Belgium,Sep 1 2004,513495
+Belgium,Oct 1 2004,320614
+Belgium,Nov 1 2004,319153
+Belgium,Dec 1 2004,322981
+Belgium,Jan 1 2005,329063
+Belgium,Feb 1 2005,351371
+Belgium,Mar 1 2005,232373
+Belgium,Apr 1 2005,267107
+Belgium,May 1 2005,304054
+Belgium,Jun 1 2005,535912
+Belgium,Jul 1 2005,474316
+Belgium,Aug 1 2005,576298
+Belgium,Sep 1 2005,224190
+Belgium,Oct 1 2005,405985
+Belgium,Nov 1 2005,217427
+Belgium,Dec 1 2005,303432
+Belgium,Jan 1 2006,261974
+Belgium,Feb 1 2006,408154
+Belgium,Mar 1 2006,524396
+Belgium,Apr 1 2006,376207
+Belgium,May 1 2006,273229
+Belgium,Jun 1 2006,379707
+Belgium,Jul 1 2006,225505
+Belgium,Aug 1 2006,580161
+Belgium,Sep 1 2006,404939
+Belgium,Oct 1 2006,397942
+Belgium,Nov 1 2006,570719
+Belgium,Dec 1 2006,283551
+Belgium,Jan 1 2007,473321
+Belgium,Feb 1 2007,420872
+Belgium,Mar 1 2007,311072
+Belgium,Apr 1 2007,251756
+Belgium,May 1 2007,554797
+Belgium,Jun 1 2007,469416
+Belgium,Jul 1 2007,281949
+Belgium,Aug 1 2007,449332
+Belgium,Sep 1 2007,348772
+Belgium,Oct 1 2007,402916
+Belgium,Nov 1 2007,208058
+Belgium,Dec 1 2007,260552
+Belgium,Jan 1 2008,243568
+Belgium,Feb 1 2008,544321
+Belgium,Mar 1 2008,538759
+Belgium,Apr 1 2008,546896
+Belgium,May 1 2008,374186
+Belgium,Jun 1 2008,385708
+Belgium,Jul 1 2008,326088
+Belgium,Aug 1 2008,532288
+Belgium,Sep 1 2008,471615
+Belgium,Oct 1 2008,460131
+Belgium,Nov 1 2008,233159
+Belgium,Dec 1 2008,468160
+Belgium,Jan 1 2009,249067
+Belgium,Feb 1 2009,353561
+Belgium,Mar 1 2009,435083
+Belgium,Apr 1 2009,597299
+Belgium,May 1 2009,591144
+Belgium,Jun 1 2009,527263
+Belgium,Jul 1 2009,592020
+Belgium,Aug 1 2009,374288
+Belgium,Sep 1 2009,589465
+Belgium,Oct 1 2009,308739
+Belgium,Nov 1 2009,253523
+Belgium,Dec 1 2009,472961
+Belgium,Jan 1 2010,531677
+Belgium,Feb 1 2010,285479
+Belgium,Mar 1 2010,532616
+Norway,Jan 1 2000,218768
+Norway,Feb 1 2000,467669
+Norway,Mar 1 2000,332376
+Norway,Apr 1 2000,224955
+Norway,May 1 2000,508180
+Norway,Jun 1 2000,420499
+Norway,Jul 1 2000,593097
+Norway,Aug 1 2000,211276
+Norway,Sep 1 2000,293616
+Norway,Oct 1 2000,558660
+Norway,Nov 1 2000,271861
+Norway,Dec 1 2000,349116
+Norway,Jan 1 2001,338720
+Norway,Feb 1 2001,481979
+Norway,Mar 1 2001,446488
+Norway,Apr 1 2001,480685
+Norway,May 1 2001,295406
+Norway,Jun 1 2001,212546
+Norway,Jul 1 2001,338792
+Norway,Aug 1 2001,377080
+Norway,Sep 1 2001,375754
+Norway,Oct 1 2001,454918
+Norway,Nov 1 2001,265905
+Norway,Dec 1 2001,441326
+Norway,Jan 1 2002,512955
+Norway,Feb 1 2002,329237
+Norway,Mar 1 2002,555936
+Norway,Apr 1 2002,530389
+Norway,May 1 2002,535389
+Norway,Jun 1 2002,217852
+Norway,Jul 1 2002,500243
+Norway,Aug 1 2002,304911
+Norway,Sep 1 2002,581260
+Norway,Oct 1 2002,594900
+Norway,Nov 1 2002,329954
+Norway,Dec 1 2002,572513
+Norway,Jan 1 2003,342300
+Norway,Feb 1 2003,286141
+Norway,Mar 1 2003,344436
+Norway,Apr 1 2003,558469
+Norway,May 1 2003,584135
+Norway,Jun 1 2003,583717
+Norway,Jul 1 2003,393820
+Norway,Aug 1 2003,331856
+Norway,Sep 1 2003,433007
+Norway,Oct 1 2003,393059
+Norway,Nov 1 2003,453505
+Norway,Dec 1 2003,551864
+Norway,Jan 1 2004,356815
+Norway,Feb 1 2004,597316
+Norway,Mar 1 2004,501275
+Norway,Apr 1 2004,559342
+Norway,May 1 2004,259112
+Norway,Jun 1 2004,425934
+Norway,Jul 1 2004,460506
+Norway,Aug 1 2004,408706
+Norway,Sep 1 2004,532444
+Norway,Oct 1 2004,366601
+Norway,Nov 1 2004,387685
+Norway,Dec 1 2004,512014
+Norway,Jan 1 2005,469634
+Norway,Feb 1 2005,395439
+Norway,Mar 1 2005,409790
+Norway,Apr 1 2005,300317
+Norway,May 1 2005,355379
+Norway,Jun 1 2005,311911
+Norway,Jul 1 2005,202467
+Norway,Aug 1 2005,302098
+Norway,Sep 1 2005,365915
+Norway,Oct 1 2005,353417
+Norway,Nov 1 2005,581574
+Norway,Dec 1 2005,328356
+Norway,Jan 1 2006,327118
+Norway,Feb 1 2006,274999
+Norway,Mar 1 2006,236765
+Norway,Apr 1 2006,236075
+Norway,May 1 2006,249205
+Norway,Jun 1 2006,217100
+Norway,Jul 1 2006,513450
+Norway,Aug 1 2006,412977
+Norway,Sep 1 2006,510503
+Norway,Oct 1 2006,499478
+Norway,Nov 1 2006,274889
+Norway,Dec 1 2006,303184
+Norway,Jan 1 2007,541271
+Norway,Feb 1 2007,542639
+Norway,Mar 1 2007,308691
+Norway,Apr 1 2007,282347
+Norway,May 1 2007,280647
+Norway,Jun 1 2007,328048
+Norway,Jul 1 2007,386402
+Norway,Aug 1 2007,544849
+Norway,Sep 1 2007,387242
+Norway,Oct 1 2007,546323
+Norway,Nov 1 2007,598197
+Norway,Dec 1 2007,314204
+Norway,Jan 1 2008,306515
+Norway,Feb 1 2008,218910
+Norway,Mar 1 2008,412170
+Norway,Apr 1 2008,465442
+Norway,May 1 2008,393905
+Norway,Jun 1 2008,494132
+Norway,Jul 1 2008,417703
+Norway,Aug 1 2008,595497
+Norway,Sep 1 2008,310883
+Norway,Oct 1 2008,370893
+Norway,Nov 1 2008,217292
+Norway,Dec 1 2008,390656
+Norway,Jan 1 2009,229087
+Norway,Feb 1 2009,249738
+Norway,Mar 1 2009,267467
+Norway,Apr 1 2009,465318
+Norway,May 1 2009,214090
+Norway,Jun 1 2009,230871
+Norway,Jul 1 2009,420665
+Norway,Aug 1 2009,340441
+Norway,Sep 1 2009,522404
+Norway,Oct 1 2009,415471
+Norway,Nov 1 2009,511729
+Norway,Dec 1 2009,518442
+Norway,Jan 1 2010,515897
+Norway,Feb 1 2010,209789
+Norway,Mar 1 2010,491125
+Peru,Jan 1 2000,576158
+Peru,Feb 1 2000,361350
+Peru,Mar 1 2000,461756
+Peru,Apr 1 2000,457305
+Peru,May 1 2000,252838
+Peru,Jun 1 2000,597350
+Peru,Jul 1 2000,352867
+Peru,Aug 1 2000,329590
+Peru,Sep 1 2000,548993
+Peru,Oct 1 2000,450256
+Peru,Nov 1 2000,257833
+Peru,Dec 1 2000,547766
+Peru,Jan 1 2001,352172
+Peru,Feb 1 2001,493903
+Peru,Mar 1 2001,516290
+Peru,Apr 1 2001,554258
+Peru,May 1 2001,333103
+Peru,Jun 1 2001,340450
+Peru,Jul 1 2001,226140
+Peru,Aug 1 2001,573767
+Peru,Sep 1 2001,452430
+Peru,Oct 1 2001,426631
+Peru,Nov 1 2001,307879
+Peru,Dec 1 2001,311224
+Peru,Jan 1 2002,295419
+Peru,Feb 1 2002,215792
+Peru,Mar 1 2002,433769
+Peru,Apr 1 2002,552680
+Peru,May 1 2002,357324
+Peru,Jun 1 2002,252650
+Peru,Jul 1 2002,305297
+Peru,Aug 1 2002,345647
+Peru,Sep 1 2002,299214
+Peru,Oct 1 2002,563067
+Peru,Nov 1 2002,376287
+Peru,Dec 1 2002,474544
+Peru,Jan 1 2003,207686
+Peru,Feb 1 2003,511945
+Peru,Mar 1 2003,554392
+Peru,Apr 1 2003,545726
+Peru,May 1 2003,470273
+Peru,Jun 1 2003,247123
+Peru,Jul 1 2003,479944
+Peru,Aug 1 2003,406987
+Peru,Sep 1 2003,315075
+Peru,Oct 1 2003,455952
+Peru,Nov 1 2003,557934
+Peru,Dec 1 2003,516527
+Peru,Jan 1 2004,425745
+Peru,Feb 1 2004,494145
+Peru,Mar 1 2004,542389
+Peru,Apr 1 2004,285821
+Peru,May 1 2004,225351
+Peru,Jun 1 2004,355477
+Peru,Jul 1 2004,443118
+Peru,Aug 1 2004,368369
+Peru,Sep 1 2004,455945
+Peru,Oct 1 2004,552663
+Peru,Nov 1 2004,253011
+Peru,Dec 1 2004,373763
+Peru,Jan 1 2005,370497
+Peru,Feb 1 2005,259801
+Peru,Mar 1 2005,253903
+Peru,Apr 1 2005,451956
+Peru,May 1 2005,487472
+Peru,Jun 1 2005,211167
+Peru,Jul 1 2005,387185
+Peru,Aug 1 2005,515974
+Peru,Sep 1 2005,212464
+Peru,Oct 1 2005,417686
+Peru,Nov 1 2005,405801
+Peru,Dec 1 2005,516946
+Peru,Jan 1 2006,383550
+Peru,Feb 1 2006,454278
+Peru,Mar 1 2006,200225
+Peru,Apr 1 2006,505735
+Peru,May 1 2006,445037
+Peru,Jun 1 2006,254229
+Peru,Jul 1 2006,554714
+Peru,Aug 1 2006,209983
+Peru,Sep 1 2006,489120
+Peru,Oct 1 2006,254849
+Peru,Nov 1 2006,483220
+Peru,Dec 1 2006,426775
+Peru,Jan 1 2007,589140
+Peru,Feb 1 2007,369748
+Peru,Mar 1 2007,259426
+Peru,Apr 1 2007,257338
+Peru,May 1 2007,337606
+Peru,Jun 1 2007,233336
+Peru,Jul 1 2007,479230
+Peru,Aug 1 2007,512123
+Peru,Sep 1 2007,550700
+Peru,Oct 1 2007,445203
+Peru,Nov 1 2007,463362
+Peru,Dec 1 2007,251227
+Peru,Jan 1 2008,333084
+Peru,Feb 1 2008,381613
+Peru,Mar 1 2008,491791
+Peru,Apr 1 2008,254103
+Peru,May 1 2008,498654
+Peru,Jun 1 2008,211833
+Peru,Jul 1 2008,391926
+Peru,Aug 1 2008,455927
+Peru,Sep 1 2008,363894
+Peru,Oct 1 2008,228369
+Peru,Nov 1 2008,268508
+Peru,Dec 1 2008,439401
+Peru,Jan 1 2009,485143
+Peru,Feb 1 2009,293085
+Peru,Mar 1 2009,581096
+Peru,Apr 1 2009,377815
+Peru,May 1 2009,486346
+Peru,Jun 1 2009,410333
+Peru,Jul 1 2009,573098
+Peru,Aug 1 2009,253892
+Peru,Sep 1 2009,312399
+Peru,Oct 1 2009,390325
+Peru,Nov 1 2009,427473
+Peru,Dec 1 2009,431864
+Peru,Jan 1 2010,305029
+Peru,Feb 1 2010,579387
+Peru,Mar 1 2010,234391
+Saudi Arabia,Jan 1 2000,909682
+Saudi Arabia,Feb 1 2000,1194690
+Saudi Arabia,Mar 1 2000,1860433
+Saudi Arabia,Apr 1 2000,1848545
+Saudi Arabia,May 1 2000,1207040
+Saudi Arabia,Jun 1 2000,1895607
+Saudi Arabia,Jul 1 2000,1193233
+Saudi Arabia,Aug 1 2000,1329477
+Saudi Arabia,Sep 1 2000,1507213
+Saudi Arabia,Oct 1 2000,1272712
+Saudi Arabia,Nov 1 2000,1855002
+Saudi Arabia,Dec 1 2000,1475981
+Saudi Arabia,Jan 1 2001,1631713
+Saudi Arabia,Feb 1 2001,925912
+Saudi Arabia,Mar 1 2001,1598896
+Saudi Arabia,Apr 1 2001,1785478
+Saudi Arabia,May 1 2001,1084584
+Saudi Arabia,Jun 1 2001,1250189
+Saudi Arabia,Jul 1 2001,1048688
+Saudi Arabia,Aug 1 2001,1111081
+Saudi Arabia,Sep 1 2001,1036174
+Saudi Arabia,Oct 1 2001,1370324
+Saudi Arabia,Nov 1 2001,1000479
+Saudi Arabia,Dec 1 2001,1541689
+Saudi Arabia,Jan 1 2002,1607151
+Saudi Arabia,Feb 1 2002,1237670
+Saudi Arabia,Mar 1 2002,951507
+Saudi Arabia,Apr 1 2002,1651978
+Saudi Arabia,May 1 2002,992610
+Saudi Arabia,Jun 1 2002,1472550
+Saudi Arabia,Jul 1 2002,1765762
+Saudi Arabia,Aug 1 2002,1886958
+Saudi Arabia,Sep 1 2002,1343859
+Saudi Arabia,Oct 1 2002,1030970
+Saudi Arabia,Nov 1 2002,1214646
+Saudi Arabia,Dec 1 2002,1422077
+Saudi Arabia,Jan 1 2003,1455055
+Saudi Arabia,Feb 1 2003,1673399
+Saudi Arabia,Mar 1 2003,908967
+Saudi Arabia,Apr 1 2003,1486504
+Saudi Arabia,May 1 2003,1117247
+Saudi Arabia,Jun 1 2003,1352792
+Saudi Arabia,Jul 1 2003,1434580
+Saudi Arabia,Aug 1 2003,1428962
+Saudi Arabia,Sep 1 2003,980201
+Saudi Arabia,Oct 1 2003,1872224
+Saudi Arabia,Nov 1 2003,1830592
+Saudi Arabia,Dec 1 2003,1869460
+Saudi Arabia,Jan 1 2004,1563412
+Saudi Arabia,Feb 1 2004,1036369
+Saudi Arabia,Mar 1 2004,1103313
+Saudi Arabia,Apr 1 2004,1206658
+Saudi Arabia,May 1 2004,1832530
+Saudi Arabia,Jun 1 2004,1275575
+Saudi Arabia,Jul 1 2004,1865777
+Saudi Arabia,Aug 1 2004,985462
+Saudi Arabia,Sep 1 2004,1296858
+Saudi Arabia,Oct 1 2004,1164206
+Saudi Arabia,Nov 1 2004,1140931
+Saudi Arabia,Dec 1 2004,1168392
+Saudi Arabia,Jan 1 2005,1185042
+Saudi Arabia,Feb 1 2005,1044859
+Saudi Arabia,Mar 1 2005,943179
+Saudi Arabia,Apr 1 2005,1532930
+Saudi Arabia,May 1 2005,1769231
+Saudi Arabia,Jun 1 2005,1786454
+Saudi Arabia,Jul 1 2005,1370073
+Saudi Arabia,Aug 1 2005,1275414
+Saudi Arabia,Sep 1 2005,1817530
+Saudi Arabia,Oct 1 2005,1675992
+Saudi Arabia,Nov 1 2005,1866025
+Saudi Arabia,Dec 1 2005,1806634
+Saudi Arabia,Jan 1 2006,1047779
+Saudi Arabia,Feb 1 2006,994402
+Saudi Arabia,Mar 1 2006,927278
+Saudi Arabia,Apr 1 2006,1841819
+Saudi Arabia,May 1 2006,1422373
+Saudi Arabia,Jun 1 2006,926815
+Saudi Arabia,Jul 1 2006,1053805
+Saudi Arabia,Aug 1 2006,1584359
+Saudi Arabia,Sep 1 2006,927967
+Saudi Arabia,Oct 1 2006,1848268
+Saudi Arabia,Nov 1 2006,1494199
+Saudi Arabia,Dec 1 2006,1781306
+Saudi Arabia,Jan 1 2007,1164252
+Saudi Arabia,Feb 1 2007,1820761
+Saudi Arabia,Mar 1 2007,1672606
+Saudi Arabia,Apr 1 2007,1782947
+Saudi Arabia,May 1 2007,1204694
+Saudi Arabia,Jun 1 2007,1264513
+Saudi Arabia,Jul 1 2007,1576297
+Saudi Arabia,Aug 1 2007,1595930
+Saudi Arabia,Sep 1 2007,1251391
+Saudi Arabia,Oct 1 2007,1561227
+Saudi Arabia,Nov 1 2007,1658647
+Saudi Arabia,Dec 1 2007,1809833
+Saudi Arabia,Jan 1 2008,1607728
+Saudi Arabia,Feb 1 2008,1812925
+Saudi Arabia,Mar 1 2008,1078132
+Saudi Arabia,Apr 1 2008,961132
+Saudi Arabia,May 1 2008,1603592
+Saudi Arabia,Jun 1 2008,1213041
+Saudi Arabia,Jul 1 2008,1239108
+Saudi Arabia,Aug 1 2008,1846471
+Saudi Arabia,Sep 1 2008,1052543
+Saudi Arabia,Oct 1 2008,1323581
+Saudi Arabia,Nov 1 2008,1184630
+Saudi Arabia,Dec 1 2008,1789136
+Saudi Arabia,Jan 1 2009,1380298
+Saudi Arabia,Feb 1 2009,1768336
+Saudi Arabia,Mar 1 2009,1552341
+Saudi Arabia,Apr 1 2009,1134320
+Saudi Arabia,May 1 2009,1538239
+Saudi Arabia,Jun 1 2009,919599
+Saudi Arabia,Jul 1 2009,1053919
+Saudi Arabia,Aug 1 2009,1309448
+Saudi Arabia,Sep 1 2009,1298758
+Saudi Arabia,Oct 1 2009,1501581
+Saudi Arabia,Nov 1 2009,1165769
+Saudi Arabia,Dec 1 2009,1684642
+Saudi Arabia,Jan 1 2010,1898009
+Saudi Arabia,Feb 1 2010,1496332
+Saudi Arabia,Mar 1 2010,1725742
+Malaysia,Jan 1 2000,1169698
+Malaysia,Feb 1 2000,1248286
+Malaysia,Mar 1 2000,925606
+Malaysia,Apr 1 2000,1455824
+Malaysia,May 1 2000,930258
+Malaysia,Jun 1 2000,1083147
+Malaysia,Jul 1 2000,1589675
+Malaysia,Aug 1 2000,1006838
+Malaysia,Sep 1 2000,916370
+Malaysia,Oct 1 2000,988297
+Malaysia,Nov 1 2000,1164869
+Malaysia,Dec 1 2000,1057179
+Malaysia,Jan 1 2001,1684374
+Malaysia,Feb 1 2001,1519941
+Malaysia,Mar 1 2001,1831539
+Malaysia,Apr 1 2001,992244
+Malaysia,May 1 2001,1514000
+Malaysia,Jun 1 2001,1651102
+Malaysia,Jul 1 2001,1046254
+Malaysia,Aug 1 2001,1604089
+Malaysia,Sep 1 2001,926887
+Malaysia,Oct 1 2001,1739645
+Malaysia,Nov 1 2001,1131088
+Malaysia,Dec 1 2001,1810269
+Malaysia,Jan 1 2002,1119998
+Malaysia,Feb 1 2002,1197846
+Malaysia,Mar 1 2002,1575764
+Malaysia,Apr 1 2002,1282712
+Malaysia,May 1 2002,1732879
+Malaysia,Jun 1 2002,937309
+Malaysia,Jul 1 2002,1006212
+Malaysia,Aug 1 2002,1739308
+Malaysia,Sep 1 2002,1883031
+Malaysia,Oct 1 2002,1516100
+Malaysia,Nov 1 2002,1294545
+Malaysia,Dec 1 2002,1302934
+Malaysia,Jan 1 2003,1745223
+Malaysia,Feb 1 2003,1732161
+Malaysia,Mar 1 2003,1395518
+Malaysia,Apr 1 2003,1150069
+Malaysia,May 1 2003,1768979
+Malaysia,Jun 1 2003,1364448
+Malaysia,Jul 1 2003,1317262
+Malaysia,Aug 1 2003,1376835
+Malaysia,Sep 1 2003,1545441
+Malaysia,Oct 1 2003,1227577
+Malaysia,Nov 1 2003,1086951
+Malaysia,Dec 1 2003,1643613
+Malaysia,Jan 1 2004,1631661
+Malaysia,Feb 1 2004,1121454
+Malaysia,Mar 1 2004,1240498
+Malaysia,Apr 1 2004,986853
+Malaysia,May 1 2004,1662070
+Malaysia,Jun 1 2004,1669705
+Malaysia,Jul 1 2004,1522637
+Malaysia,Aug 1 2004,1478068
+Malaysia,Sep 1 2004,1333260
+Malaysia,Oct 1 2004,1894779
+Malaysia,Nov 1 2004,1311318
+Malaysia,Dec 1 2004,1780884
+Malaysia,Jan 1 2005,1415489
+Malaysia,Feb 1 2005,1105908
+Malaysia,Mar 1 2005,1099270
+Malaysia,Apr 1 2005,1278555
+Malaysia,May 1 2005,1178115
+Malaysia,Jun 1 2005,1577315
+Malaysia,Jul 1 2005,1796138
+Malaysia,Aug 1 2005,1330490
+Malaysia,Sep 1 2005,1529492
+Malaysia,Oct 1 2005,1355149
+Malaysia,Nov 1 2005,1896173
+Malaysia,Dec 1 2005,1569037
+Malaysia,Jan 1 2006,1181432
+Malaysia,Feb 1 2006,1461186
+Malaysia,Mar 1 2006,1519945
+Malaysia,Apr 1 2006,1210459
+Malaysia,May 1 2006,1724984
+Malaysia,Jun 1 2006,991999
+Malaysia,Jul 1 2006,1246139
+Malaysia,Aug 1 2006,1205167
+Malaysia,Sep 1 2006,1821250
+Malaysia,Oct 1 2006,1629165
+Malaysia,Nov 1 2006,1321309
+Malaysia,Dec 1 2006,1179659
+Malaysia,Jan 1 2007,1540801
+Malaysia,Feb 1 2007,1163918
+Malaysia,Mar 1 2007,1711182
+Malaysia,Apr 1 2007,1057909
+Malaysia,May 1 2007,1370764
+Malaysia,Jun 1 2007,1846225
+Malaysia,Jul 1 2007,1277656
+Malaysia,Aug 1 2007,1706058
+Malaysia,Sep 1 2007,1662147
+Malaysia,Oct 1 2007,1192268
+Malaysia,Nov 1 2007,1046702
+Malaysia,Dec 1 2007,1060341
+Malaysia,Jan 1 2008,966672
+Malaysia,Feb 1 2008,1054982
+Malaysia,Mar 1 2008,1551770
+Malaysia,Apr 1 2008,932271
+Malaysia,May 1 2008,1280960
+Malaysia,Jun 1 2008,1390376
+Malaysia,Jul 1 2008,1055958
+Malaysia,Aug 1 2008,1775709
+Malaysia,Sep 1 2008,1626797
+Malaysia,Oct 1 2008,1521185
+Malaysia,Nov 1 2008,1101227
+Malaysia,Dec 1 2008,1657262
+Malaysia,Jan 1 2009,1226540
+Malaysia,Feb 1 2009,1136721
+Malaysia,Mar 1 2009,1189239
+Malaysia,Apr 1 2009,1861654
+Malaysia,May 1 2009,1376999
+Malaysia,Jun 1 2009,1717392
+Malaysia,Jul 1 2009,1865027
+Malaysia,Aug 1 2009,1645669
+Malaysia,Sep 1 2009,1437375
+Malaysia,Oct 1 2009,1027362
+Malaysia,Nov 1 2009,1734018
+Malaysia,Dec 1 2009,1354423
+Malaysia,Jan 1 2010,987227
+Malaysia,Feb 1 2010,1785931
+Malaysia,Mar 1 2010,1879558
+Colombia,Jan 1 2000,1048729
+Colombia,Feb 1 2000,1420092
+Colombia,Mar 1 2000,1698393
+Colombia,Apr 1 2000,1062897
+Colombia,May 1 2000,1879298
+Colombia,Jun 1 2000,1471562
+Colombia,Jul 1 2000,1032849
+Colombia,Aug 1 2000,1435172
+Colombia,Sep 1 2000,1616241
+Colombia,Oct 1 2000,1302169
+Colombia,Nov 1 2000,1192515
+Colombia,Dec 1 2000,1604790
+Colombia,Jan 1 2001,1252228
+Colombia,Feb 1 2001,1190359
+Colombia,Mar 1 2001,1880888
+Colombia,Apr 1 2001,1221908
+Colombia,May 1 2001,1477500
+Colombia,Jun 1 2001,1497122
+Colombia,Jul 1 2001,1018939
+Colombia,Aug 1 2001,1697216
+Colombia,Sep 1 2001,959854
+Colombia,Oct 1 2001,1703815
+Colombia,Nov 1 2001,1613217
+Colombia,Dec 1 2001,1442545
+Colombia,Jan 1 2002,1670572
+Colombia,Feb 1 2002,1126223
+Colombia,Mar 1 2002,1608824
+Colombia,Apr 1 2002,1503570
+Colombia,May 1 2002,1701723
+Colombia,Jun 1 2002,1032127
+Colombia,Jul 1 2002,1295338
+Colombia,Aug 1 2002,953263
+Colombia,Sep 1 2002,1263193
+Colombia,Oct 1 2002,1093592
+Colombia,Nov 1 2002,1133280
+Colombia,Dec 1 2002,1690178
+Colombia,Jan 1 2003,1428870
+Colombia,Feb 1 2003,1303609
+Colombia,Mar 1 2003,1882827
+Colombia,Apr 1 2003,1076555
+Colombia,May 1 2003,1504739
+Colombia,Jun 1 2003,1173850
+Colombia,Jul 1 2003,1243227
+Colombia,Aug 1 2003,982964
+Colombia,Sep 1 2003,1411890
+Colombia,Oct 1 2003,1337311
+Colombia,Nov 1 2003,1105287
+Colombia,Dec 1 2003,1343081
+Colombia,Jan 1 2004,1215223
+Colombia,Feb 1 2004,1338314
+Colombia,Mar 1 2004,1598675
+Colombia,Apr 1 2004,1631238
+Colombia,May 1 2004,1509393
+Colombia,Jun 1 2004,1239599
+Colombia,Jul 1 2004,1712089
+Colombia,Aug 1 2004,1739095
+Colombia,Sep 1 2004,902145
+Colombia,Oct 1 2004,1632723
+Colombia,Nov 1 2004,1601869
+Colombia,Dec 1 2004,1252199
+Colombia,Jan 1 2005,1623132
+Colombia,Feb 1 2005,1668739
+Colombia,Mar 1 2005,1242557
+Colombia,Apr 1 2005,1666451
+Colombia,May 1 2005,1520198
+Colombia,Jun 1 2005,1211034
+Colombia,Jul 1 2005,1814840
+Colombia,Aug 1 2005,1002738
+Colombia,Sep 1 2005,1251796
+Colombia,Oct 1 2005,1761727
+Colombia,Nov 1 2005,1530873
+Colombia,Dec 1 2005,914721
+Colombia,Jan 1 2006,1266703
+Colombia,Feb 1 2006,1623714
+Colombia,Mar 1 2006,1030282
+Colombia,Apr 1 2006,1449851
+Colombia,May 1 2006,1062554
+Colombia,Jun 1 2006,1755969
+Colombia,Jul 1 2006,946085
+Colombia,Aug 1 2006,1886089
+Colombia,Sep 1 2006,1450507
+Colombia,Oct 1 2006,1540584
+Colombia,Nov 1 2006,1625614
+Colombia,Dec 1 2006,1863357
+Colombia,Jan 1 2007,1044103
+Colombia,Feb 1 2007,1343432
+Colombia,Mar 1 2007,1290814
+Colombia,Apr 1 2007,1827743
+Colombia,May 1 2007,1686170
+Colombia,Jun 1 2007,927781
+Colombia,Jul 1 2007,1200368
+Colombia,Aug 1 2007,1537673
+Colombia,Sep 1 2007,1191153
+Colombia,Oct 1 2007,1710732
+Colombia,Nov 1 2007,1888895
+Colombia,Dec 1 2007,1509114
+Colombia,Jan 1 2008,1340437
+Colombia,Feb 1 2008,1746483
+Colombia,Mar 1 2008,1581588
+Colombia,Apr 1 2008,1760122
+Colombia,May 1 2008,1574928
+Colombia,Jun 1 2008,1856740
+Colombia,Jul 1 2008,1691756
+Colombia,Aug 1 2008,1562279
+Colombia,Sep 1 2008,1004123
+Colombia,Oct 1 2008,1107558
+Colombia,Nov 1 2008,1624443
+Colombia,Dec 1 2008,1229660
+Colombia,Jan 1 2009,1593332
+Colombia,Feb 1 2009,1091511
+Colombia,Mar 1 2009,1705952
+Colombia,Apr 1 2009,1026239
+Colombia,May 1 2009,1265471
+Colombia,Jun 1 2009,1632163
+Colombia,Jul 1 2009,1853961
+Colombia,Aug 1 2009,1001054
+Colombia,Sep 1 2009,1166100
+Colombia,Oct 1 2009,1564973
+Colombia,Nov 1 2009,1691127
+Colombia,Dec 1 2009,1295123
+Colombia,Jan 1 2010,1515820
+Colombia,Feb 1 2010,1199466
+Colombia,Mar 1 2010,1776914
+UK,Jan 1 2000,1887569
+UK,Feb 1 2000,1075298
+UK,Mar 1 2000,1340237
+UK,Apr 1 2000,1602135
+UK,May 1 2000,1816454
+UK,Jun 1 2000,1646895
+UK,Jul 1 2000,1511171
+UK,Aug 1 2000,1819348
+UK,Sep 1 2000,1795709
+UK,Oct 1 2000,1872832
+UK,Nov 1 2000,1536603
+UK,Dec 1 2000,1087639
+UK,Jan 1 2001,1078401
+UK,Feb 1 2001,1192019
+UK,Mar 1 2001,1646763
+UK,Apr 1 2001,1140358
+UK,May 1 2001,974320
+UK,Jun 1 2001,1108318
+UK,Jul 1 2001,1073482
+UK,Aug 1 2001,924786
+UK,Sep 1 2001,1130480
+UK,Oct 1 2001,1499766
+UK,Nov 1 2001,947560
+UK,Dec 1 2001,1217913
+UK,Jan 1 2002,956910
+UK,Feb 1 2002,1538973
+UK,Mar 1 2002,1605744
+UK,Apr 1 2002,1198639
+UK,May 1 2002,1298342
+UK,Jun 1 2002,1732321
+UK,Jul 1 2002,999124
+UK,Aug 1 2002,1076088
+UK,Sep 1 2002,1164097
+UK,Oct 1 2002,1134672
+UK,Nov 1 2002,1291250
+UK,Dec 1 2002,1448626
+UK,Jan 1 2003,1042244
+UK,Feb 1 2003,1771505
+UK,Mar 1 2003,1677477
+UK,Apr 1 2003,919560
+UK,May 1 2003,1048489
+UK,Jun 1 2003,1070168
+UK,Jul 1 2003,1475077
+UK,Aug 1 2003,1067958
+UK,Sep 1 2003,1623669
+UK,Oct 1 2003,1628007
+UK,Nov 1 2003,1270402
+UK,Dec 1 2003,976301
+UK,Jan 1 2004,1613456
+UK,Feb 1 2004,1437624
+UK,Mar 1 2004,1062604
+UK,Apr 1 2004,1508609
+UK,May 1 2004,1099275
+UK,Jun 1 2004,1889342
+UK,Jul 1 2004,1755315
+UK,Aug 1 2004,1737286
+UK,Sep 1 2004,1827780
+UK,Oct 1 2004,1618065
+UK,Nov 1 2004,1812285
+UK,Dec 1 2004,1036902
+UK,Jan 1 2005,967044
+UK,Feb 1 2005,1553794
+UK,Mar 1 2005,1750589
+UK,Apr 1 2005,1549026
+UK,May 1 2005,1774639
+UK,Jun 1 2005,1117898
+UK,Jul 1 2005,1301589
+UK,Aug 1 2005,1274176
+UK,Sep 1 2005,1495664
+UK,Oct 1 2005,1385065
+UK,Nov 1 2005,1770912
+UK,Dec 1 2005,1617496
+UK,Jan 1 2006,1538211
+UK,Feb 1 2006,1756061
+UK,Mar 1 2006,1416080
+UK,Apr 1 2006,1061877
+UK,May 1 2006,1196848
+UK,Jun 1 2006,1206950
+UK,Jul 1 2006,1737687
+UK,Aug 1 2006,1809795
+UK,Sep 1 2006,1129851
+UK,Oct 1 2006,1859601
+UK,Nov 1 2006,1035123
+UK,Dec 1 2006,1888533
+UK,Jan 1 2007,1884421
+UK,Feb 1 2007,1860177
+UK,Mar 1 2007,1512297
+UK,Apr 1 2007,1718582
+UK,May 1 2007,1533468
+UK,Jun 1 2007,1272119
+UK,Jul 1 2007,1376064
+UK,Aug 1 2007,1178407
+UK,Sep 1 2007,1308662
+UK,Oct 1 2007,1242954
+UK,Nov 1 2007,1513485
+UK,Dec 1 2007,907390
+UK,Jan 1 2008,1832090
+UK,Feb 1 2008,1168058
+UK,Mar 1 2008,1778418
+UK,Apr 1 2008,1728066
+UK,May 1 2008,1390766
+UK,Jun 1 2008,1125309
+UK,Jul 1 2008,1842604
+UK,Aug 1 2008,1043032
+UK,Sep 1 2008,1483662
+UK,Oct 1 2008,931505
+UK,Nov 1 2008,1037535
+UK,Dec 1 2008,1855842
+UK,Jan 1 2009,1138350
+UK,Feb 1 2009,1632331
+UK,Mar 1 2009,1061628
+UK,Apr 1 2009,1409511
+UK,May 1 2009,1830759
+UK,Jun 1 2009,1833962
+UK,Jul 1 2009,1861790
+UK,Aug 1 2009,1466009
+UK,Sep 1 2009,1497821
+UK,Oct 1 2009,1552148
+UK,Nov 1 2009,1242639
+UK,Dec 1 2009,1492830
+UK,Jan 1 2010,1718605
+UK,Feb 1 2010,1075358
+UK,Mar 1 2010,1396741
+Sweden,Jan 1 2000,576631
+Sweden,Feb 1 2000,317089
+Sweden,Mar 1 2000,268313
+Sweden,Apr 1 2000,209030
+Sweden,May 1 2000,284610
+Sweden,Jun 1 2000,243073
+Sweden,Jul 1 2000,389879
+Sweden,Aug 1 2000,558874
+Sweden,Sep 1 2000,334695
+Sweden,Oct 1 2000,336177
+Sweden,Nov 1 2000,303131
+Sweden,Dec 1 2000,430634
+Sweden,Jan 1 2001,526264
+Sweden,Feb 1 2001,594219
+Sweden,Mar 1 2001,331953
+Sweden,Apr 1 2001,346776
+Sweden,May 1 2001,560615
+Sweden,Jun 1 2001,388437
+Sweden,Jul 1 2001,347913
+Sweden,Aug 1 2001,406474
+Sweden,Sep 1 2001,402350
+Sweden,Oct 1 2001,272869
+Sweden,Nov 1 2001,319569
+Sweden,Dec 1 2001,400695
+Sweden,Jan 1 2002,433962
+Sweden,Feb 1 2002,452614
+Sweden,Mar 1 2002,440460
+Sweden,Apr 1 2002,403797
+Sweden,May 1 2002,381631
+Sweden,Jun 1 2002,349879
+Sweden,Jul 1 2002,244231
+Sweden,Aug 1 2002,472659
+Sweden,Sep 1 2002,476942
+Sweden,Oct 1 2002,454017
+Sweden,Nov 1 2002,342407
+Sweden,Dec 1 2002,525175
+Sweden,Jan 1 2003,231717
+Sweden,Feb 1 2003,354120
+Sweden,Mar 1 2003,392630
+Sweden,Apr 1 2003,512087
+Sweden,May 1 2003,447838
+Sweden,Jun 1 2003,291409
+Sweden,Jul 1 2003,345064
+Sweden,Aug 1 2003,391142
+Sweden,Sep 1 2003,289637
+Sweden,Oct 1 2003,272162
+Sweden,Nov 1 2003,268747
+Sweden,Dec 1 2003,504860
+Sweden,Jan 1 2004,521966
+Sweden,Feb 1 2004,223053
+Sweden,Mar 1 2004,543086
+Sweden,Apr 1 2004,350839
+Sweden,May 1 2004,248958
+Sweden,Jun 1 2004,326895
+Sweden,Jul 1 2004,415322
+Sweden,Aug 1 2004,327912
+Sweden,Sep 1 2004,270912
+Sweden,Oct 1 2004,466520
+Sweden,Nov 1 2004,379866
+Sweden,Dec 1 2004,475043
+Sweden,Jan 1 2005,564343
+Sweden,Feb 1 2005,482497
+Sweden,Mar 1 2005,345118
+Sweden,Apr 1 2005,347039
+Sweden,May 1 2005,294532
+Sweden,Jun 1 2005,430986
+Sweden,Jul 1 2005,563332
+Sweden,Aug 1 2005,313973
+Sweden,Sep 1 2005,412332
+Sweden,Oct 1 2005,415751
+Sweden,Nov 1 2005,335671
+Sweden,Dec 1 2005,203557
+Sweden,Jan 1 2006,595844
+Sweden,Feb 1 2006,593285
+Sweden,Mar 1 2006,430385
+Sweden,Apr 1 2006,574678
+Sweden,May 1 2006,579279
+Sweden,Jun 1 2006,279526
+Sweden,Jul 1 2006,270101
+Sweden,Aug 1 2006,382264
+Sweden,Sep 1 2006,229046
+Sweden,Oct 1 2006,343147
+Sweden,Nov 1 2006,225498
+Sweden,Dec 1 2006,462084
+Sweden,Jan 1 2007,234311
+Sweden,Feb 1 2007,356871
+Sweden,Mar 1 2007,412840
+Sweden,Apr 1 2007,271941
+Sweden,May 1 2007,476611
+Sweden,Jun 1 2007,346892
+Sweden,Jul 1 2007,481187
+Sweden,Aug 1 2007,415454
+Sweden,Sep 1 2007,305043
+Sweden,Oct 1 2007,358249
+Sweden,Nov 1 2007,366767
+Sweden,Dec 1 2007,265291
+Sweden,Jan 1 2008,529880
+Sweden,Feb 1 2008,404186
+Sweden,Mar 1 2008,398782
+Sweden,Apr 1 2008,356889
+Sweden,May 1 2008,366615
+Sweden,Jun 1 2008,412069
+Sweden,Jul 1 2008,335168
+Sweden,Aug 1 2008,212584
+Sweden,Sep 1 2008,552549
+Sweden,Oct 1 2008,428233
+Sweden,Nov 1 2008,208489
+Sweden,Dec 1 2008,440484
+Sweden,Jan 1 2009,353181
+Sweden,Feb 1 2009,593820
+Sweden,Mar 1 2009,417112
+Sweden,Apr 1 2009,315926
+Sweden,May 1 2009,447102
+Sweden,Jun 1 2009,354082
+Sweden,Jul 1 2009,269705
+Sweden,Aug 1 2009,595860
+Sweden,Sep 1 2009,400693
+Sweden,Oct 1 2009,569304
+Sweden,Nov 1 2009,495701
+Sweden,Dec 1 2009,328644
+Sweden,Jan 1 2010,475610
+Sweden,Feb 1 2010,394955
+Sweden,Mar 1 2010,393735
+Australia,Jan 1 2000,1315690
+Australia,Feb 1 2000,1723156
+Australia,Mar 1 2000,1350923
+Australia,Apr 1 2000,968847
+Australia,May 1 2000,1384092
+Australia,Jun 1 2000,1259331
+Australia,Jul 1 2000,997358
+Australia,Aug 1 2000,1148849
+Australia,Sep 1 2000,1267034
+Australia,Oct 1 2000,1788741
+Australia,Nov 1 2000,1864414
+Australia,Dec 1 2000,1402156
+Australia,Jan 1 2001,1601420
+Australia,Feb 1 2001,1536201
+Australia,Mar 1 2001,1022844
+Australia,Apr 1 2001,1396976
+Australia,May 1 2001,1847768
+Australia,Jun 1 2001,1676922
+Australia,Jul 1 2001,1250344
+Australia,Aug 1 2001,1171111
+Australia,Sep 1 2001,1191652
+Australia,Oct 1 2001,1666618
+Australia,Nov 1 2001,1844146
+Australia,Dec 1 2001,905159
+Australia,Jan 1 2002,1637850
+Australia,Feb 1 2002,1497294
+Australia,Mar 1 2002,1009533
+Australia,Apr 1 2002,1109637
+Australia,May 1 2002,1043870
+Australia,Jun 1 2002,1746764
+Australia,Jul 1 2002,993853
+Australia,Aug 1 2002,1447354
+Australia,Sep 1 2002,1716669
+Australia,Oct 1 2002,1287101
+Australia,Nov 1 2002,1073134
+Australia,Dec 1 2002,1720459
+Australia,Jan 1 2003,1269488
+Australia,Feb 1 2003,922662
+Australia,Mar 1 2003,1436712
+Australia,Apr 1 2003,1085909
+Australia,May 1 2003,1843784
+Australia,Jun 1 2003,1403566
+Australia,Jul 1 2003,1317256
+Australia,Aug 1 2003,1518180
+Australia,Sep 1 2003,1506340
+Australia,Oct 1 2003,1586870
+Australia,Nov 1 2003,1818497
+Australia,Dec 1 2003,964854
+Australia,Jan 1 2004,1648934
+Australia,Feb 1 2004,1852248
+Australia,Mar 1 2004,1808730
+Australia,Apr 1 2004,1410713
+Australia,May 1 2004,1798032
+Australia,Jun 1 2004,1554636
+Australia,Jul 1 2004,1419150
+Australia,Aug 1 2004,984770
+Australia,Sep 1 2004,1269554
+Australia,Oct 1 2004,1841227
+Australia,Nov 1 2004,1847291
+Australia,Dec 1 2004,964465
+Australia,Jan 1 2005,1590661
+Australia,Feb 1 2005,1472240
+Australia,Mar 1 2005,1539431
+Australia,Apr 1 2005,1457393
+Australia,May 1 2005,1063264
+Australia,Jun 1 2005,1015933
+Australia,Jul 1 2005,1187813
+Australia,Aug 1 2005,1578394
+Australia,Sep 1 2005,1556329
+Australia,Oct 1 2005,1259956
+Australia,Nov 1 2005,1811214
+Australia,Dec 1 2005,1581239
+Australia,Jan 1 2006,1793106
+Australia,Feb 1 2006,1237036
+Australia,Mar 1 2006,935363
+Australia,Apr 1 2006,1103645
+Australia,May 1 2006,955416
+Australia,Jun 1 2006,1549343
+Australia,Jul 1 2006,1146253
+Australia,Aug 1 2006,1504523
+Australia,Sep 1 2006,1738022
+Australia,Oct 1 2006,1885588
+Australia,Nov 1 2006,1473139
+Australia,Dec 1 2006,1580168
+Australia,Jan 1 2007,1058118
+Australia,Feb 1 2007,936344
+Australia,Mar 1 2007,1016816
+Australia,Apr 1 2007,1126495
+Australia,May 1 2007,1757669
+Australia,Jun 1 2007,1219068
+Australia,Jul 1 2007,1456409
+Australia,Aug 1 2007,1462263
+Australia,Sep 1 2007,1848430
+Australia,Oct 1 2007,1227445
+Australia,Nov 1 2007,1406155
+Australia,Dec 1 2007,1423336
+Australia,Jan 1 2008,923899
+Australia,Feb 1 2008,1456697
+Australia,Mar 1 2008,1355402
+Australia,Apr 1 2008,1859741
+Australia,May 1 2008,1599349
+Australia,Jun 1 2008,1808530
+Australia,Jul 1 2008,1094530
+Australia,Aug 1 2008,1386765
+Australia,Sep 1 2008,1541511
+Australia,Oct 1 2008,1649494
+Australia,Nov 1 2008,1001894
+Australia,Dec 1 2008,1682860
+Australia,Jan 1 2009,1564197
+Australia,Feb 1 2009,1579206
+Australia,Mar 1 2009,1498942
+Australia,Apr 1 2009,1185633
+Australia,May 1 2009,1355814
+Australia,Jun 1 2009,1131213
+Australia,Jul 1 2009,1790334
+Australia,Aug 1 2009,950342
+Australia,Sep 1 2009,1712250
+Australia,Oct 1 2009,1155760
+Australia,Nov 1 2009,1334536
+Australia,Dec 1 2009,1582510
+Australia,Jan 1 2010,1537109
+Australia,Feb 1 2010,1566960
+Australia,Mar 1 2010,1779062
+Italy,Jan 1 2000,1045583
+Italy,Feb 1 2000,1017714
+Italy,Mar 1 2000,1322789
+Italy,Apr 1 2000,1595819
+Italy,May 1 2000,1301752
+Italy,Jun 1 2000,1829568
+Italy,Jul 1 2000,1855445
+Italy,Aug 1 2000,1242946
+Italy,Sep 1 2000,1092453
+Italy,Oct 1 2000,943547
+Italy,Nov 1 2000,1155621
+Italy,Dec 1 2000,1135639
+Italy,Jan 1 2001,1788791
+Italy,Feb 1 2001,1269590
+Italy,Mar 1 2001,1344760
+Italy,Apr 1 2001,1860416
+Italy,May 1 2001,1384254
+Italy,Jun 1 2001,1397427
+Italy,Jul 1 2001,1459690
+Italy,Aug 1 2001,1632398
+Italy,Sep 1 2001,931928
+Italy,Oct 1 2001,995221
+Italy,Nov 1 2001,1170476
+Italy,Dec 1 2001,1681502
+Italy,Jan 1 2002,905083
+Italy,Feb 1 2002,1234736
+Italy,Mar 1 2002,1178647
+Italy,Apr 1 2002,1769596
+Italy,May 1 2002,1657019
+Italy,Jun 1 2002,1895623
+Italy,Jul 1 2002,1657982
+Italy,Aug 1 2002,1144449
+Italy,Sep 1 2002,1610844
+Italy,Oct 1 2002,1412467
+Italy,Nov 1 2002,1064858
+Italy,Dec 1 2002,1642287
+Italy,Jan 1 2003,961653
+Italy,Feb 1 2003,1015806
+Italy,Mar 1 2003,1171353
+Italy,Apr 1 2003,1683544
+Italy,May 1 2003,1554608
+Italy,Jun 1 2003,1823027
+Italy,Jul 1 2003,1777773
+Italy,Aug 1 2003,1804722
+Italy,Sep 1 2003,1831356
+Italy,Oct 1 2003,1105591
+Italy,Nov 1 2003,1475253
+Italy,Dec 1 2003,1387391
+Italy,Jan 1 2004,1267872
+Italy,Feb 1 2004,1673333
+Italy,Mar 1 2004,1891217
+Italy,Apr 1 2004,1240962
+Italy,May 1 2004,1786029
+Italy,Jun 1 2004,1294544
+Italy,Jul 1 2004,1672195
+Italy,Aug 1 2004,991543
+Italy,Sep 1 2004,1495837
+Italy,Oct 1 2004,1339836
+Italy,Nov 1 2004,1579687
+Italy,Dec 1 2004,1452030
+Italy,Jan 1 2005,1657794
+Italy,Feb 1 2005,1429135
+Italy,Mar 1 2005,1598733
+Italy,Apr 1 2005,1271733
+Italy,May 1 2005,1416961
+Italy,Jun 1 2005,1650762
+Italy,Jul 1 2005,1768977
+Italy,Aug 1 2005,1892169
+Italy,Sep 1 2005,1482531
+Italy,Oct 1 2005,1798944
+Italy,Nov 1 2005,1667912
+Italy,Dec 1 2005,1258215
+Italy,Jan 1 2006,1585801
+Italy,Feb 1 2006,1674609
+Italy,Mar 1 2006,919029
+Italy,Apr 1 2006,1806322
+Italy,May 1 2006,1032743
+Italy,Jun 1 2006,1047464
+Italy,Jul 1 2006,1592724
+Italy,Aug 1 2006,1767313
+Italy,Sep 1 2006,1190979
+Italy,Oct 1 2006,1251800
+Italy,Nov 1 2006,1758189
+Italy,Dec 1 2006,1124284
+Italy,Jan 1 2007,1326107
+Italy,Feb 1 2007,1229478
+Italy,Mar 1 2007,1049832
+Italy,Apr 1 2007,1502192
+Italy,May 1 2007,1439178
+Italy,Jun 1 2007,1196546
+Italy,Jul 1 2007,954307
+Italy,Aug 1 2007,1320272
+Italy,Sep 1 2007,1288294
+Italy,Oct 1 2007,1766932
+Italy,Nov 1 2007,1876110
+Italy,Dec 1 2007,1885816
+Italy,Jan 1 2008,1204840
+Italy,Feb 1 2008,1215175
+Italy,Mar 1 2008,948829
+Italy,Apr 1 2008,1618255
+Italy,May 1 2008,924289
+Italy,Jun 1 2008,1390150
+Italy,Jul 1 2008,1080790
+Italy,Aug 1 2008,1770665
+Italy,Sep 1 2008,1331739
+Italy,Oct 1 2008,1753909
+Italy,Nov 1 2008,1020277
+Italy,Dec 1 2008,1650729
+Italy,Jan 1 2009,1286460
+Italy,Feb 1 2009,1822637
+Italy,Mar 1 2009,1569593
+Italy,Apr 1 2009,1273175
+Italy,May 1 2009,1061798
+Italy,Jun 1 2009,1291138
+Italy,Jul 1 2009,1306547
+Italy,Aug 1 2009,976527
+Italy,Sep 1 2009,1830040
+Italy,Oct 1 2009,1222826
+Italy,Nov 1 2009,1099516
+Italy,Dec 1 2009,1755067
+Italy,Jan 1 2010,1331744
+Italy,Feb 1 2010,1779765
+Italy,Mar 1 2010,1135488
+Brazil,Jan 1 2000,3093324
+Brazil,Feb 1 2000,3924044
+Brazil,Mar 1 2000,3619816
+Brazil,Apr 1 2000,3468330
+Brazil,May 1 2000,4767292
+Brazil,Jun 1 2000,4110505
+Brazil,Jul 1 2000,2282176
+Brazil,Aug 1 2000,3376229
+Brazil,Sep 1 2000,4338773
+Brazil,Oct 1 2000,3182294
+Brazil,Nov 1 2000,3915313
+Brazil,Dec 1 2000,3010162
+Brazil,Jan 1 2001,2074075
+Brazil,Feb 1 2001,2439561
+Brazil,Mar 1 2001,3070204
+Brazil,Apr 1 2001,2840512
+Brazil,May 1 2001,3730368
+Brazil,Jun 1 2001,4607977
+Brazil,Jul 1 2001,2204475
+Brazil,Aug 1 2001,2386999
+Brazil,Sep 1 2001,2270627
+Brazil,Oct 1 2001,2109993
+Brazil,Nov 1 2001,4298904
+Brazil,Dec 1 2001,4499469
+Brazil,Jan 1 2002,2696428
+Brazil,Feb 1 2002,4326961
+Brazil,Mar 1 2002,2107521
+Brazil,Apr 1 2002,4017242
+Brazil,May 1 2002,2333230
+Brazil,Jun 1 2002,4888715
+Brazil,Jul 1 2002,2817223
+Brazil,Aug 1 2002,4617943
+Brazil,Sep 1 2002,3834744
+Brazil,Oct 1 2002,4467565
+Brazil,Nov 1 2002,4080394
+Brazil,Dec 1 2002,4670333
+Brazil,Jan 1 2003,2284646
+Brazil,Feb 1 2003,2125974
+Brazil,Mar 1 2003,2284549
+Brazil,Apr 1 2003,1917492
+Brazil,May 1 2003,2107617
+Brazil,Jun 1 2003,2799950
+Brazil,Jul 1 2003,3086514
+Brazil,Aug 1 2003,2615156
+Brazil,Sep 1 2003,3328525
+Brazil,Oct 1 2003,4180912
+Brazil,Nov 1 2003,3643749
+Brazil,Dec 1 2003,4204651
+Brazil,Jan 1 2004,4286941
+Brazil,Feb 1 2004,4848449
+Brazil,Mar 1 2004,2168848
+Brazil,Apr 1 2004,3858595
+Brazil,May 1 2004,4882052
+Brazil,Jun 1 2004,2402040
+Brazil,Jul 1 2004,2243369
+Brazil,Aug 1 2004,2018449
+Brazil,Sep 1 2004,2388546
+Brazil,Oct 1 2004,3037697
+Brazil,Nov 1 2004,4665558
+Brazil,Dec 1 2004,2968025
+Brazil,Jan 1 2005,2393234
+Brazil,Feb 1 2005,3200580
+Brazil,Mar 1 2005,4904505
+Brazil,Apr 1 2005,2763394
+Brazil,May 1 2005,3363979
+Brazil,Jun 1 2005,4892012
+Brazil,Jul 1 2005,2170259
+Brazil,Aug 1 2005,4646478
+Brazil,Sep 1 2005,4751481
+Brazil,Oct 1 2005,3125011
+Brazil,Nov 1 2005,4255121
+Brazil,Dec 1 2005,3477165
+Brazil,Jan 1 2006,4272313
+Brazil,Feb 1 2006,4375528
+Brazil,Mar 1 2006,3638178
+Brazil,Apr 1 2006,2145268
+Brazil,May 1 2006,2951373
+Brazil,Jun 1 2006,4728393
+Brazil,Jul 1 2006,3158848
+Brazil,Aug 1 2006,2808973
+Brazil,Sep 1 2006,3596156
+Brazil,Oct 1 2006,2820660
+Brazil,Nov 1 2006,2427092
+Brazil,Dec 1 2006,2733360
+Brazil,Jan 1 2007,4897675
+Brazil,Feb 1 2007,3230462
+Brazil,Mar 1 2007,3603786
+Brazil,Apr 1 2007,2069877
+Brazil,May 1 2007,4535538
+Brazil,Jun 1 2007,2227716
+Brazil,Jul 1 2007,4338738
+Brazil,Aug 1 2007,3438970
+Brazil,Sep 1 2007,2810151
+Brazil,Oct 1 2007,4025471
+Brazil,Nov 1 2007,2822527
+Brazil,Dec 1 2007,4775825
+Brazil,Jan 1 2008,2934783
+Brazil,Feb 1 2008,2805334
+Brazil,Mar 1 2008,3434615
+Brazil,Apr 1 2008,2510244
+Brazil,May 1 2008,2782598
+Brazil,Jun 1 2008,2818064
+Brazil,Jul 1 2008,4217359
+Brazil,Aug 1 2008,3991048
+Brazil,Sep 1 2008,2181386
+Brazil,Oct 1 2008,1924527
+Brazil,Nov 1 2008,3941456
+Brazil,Dec 1 2008,2979443
+Brazil,Jan 1 2009,3775009
+Brazil,Feb 1 2009,3621943
+Brazil,Mar 1 2009,4946029
+Brazil,Apr 1 2009,2932775
+Brazil,May 1 2009,4848835
+Brazil,Jun 1 2009,3984594
+Brazil,Jul 1 2009,2782125
+Brazil,Aug 1 2009,4514895
+Brazil,Sep 1 2009,2428082
+Brazil,Oct 1 2009,2771530
+Brazil,Nov 1 2009,2256037
+Brazil,Dec 1 2009,2151914
+Brazil,Jan 1 2010,4636082
+Brazil,Feb 1 2010,2758619
+Brazil,Mar 1 2010,4549873
+Vietnam,Jan 1 2000,1562784
+Vietnam,Feb 1 2000,1396698
+Vietnam,Mar 1 2000,1097207
+Vietnam,Apr 1 2000,1351048
+Vietnam,May 1 2000,1298495
+Vietnam,Jun 1 2000,1598437
+Vietnam,Jul 1 2000,910118
+Vietnam,Aug 1 2000,1814676
+Vietnam,Sep 1 2000,1578985
+Vietnam,Oct 1 2000,1392850
+Vietnam,Nov 1 2000,1126263
+Vietnam,Dec 1 2000,1134045
+Vietnam,Jan 1 2001,1501629
+Vietnam,Feb 1 2001,1356113
+Vietnam,Mar 1 2001,1706513
+Vietnam,Apr 1 2001,1401540
+Vietnam,May 1 2001,1671623
+Vietnam,Jun 1 2001,1243207
+Vietnam,Jul 1 2001,972231
+Vietnam,Aug 1 2001,1648691
+Vietnam,Sep 1 2001,1240176
+Vietnam,Oct 1 2001,1426676
+Vietnam,Nov 1 2001,979698
+Vietnam,Dec 1 2001,1846271
+Vietnam,Jan 1 2002,1515688
+Vietnam,Feb 1 2002,1346737
+Vietnam,Mar 1 2002,1477260
+Vietnam,Apr 1 2002,1419444
+Vietnam,May 1 2002,1019555
+Vietnam,Jun 1 2002,1471902
+Vietnam,Jul 1 2002,1781439
+Vietnam,Aug 1 2002,1858507
+Vietnam,Sep 1 2002,1704107
+Vietnam,Oct 1 2002,1442585
+Vietnam,Nov 1 2002,1806395
+Vietnam,Dec 1 2002,1439482
+Vietnam,Jan 1 2003,1798123
+Vietnam,Feb 1 2003,1083389
+Vietnam,Mar 1 2003,1623451
+Vietnam,Apr 1 2003,900857
+Vietnam,May 1 2003,1677646
+Vietnam,Jun 1 2003,1167933
+Vietnam,Jul 1 2003,1123459
+Vietnam,Aug 1 2003,1720863
+Vietnam,Sep 1 2003,1597269
+Vietnam,Oct 1 2003,925013
+Vietnam,Nov 1 2003,1729148
+Vietnam,Dec 1 2003,1101312
+Vietnam,Jan 1 2004,1109792
+Vietnam,Feb 1 2004,1149666
+Vietnam,Mar 1 2004,1269742
+Vietnam,Apr 1 2004,1283784
+Vietnam,May 1 2004,1309335
+Vietnam,Jun 1 2004,1679060
+Vietnam,Jul 1 2004,1372533
+Vietnam,Aug 1 2004,1732335
+Vietnam,Sep 1 2004,1855541
+Vietnam,Oct 1 2004,975131
+Vietnam,Nov 1 2004,1117139
+Vietnam,Dec 1 2004,1305754
+Vietnam,Jan 1 2005,1519128
+Vietnam,Feb 1 2005,1864837
+Vietnam,Mar 1 2005,1260765
+Vietnam,Apr 1 2005,1326083
+Vietnam,May 1 2005,1072551
+Vietnam,Jun 1 2005,1399350
+Vietnam,Jul 1 2005,1123882
+Vietnam,Aug 1 2005,1457102
+Vietnam,Sep 1 2005,1371000
+Vietnam,Oct 1 2005,1592656
+Vietnam,Nov 1 2005,1619310
+Vietnam,Dec 1 2005,1589992
+Vietnam,Jan 1 2006,1562791
+Vietnam,Feb 1 2006,1054613
+Vietnam,Mar 1 2006,1506626
+Vietnam,Apr 1 2006,1585933
+Vietnam,May 1 2006,1880960
+Vietnam,Jun 1 2006,1614827
+Vietnam,Jul 1 2006,1416495
+Vietnam,Aug 1 2006,1031711
+Vietnam,Sep 1 2006,1855599
+Vietnam,Oct 1 2006,1598855
+Vietnam,Nov 1 2006,1690561
+Vietnam,Dec 1 2006,1681787
+Vietnam,Jan 1 2007,1292906
+Vietnam,Feb 1 2007,1510496
+Vietnam,Mar 1 2007,928622
+Vietnam,Apr 1 2007,931350
+Vietnam,May 1 2007,1297245
+Vietnam,Jun 1 2007,1197657
+Vietnam,Jul 1 2007,1459362
+Vietnam,Aug 1 2007,1624318
+Vietnam,Sep 1 2007,1591983
+Vietnam,Oct 1 2007,1702386
+Vietnam,Nov 1 2007,1542079
+Vietnam,Dec 1 2007,917324
+Vietnam,Jan 1 2008,901199
+Vietnam,Feb 1 2008,901353
+Vietnam,Mar 1 2008,1896817
+Vietnam,Apr 1 2008,1641284
+Vietnam,May 1 2008,1014813
+Vietnam,Jun 1 2008,1374088
+Vietnam,Jul 1 2008,1493124
+Vietnam,Aug 1 2008,1773956
+Vietnam,Sep 1 2008,1472280
+Vietnam,Oct 1 2008,1685897
+Vietnam,Nov 1 2008,1162443
+Vietnam,Dec 1 2008,910080
+Vietnam,Jan 1 2009,1229461
+Vietnam,Feb 1 2009,1129897
+Vietnam,Mar 1 2009,1371825
+Vietnam,Apr 1 2009,1530007
+Vietnam,May 1 2009,1440507
+Vietnam,Jun 1 2009,1006609
+Vietnam,Jul 1 2009,1531680
+Vietnam,Aug 1 2009,1722055
+Vietnam,Sep 1 2009,1089653
+Vietnam,Oct 1 2009,1653827
+Vietnam,Nov 1 2009,1189547
+Vietnam,Dec 1 2009,1635921
+Vietnam,Jan 1 2010,1379124
+Vietnam,Feb 1 2010,1129793
+Vietnam,Mar 1 2010,1271253
+France,Jan 1 2000,1183664
+France,Feb 1 2000,1739020
+France,Mar 1 2000,918804
+France,Apr 1 2000,1556455
+France,May 1 2000,1631029
+France,Jun 1 2000,1120893
+France,Jul 1 2000,1300538
+France,Aug 1 2000,1335042
+France,Sep 1 2000,1279955
+France,Oct 1 2000,1428981
+France,Nov 1 2000,1010140
+France,Dec 1 2000,1571947
+France,Jan 1 2001,1532818
+France,Feb 1 2001,1013694
+France,Mar 1 2001,1180926
+France,Apr 1 2001,956119
+France,May 1 2001,1031614
+France,Jun 1 2001,1409701
+France,Jul 1 2001,1875614
+France,Aug 1 2001,1295618
+France,Sep 1 2001,1769655
+France,Oct 1 2001,1312061
+France,Nov 1 2001,1728514
+France,Dec 1 2001,1208456
+France,Jan 1 2002,1513316
+France,Feb 1 2002,1226241
+France,Mar 1 2002,1783486
+France,Apr 1 2002,1015593
+France,May 1 2002,1881834
+France,Jun 1 2002,1381536
+France,Jul 1 2002,1805071
+France,Aug 1 2002,1428490
+France,Sep 1 2002,905586
+France,Oct 1 2002,1078193
+France,Nov 1 2002,1144225
+France,Dec 1 2002,950622
+France,Jan 1 2003,1774011
+France,Feb 1 2003,1331990
+France,Mar 1 2003,1656388
+France,Apr 1 2003,1006972
+France,May 1 2003,1466001
+France,Jun 1 2003,1176645
+France,Jul 1 2003,1226254
+France,Aug 1 2003,1157370
+France,Sep 1 2003,1503395
+France,Oct 1 2003,1295860
+France,Nov 1 2003,1197622
+France,Dec 1 2003,1551877
+France,Jan 1 2004,1621869
+France,Feb 1 2004,1567274
+France,Mar 1 2004,1754499
+France,Apr 1 2004,1386608
+France,May 1 2004,1801685
+France,Jun 1 2004,1342658
+France,Jul 1 2004,1870593
+France,Aug 1 2004,1560266
+France,Sep 1 2004,976304
+France,Oct 1 2004,1168232
+France,Nov 1 2004,1710494
+France,Dec 1 2004,1356355
+France,Jan 1 2005,1021035
+France,Feb 1 2005,1088435
+France,Mar 1 2005,1845511
+France,Apr 1 2005,1215562
+France,May 1 2005,1198531
+France,Jun 1 2005,940586
+France,Jul 1 2005,1635602
+France,Aug 1 2005,1193270
+France,Sep 1 2005,1454281
+France,Oct 1 2005,1782335
+France,Nov 1 2005,933056
+France,Dec 1 2005,1842384
+France,Jan 1 2006,1524927
+France,Feb 1 2006,1796514
+France,Mar 1 2006,1078403
+France,Apr 1 2006,1893019
+France,May 1 2006,1739459
+France,Jun 1 2006,1113069
+France,Jul 1 2006,1747408
+France,Aug 1 2006,1003695
+France,Sep 1 2006,1064696
+France,Oct 1 2006,1009686
+France,Nov 1 2006,1749094
+France,Dec 1 2006,1383618
+France,Jan 1 2007,1750527
+France,Feb 1 2007,1004913
+France,Mar 1 2007,1320180
+France,Apr 1 2007,1655123
+France,May 1 2007,1053138
+France,Jun 1 2007,1245340
+France,Jul 1 2007,1261160
+France,Aug 1 2007,1021223
+France,Sep 1 2007,999967
+France,Oct 1 2007,1373149
+France,Nov 1 2007,1696553
+France,Dec 1 2007,1084362
+France,Jan 1 2008,1284585
+France,Feb 1 2008,1855553
+France,Mar 1 2008,1508011
+France,Apr 1 2008,1374927
+France,May 1 2008,1767730
+France,Jun 1 2008,985162
+France,Jul 1 2008,1622310
+France,Aug 1 2008,1002638
+France,Sep 1 2008,1803908
+France,Oct 1 2008,1446047
+France,Nov 1 2008,1270769
+France,Dec 1 2008,1779664
+France,Jan 1 2009,1679823
+France,Feb 1 2009,1405331
+France,Mar 1 2009,1617926
+France,Apr 1 2009,1160159
+France,May 1 2009,1838797
+France,Jun 1 2009,1859417
+France,Jul 1 2009,1483057
+France,Aug 1 2009,1261168
+France,Sep 1 2009,1798836
+France,Oct 1 2009,1490002
+France,Nov 1 2009,1751053
+France,Dec 1 2009,1183462
+France,Jan 1 2010,1663067
+France,Feb 1 2010,1757440
+France,Mar 1 2010,1384525
+Egypt,Jan 1 2000,1155924
+Egypt,Feb 1 2000,1802684
+Egypt,Mar 1 2000,1085005
+Egypt,Apr 1 2000,953471
+Egypt,May 1 2000,1457746
+Egypt,Jun 1 2000,1588322
+Egypt,Jul 1 2000,1479857
+Egypt,Aug 1 2000,1563928
+Egypt,Sep 1 2000,1054969
+Egypt,Oct 1 2000,1006846
+Egypt,Nov 1 2000,1773275
+Egypt,Dec 1 2000,918035
+Egypt,Jan 1 2001,1514634
+Egypt,Feb 1 2001,1329126
+Egypt,Mar 1 2001,1225120
+Egypt,Apr 1 2001,1851521
+Egypt,May 1 2001,1131376
+Egypt,Jun 1 2001,1485323
+Egypt,Jul 1 2001,1261263
+Egypt,Aug 1 2001,1271366
+Egypt,Sep 1 2001,1424267
+Egypt,Oct 1 2001,1379058
+Egypt,Nov 1 2001,1647631
+Egypt,Dec 1 2001,1581043
+Egypt,Jan 1 2002,1416751
+Egypt,Feb 1 2002,1593898
+Egypt,Mar 1 2002,1870865
+Egypt,Apr 1 2002,1623088
+Egypt,May 1 2002,1724063
+Egypt,Jun 1 2002,1345008
+Egypt,Jul 1 2002,1253486
+Egypt,Aug 1 2002,1023184
+Egypt,Sep 1 2002,1479892
+Egypt,Oct 1 2002,1369988
+Egypt,Nov 1 2002,1045351
+Egypt,Dec 1 2002,1184873
+Egypt,Jan 1 2003,1070863
+Egypt,Feb 1 2003,1149891
+Egypt,Mar 1 2003,1463533
+Egypt,Apr 1 2003,1023065
+Egypt,May 1 2003,1548177
+Egypt,Jun 1 2003,1136809
+Egypt,Jul 1 2003,931448
+Egypt,Aug 1 2003,1244952
+Egypt,Sep 1 2003,1331253
+Egypt,Oct 1 2003,1149815
+Egypt,Nov 1 2003,1177508
+Egypt,Dec 1 2003,1885862
+Egypt,Jan 1 2004,1009801
+Egypt,Feb 1 2004,1784343
+Egypt,Mar 1 2004,1836778
+Egypt,Apr 1 2004,1417891
+Egypt,May 1 2004,1276756
+Egypt,Jun 1 2004,993357
+Egypt,Jul 1 2004,1890171
+Egypt,Aug 1 2004,968578
+Egypt,Sep 1 2004,1519292
+Egypt,Oct 1 2004,971653
+Egypt,Nov 1 2004,1513388
+Egypt,Dec 1 2004,947531
+Egypt,Jan 1 2005,1591365
+Egypt,Feb 1 2005,1139450
+Egypt,Mar 1 2005,1209200
+Egypt,Apr 1 2005,1787033
+Egypt,May 1 2005,1848736
+Egypt,Jun 1 2005,1396617
+Egypt,Jul 1 2005,980717
+Egypt,Aug 1 2005,1104835
+Egypt,Sep 1 2005,1530107
+Egypt,Oct 1 2005,1268840
+Egypt,Nov 1 2005,1461135
+Egypt,Dec 1 2005,946848
+Egypt,Jan 1 2006,1410377
+Egypt,Feb 1 2006,1370101
+Egypt,Mar 1 2006,1135499
+Egypt,Apr 1 2006,1793431
+Egypt,May 1 2006,996427
+Egypt,Jun 1 2006,1290541
+Egypt,Jul 1 2006,1528423
+Egypt,Aug 1 2006,1605134
+Egypt,Sep 1 2006,1584835
+Egypt,Oct 1 2006,1602359
+Egypt,Nov 1 2006,1689106
+Egypt,Dec 1 2006,1024700
+Egypt,Jan 1 2007,1303911
+Egypt,Feb 1 2007,1311818
+Egypt,Mar 1 2007,1441291
+Egypt,Apr 1 2007,1176026
+Egypt,May 1 2007,1680785
+Egypt,Jun 1 2007,1411875
+Egypt,Jul 1 2007,1861831
+Egypt,Aug 1 2007,1030621
+Egypt,Sep 1 2007,1040849
+Egypt,Oct 1 2007,1040114
+Egypt,Nov 1 2007,1378049
+Egypt,Dec 1 2007,1647768
+Egypt,Jan 1 2008,1524540
+Egypt,Feb 1 2008,956860
+Egypt,Mar 1 2008,1770028
+Egypt,Apr 1 2008,1309145
+Egypt,May 1 2008,1694484
+Egypt,Jun 1 2008,905443
+Egypt,Jul 1 2008,939593
+Egypt,Aug 1 2008,1241034
+Egypt,Sep 1 2008,1759508
+Egypt,Oct 1 2008,1684730
+Egypt,Nov 1 2008,1835930
+Egypt,Dec 1 2008,1833998
+Egypt,Jan 1 2009,1115720
+Egypt,Feb 1 2009,1478826
+Egypt,Mar 1 2009,1861407
+Egypt,Apr 1 2009,948571
+Egypt,May 1 2009,1112170
+Egypt,Jun 1 2009,1630829
+Egypt,Jul 1 2009,1295059
+Egypt,Aug 1 2009,1855433
+Egypt,Sep 1 2009,1604275
+Egypt,Oct 1 2009,1470732
+Egypt,Nov 1 2009,1494436
+Egypt,Dec 1 2009,997838
+Egypt,Jan 1 2010,1478691
+Egypt,Feb 1 2010,1517141
+Egypt,Mar 1 2010,1176901
+South Korea,Jan 1 2000,1336709
+South Korea,Feb 1 2000,1458888
+South Korea,Mar 1 2000,1474523
+South Korea,Apr 1 2000,1796444
+South Korea,May 1 2000,1783369
+South Korea,Jun 1 2000,1665060
+South Korea,Jul 1 2000,1310144
+South Korea,Aug 1 2000,1573840
+South Korea,Sep 1 2000,1151770
+South Korea,Oct 1 2000,1113886
+South Korea,Nov 1 2000,1719699
+South Korea,Dec 1 2000,1765822
+South Korea,Jan 1 2001,1052290
+South Korea,Feb 1 2001,1270725
+South Korea,Mar 1 2001,1098218
+South Korea,Apr 1 2001,943062
+South Korea,May 1 2001,1625916
+South Korea,Jun 1 2001,1434461
+South Korea,Jul 1 2001,1189981
+South Korea,Aug 1 2001,1452065
+South Korea,Sep 1 2001,1427196
+South Korea,Oct 1 2001,1763227
+South Korea,Nov 1 2001,1551741
+South Korea,Dec 1 2001,1365113
+South Korea,Jan 1 2002,918181
+South Korea,Feb 1 2002,1862199
+South Korea,Mar 1 2002,1842205
+South Korea,Apr 1 2002,993342
+South Korea,May 1 2002,1758010
+South Korea,Jun 1 2002,1459208
+South Korea,Jul 1 2002,1217703
+South Korea,Aug 1 2002,1260775
+South Korea,Sep 1 2002,1842831
+South Korea,Oct 1 2002,916858
+South Korea,Nov 1 2002,1673911
+South Korea,Dec 1 2002,1239202
+South Korea,Jan 1 2003,1749134
+South Korea,Feb 1 2003,1167393
+South Korea,Mar 1 2003,1047152
+South Korea,Apr 1 2003,1840830
+South Korea,May 1 2003,1198751
+South Korea,Jun 1 2003,1697016
+South Korea,Jul 1 2003,1516728
+South Korea,Aug 1 2003,1357641
+South Korea,Sep 1 2003,1191542
+South Korea,Oct 1 2003,1425007
+South Korea,Nov 1 2003,1236087
+South Korea,Dec 1 2003,1655671
+South Korea,Jan 1 2004,1188964
+South Korea,Feb 1 2004,1846724
+South Korea,Mar 1 2004,901568
+South Korea,Apr 1 2004,1616753
+South Korea,May 1 2004,1763431
+South Korea,Jun 1 2004,1351572
+South Korea,Jul 1 2004,1664719
+South Korea,Aug 1 2004,1084831
+South Korea,Sep 1 2004,1325503
+South Korea,Oct 1 2004,1551588
+South Korea,Nov 1 2004,1320836
+South Korea,Dec 1 2004,1359627
+South Korea,Jan 1 2005,1826643
+South Korea,Feb 1 2005,1407969
+South Korea,Mar 1 2005,983040
+South Korea,Apr 1 2005,1162211
+South Korea,May 1 2005,1364066
+South Korea,Jun 1 2005,1609595
+South Korea,Jul 1 2005,1436225
+South Korea,Aug 1 2005,1381867
+South Korea,Sep 1 2005,905756
+South Korea,Oct 1 2005,955828
+South Korea,Nov 1 2005,1115229
+South Korea,Dec 1 2005,1489458
+South Korea,Jan 1 2006,1739577
+South Korea,Feb 1 2006,1662401
+South Korea,Mar 1 2006,1624928
+South Korea,Apr 1 2006,1267655
+South Korea,May 1 2006,1346570
+South Korea,Jun 1 2006,940401
+South Korea,Jul 1 2006,1858333
+South Korea,Aug 1 2006,1192422
+South Korea,Sep 1 2006,1283001
+South Korea,Oct 1 2006,1485614
+South Korea,Nov 1 2006,1290513
+South Korea,Dec 1 2006,1681738
+South Korea,Jan 1 2007,1542144
+South Korea,Feb 1 2007,1762152
+South Korea,Mar 1 2007,1808815
+South Korea,Apr 1 2007,1635789
+South Korea,May 1 2007,919044
+South Korea,Jun 1 2007,1665718
+South Korea,Jul 1 2007,1876696
+South Korea,Aug 1 2007,1528813
+South Korea,Sep 1 2007,1345204
+South Korea,Oct 1 2007,1794271
+South Korea,Nov 1 2007,1260736
+South Korea,Dec 1 2007,1409581
+South Korea,Jan 1 2008,949974
+South Korea,Feb 1 2008,1455421
+South Korea,Mar 1 2008,1859233
+South Korea,Apr 1 2008,1307335
+South Korea,May 1 2008,1110867
+South Korea,Jun 1 2008,1381709
+South Korea,Jul 1 2008,1890037
+South Korea,Aug 1 2008,1619211
+South Korea,Sep 1 2008,1393356
+South Korea,Oct 1 2008,1044232
+South Korea,Nov 1 2008,1268997
+South Korea,Dec 1 2008,1292387
+South Korea,Jan 1 2009,1046534
+South Korea,Feb 1 2009,1728091
+South Korea,Mar 1 2009,1570784
+South Korea,Apr 1 2009,915522
+South Korea,May 1 2009,1883957
+South Korea,Jun 1 2009,1276820
+South Korea,Jul 1 2009,1355960
+South Korea,Aug 1 2009,1694956
+South Korea,Sep 1 2009,1861958
+South Korea,Oct 1 2009,1485461
+South Korea,Nov 1 2009,1594919
+South Korea,Dec 1 2009,1714707
+South Korea,Jan 1 2010,1786467
+South Korea,Feb 1 2010,1282378
+South Korea,Mar 1 2010,1295554
+New Zealand,Jan 1 2000,371808
+New Zealand,Feb 1 2000,597323
+New Zealand,Mar 1 2000,294894
+New Zealand,Apr 1 2000,465676
+New Zealand,May 1 2000,583439
+New Zealand,Jun 1 2000,508203
+New Zealand,Jul 1 2000,291069
+New Zealand,Aug 1 2000,412448
+New Zealand,Sep 1 2000,498553
+New Zealand,Oct 1 2000,563247
+New Zealand,Nov 1 2000,592232
+New Zealand,Dec 1 2000,541728
+New Zealand,Jan 1 2001,302442
+New Zealand,Feb 1 2001,203508
+New Zealand,Mar 1 2001,514305
+New Zealand,Apr 1 2001,269332
+New Zealand,May 1 2001,351949
+New Zealand,Jun 1 2001,465515
+New Zealand,Jul 1 2001,212501
+New Zealand,Aug 1 2001,388212
+New Zealand,Sep 1 2001,379337
+New Zealand,Oct 1 2001,454087
+New Zealand,Nov 1 2001,296889
+New Zealand,Dec 1 2001,516437
+New Zealand,Jan 1 2002,293081
+New Zealand,Feb 1 2002,447311
+New Zealand,Mar 1 2002,558814
+New Zealand,Apr 1 2002,392121
+New Zealand,May 1 2002,351016
+New Zealand,Jun 1 2002,409931
+New Zealand,Jul 1 2002,490697
+New Zealand,Aug 1 2002,589290
+New Zealand,Sep 1 2002,582929
+New Zealand,Oct 1 2002,535876
+New Zealand,Nov 1 2002,385215
+New Zealand,Dec 1 2002,241806
+New Zealand,Jan 1 2003,586432
+New Zealand,Feb 1 2003,547285
+New Zealand,Mar 1 2003,415570
+New Zealand,Apr 1 2003,443994
+New Zealand,May 1 2003,382459
+New Zealand,Jun 1 2003,414802
+New Zealand,Jul 1 2003,597942
+New Zealand,Aug 1 2003,463111
+New Zealand,Sep 1 2003,536283
+New Zealand,Oct 1 2003,279675
+New Zealand,Nov 1 2003,372359
+New Zealand,Dec 1 2003,454549
+New Zealand,Jan 1 2004,369400
+New Zealand,Feb 1 2004,484383
+New Zealand,Mar 1 2004,448180
+New Zealand,Apr 1 2004,518335
+New Zealand,May 1 2004,303872
+New Zealand,Jun 1 2004,284965
+New Zealand,Jul 1 2004,424347
+New Zealand,Aug 1 2004,252498
+New Zealand,Sep 1 2004,291201
+New Zealand,Oct 1 2004,413187
+New Zealand,Nov 1 2004,346064
+New Zealand,Dec 1 2004,571260
+New Zealand,Jan 1 2005,482477
+New Zealand,Feb 1 2005,529891
+New Zealand,Mar 1 2005,252771
+New Zealand,Apr 1 2005,233738
+New Zealand,May 1 2005,419609
+New Zealand,Jun 1 2005,229190
+New Zealand,Jul 1 2005,337061
+New Zealand,Aug 1 2005,242037
+New Zealand,Sep 1 2005,407872
+New Zealand,Oct 1 2005,302990
+New Zealand,Nov 1 2005,371641
+New Zealand,Dec 1 2005,320805
+New Zealand,Jan 1 2006,513153
+New Zealand,Feb 1 2006,352886
+New Zealand,Mar 1 2006,561778
+New Zealand,Apr 1 2006,290449
+New Zealand,May 1 2006,462563
+New Zealand,Jun 1 2006,252937
+New Zealand,Jul 1 2006,319242
+New Zealand,Aug 1 2006,568004
+New Zealand,Sep 1 2006,408176
+New Zealand,Oct 1 2006,288097
+New Zealand,Nov 1 2006,312050
+New Zealand,Dec 1 2006,401242
+New Zealand,Jan 1 2007,599380
+New Zealand,Feb 1 2007,314454
+New Zealand,Mar 1 2007,552775
+New Zealand,Apr 1 2007,218386
+New Zealand,May 1 2007,342820
+New Zealand,Jun 1 2007,342225
+New Zealand,Jul 1 2007,283653
+New Zealand,Aug 1 2007,528275
+New Zealand,Sep 1 2007,315762
+New Zealand,Oct 1 2007,534301
+New Zealand,Nov 1 2007,218676
+New Zealand,Dec 1 2007,560676
+New Zealand,Jan 1 2008,529119
+New Zealand,Feb 1 2008,230333
+New Zealand,Mar 1 2008,551079
+New Zealand,Apr 1 2008,341994
+New Zealand,May 1 2008,392005
+New Zealand,Jun 1 2008,561057
+New Zealand,Jul 1 2008,303129
+New Zealand,Aug 1 2008,562243
+New Zealand,Sep 1 2008,240116
+New Zealand,Oct 1 2008,553551
+New Zealand,Nov 1 2008,420646
+New Zealand,Dec 1 2008,267508
+New Zealand,Jan 1 2009,593826
+New Zealand,Feb 1 2009,380410
+New Zealand,Mar 1 2009,492273
+New Zealand,Apr 1 2009,345475
+New Zealand,May 1 2009,542968
+New Zealand,Jun 1 2009,573576
+New Zealand,Jul 1 2009,272363
+New Zealand,Aug 1 2009,301417
+New Zealand,Sep 1 2009,240398
+New Zealand,Oct 1 2009,223510
+New Zealand,Nov 1 2009,289638
+New Zealand,Dec 1 2009,371643
+New Zealand,Jan 1 2010,553425
+New Zealand,Feb 1 2010,517304
+New Zealand,Mar 1 2010,358826
+Venezuela,Jan 1 2000,209709
+Venezuela,Feb 1 2000,589223
+Venezuela,Mar 1 2000,340005
+Venezuela,Apr 1 2000,558477
+Venezuela,May 1 2000,524924
+Venezuela,Jun 1 2000,386513
+Venezuela,Jul 1 2000,437035
+Venezuela,Aug 1 2000,411706
+Venezuela,Sep 1 2000,200198
+Venezuela,Oct 1 2000,544027
+Venezuela,Nov 1 2000,459185
+Venezuela,Dec 1 2000,563127
+Venezuela,Jan 1 2001,218195
+Venezuela,Feb 1 2001,528020
+Venezuela,Mar 1 2001,500889
+Venezuela,Apr 1 2001,456815
+Venezuela,May 1 2001,294068
+Venezuela,Jun 1 2001,504257
+Venezuela,Jul 1 2001,521561
+Venezuela,Aug 1 2001,293615
+Venezuela,Sep 1 2001,487307
+Venezuela,Oct 1 2001,471328
+Venezuela,Nov 1 2001,262176
+Venezuela,Dec 1 2001,420262
+Venezuela,Jan 1 2002,465348
+Venezuela,Feb 1 2002,434130
+Venezuela,Mar 1 2002,376931
+Venezuela,Apr 1 2002,376998
+Venezuela,May 1 2002,331627
+Venezuela,Jun 1 2002,448036
+Venezuela,Jul 1 2002,472538
+Venezuela,Aug 1 2002,578433
+Venezuela,Sep 1 2002,243583
+Venezuela,Oct 1 2002,294569
+Venezuela,Nov 1 2002,462186
+Venezuela,Dec 1 2002,308152
+Venezuela,Jan 1 2003,250819
+Venezuela,Feb 1 2003,417740
+Venezuela,Mar 1 2003,525779
+Venezuela,Apr 1 2003,548003
+Venezuela,May 1 2003,451895
+Venezuela,Jun 1 2003,554192
+Venezuela,Jul 1 2003,526401
+Venezuela,Aug 1 2003,551803
+Venezuela,Sep 1 2003,587551
+Venezuela,Oct 1 2003,241029
+Venezuela,Nov 1 2003,308966
+Venezuela,Dec 1 2003,531991
+Venezuela,Jan 1 2004,436177
+Venezuela,Feb 1 2004,369179
+Venezuela,Mar 1 2004,429197
+Venezuela,Apr 1 2004,267580
+Venezuela,May 1 2004,303738
+Venezuela,Jun 1 2004,427508
+Venezuela,Jul 1 2004,255111
+Venezuela,Aug 1 2004,521449
+Venezuela,Sep 1 2004,275526
+Venezuela,Oct 1 2004,359074
+Venezuela,Nov 1 2004,568293
+Venezuela,Dec 1 2004,261793
+Venezuela,Jan 1 2005,426930
+Venezuela,Feb 1 2005,441744
+Venezuela,Mar 1 2005,421473
+Venezuela,Apr 1 2005,394914
+Venezuela,May 1 2005,591054
+Venezuela,Jun 1 2005,571498
+Venezuela,Jul 1 2005,356591
+Venezuela,Aug 1 2005,385850
+Venezuela,Sep 1 2005,323400
+Venezuela,Oct 1 2005,290564
+Venezuela,Nov 1 2005,487579
+Venezuela,Dec 1 2005,244364
+Venezuela,Jan 1 2006,502723
+Venezuela,Feb 1 2006,207774
+Venezuela,Mar 1 2006,333172
+Venezuela,Apr 1 2006,499661
+Venezuela,May 1 2006,451329
+Venezuela,Jun 1 2006,478259
+Venezuela,Jul 1 2006,553927
+Venezuela,Aug 1 2006,228547
+Venezuela,Sep 1 2006,540554
+Venezuela,Oct 1 2006,376590
+Venezuela,Nov 1 2006,313598
+Venezuela,Dec 1 2006,323231
+Venezuela,Jan 1 2007,381735
+Venezuela,Feb 1 2007,571713
+Venezuela,Mar 1 2007,439036
+Venezuela,Apr 1 2007,426453
+Venezuela,May 1 2007,469926
+Venezuela,Jun 1 2007,586634
+Venezuela,Jul 1 2007,460871
+Venezuela,Aug 1 2007,259696
+Venezuela,Sep 1 2007,349157
+Venezuela,Oct 1 2007,456223
+Venezuela,Nov 1 2007,584277
+Venezuela,Dec 1 2007,357883
+Venezuela,Jan 1 2008,382259
+Venezuela,Feb 1 2008,368614
+Venezuela,Mar 1 2008,386991
+Venezuela,Apr 1 2008,422439
+Venezuela,May 1 2008,306183
+Venezuela,Jun 1 2008,472292
+Venezuela,Jul 1 2008,258655
+Venezuela,Aug 1 2008,376882
+Venezuela,Sep 1 2008,245312
+Venezuela,Oct 1 2008,305815
+Venezuela,Nov 1 2008,323824
+Venezuela,Dec 1 2008,497558
+Venezuela,Jan 1 2009,398222
+Venezuela,Feb 1 2009,517613
+Venezuela,Mar 1 2009,223612
+Venezuela,Apr 1 2009,514410
+Venezuela,May 1 2009,412638
+Venezuela,Jun 1 2009,344715
+Venezuela,Jul 1 2009,510281
+Venezuela,Aug 1 2009,260539
+Venezuela,Sep 1 2009,588780
+Venezuela,Oct 1 2009,287672
+Venezuela,Nov 1 2009,313081
+Venezuela,Dec 1 2009,523000
+Venezuela,Jan 1 2010,384032
+Venezuela,Feb 1 2010,387510
+Venezuela,Mar 1 2010,427794
+India,Jan 1 2000,3142061
+India,Feb 1 2000,3546592
+India,Mar 1 2000,4324173
+India,Apr 1 2000,4309124
+India,May 1 2000,2676977
+India,Jun 1 2000,2693843
+India,Jul 1 2000,3185548
+India,Aug 1 2000,3460954
+India,Sep 1 2000,2316768
+India,Oct 1 2000,2322757
+India,Nov 1 2000,2202152
+India,Dec 1 2000,3500116
+India,Jan 1 2001,3711377
+India,Feb 1 2001,4208148
+India,Mar 1 2001,1935222
+India,Apr 1 2001,3126349
+India,May 1 2001,2225844
+India,Jun 1 2001,4122055
+India,Jul 1 2001,4756507
+India,Aug 1 2001,1957879
+India,Sep 1 2001,2523763
+India,Oct 1 2001,3474942
+India,Nov 1 2001,4312163
+India,Dec 1 2001,3630575
+India,Jan 1 2002,4625840
+India,Feb 1 2002,2561772
+India,Mar 1 2002,4555315
+India,Apr 1 2002,3916273
+India,May 1 2002,2066542
+India,Jun 1 2002,2952237
+India,Jul 1 2002,2676665
+India,Aug 1 2002,2035507
+India,Sep 1 2002,1917463
+India,Oct 1 2002,2372209
+India,Nov 1 2002,2867504
+India,Dec 1 2002,3586528
+India,Jan 1 2003,3135638
+India,Feb 1 2003,4861320
+India,Mar 1 2003,3532020
+India,Apr 1 2003,4410779
+India,May 1 2003,4957298
+India,Jun 1 2003,4382640
+India,Jul 1 2003,3564560
+India,Aug 1 2003,3168887
+India,Sep 1 2003,2050809
+India,Oct 1 2003,3839831
+India,Nov 1 2003,2256204
+India,Dec 1 2003,4558064
+India,Jan 1 2004,4995989
+India,Feb 1 2004,4139372
+India,Mar 1 2004,1923332
+India,Apr 1 2004,3261749
+India,May 1 2004,2846037
+India,Jun 1 2004,4978820
+India,Jul 1 2004,2398946
+India,Aug 1 2004,4848287
+India,Sep 1 2004,2596780
+India,Oct 1 2004,3300822
+India,Nov 1 2004,3590881
+India,Dec 1 2004,4755863
+India,Jan 1 2005,2084108
+India,Feb 1 2005,4117547
+India,Mar 1 2005,4475996
+India,Apr 1 2005,3280826
+India,May 1 2005,3612653
+India,Jun 1 2005,4744527
+India,Jul 1 2005,4487012
+India,Aug 1 2005,4901945
+India,Sep 1 2005,3864731
+India,Oct 1 2005,2435839
+India,Nov 1 2005,2680639
+India,Dec 1 2005,2254014
+India,Jan 1 2006,4672250
+India,Feb 1 2006,3969833
+India,Mar 1 2006,2046096
+India,Apr 1 2006,4161731
+India,May 1 2006,4625168
+India,Jun 1 2006,2066277
+India,Jul 1 2006,4589151
+India,Aug 1 2006,3704121
+India,Sep 1 2006,3656317
+India,Oct 1 2006,2233904
+India,Nov 1 2006,3236278
+India,Dec 1 2006,3246144
+India,Jan 1 2007,3597435
+India,Feb 1 2007,4600474
+India,Mar 1 2007,2970845
+India,Apr 1 2007,2735083
+India,May 1 2007,3459672
+India,Jun 1 2007,3431945
+India,Jul 1 2007,2120073
+India,Aug 1 2007,4090710
+India,Sep 1 2007,2206298
+India,Oct 1 2007,2174463
+India,Nov 1 2007,3572690
+India,Dec 1 2007,4712839
+India,Jan 1 2008,3363623
+India,Feb 1 2008,1900689
+India,Mar 1 2008,3659679
+India,Apr 1 2008,2319351
+India,May 1 2008,3247096
+India,Jun 1 2008,4682369
+India,Jul 1 2008,2890700
+India,Aug 1 2008,4505252
+India,Sep 1 2008,4113234
+India,Oct 1 2008,2510091
+India,Nov 1 2008,3531557
+India,Dec 1 2008,2116068
+India,Jan 1 2009,4121631
+India,Feb 1 2009,2623083
+India,Mar 1 2009,4603955
+India,Apr 1 2009,2009592
+India,May 1 2009,4375325
+India,Jun 1 2009,3244591
+India,Jul 1 2009,3579703
+India,Aug 1 2009,2839448
+India,Sep 1 2009,3408921
+India,Oct 1 2009,1990944
+India,Nov 1 2009,2473425
+India,Dec 1 2009,2902346
+India,Jan 1 2010,3801893
+India,Feb 1 2010,4778112
+India,Mar 1 2010,3521032
+USA,Jan 1 2000,4994575
+USA,Feb 1 2000,2489382
+USA,Mar 1 2000,3044383
+USA,Apr 1 2000,4450639
+USA,May 1 2000,4886324
+USA,Jun 1 2000,4792815
+USA,Jul 1 2000,2880108
+USA,Aug 1 2000,2109237
+USA,Sep 1 2000,3693058
+USA,Oct 1 2000,4892331
+USA,Nov 1 2000,4812388
+USA,Dec 1 2000,3284077
+USA,Jan 1 2001,2806980
+USA,Feb 1 2001,4032065
+USA,Mar 1 2001,3606967
+USA,Apr 1 2001,3436244
+USA,May 1 2001,2156928
+USA,Jun 1 2001,3818408
+USA,Jul 1 2001,4217000
+USA,Aug 1 2001,2248807
+USA,Sep 1 2001,4039759
+USA,Oct 1 2001,4411916
+USA,Nov 1 2001,4924223
+USA,Dec 1 2001,4543308
+USA,Jan 1 2002,3486956
+USA,Feb 1 2002,4654597
+USA,Mar 1 2002,4357786
+USA,Apr 1 2002,2944260
+USA,May 1 2002,3135573
+USA,Jun 1 2002,2923327
+USA,Jul 1 2002,3894943
+USA,Aug 1 2002,3840840
+USA,Sep 1 2002,3878481
+USA,Oct 1 2002,4976817
+USA,Nov 1 2002,3932421
+USA,Dec 1 2002,3635052
+USA,Jan 1 2003,4583675
+USA,Feb 1 2003,3171061
+USA,Mar 1 2003,3716446
+USA,Apr 1 2003,3511264
+USA,May 1 2003,3059038
+USA,Jun 1 2003,2018418
+USA,Jul 1 2003,4513840
+USA,Aug 1 2003,2405282
+USA,Sep 1 2003,3587818
+USA,Oct 1 2003,4348268
+USA,Nov 1 2003,4436873
+USA,Dec 1 2003,1915201
+USA,Jan 1 2004,3854900
+USA,Feb 1 2004,3201501
+USA,Mar 1 2004,1941249
+USA,Apr 1 2004,3832270
+USA,May 1 2004,1969364
+USA,Jun 1 2004,4080578
+USA,Jul 1 2004,3772935
+USA,Aug 1 2004,2617998
+USA,Sep 1 2004,3179941
+USA,Oct 1 2004,2225522
+USA,Nov 1 2004,4953561
+USA,Dec 1 2004,4070566
+USA,Jan 1 2005,4431987
+USA,Feb 1 2005,2000877
+USA,Mar 1 2005,3796571
+USA,Apr 1 2005,4859065
+USA,May 1 2005,2945890
+USA,Jun 1 2005,3469379
+USA,Jul 1 2005,2676658
+USA,Aug 1 2005,4237127
+USA,Sep 1 2005,2896106
+USA,Oct 1 2005,4520984
+USA,Nov 1 2005,4720122
+USA,Dec 1 2005,2716665
+USA,Jan 1 2006,2081960
+USA,Feb 1 2006,3783546
+USA,Mar 1 2006,3901114
+USA,Apr 1 2006,3370650
+USA,May 1 2006,4514324
+USA,Jun 1 2006,4235994
+USA,Jul 1 2006,2393564
+USA,Aug 1 2006,2863202
+USA,Sep 1 2006,4395542
+USA,Oct 1 2006,4303259
+USA,Nov 1 2006,3858601
+USA,Dec 1 2006,1978257
+USA,Jan 1 2007,4285330
+USA,Feb 1 2007,2541675
+USA,Mar 1 2007,2165619
+USA,Apr 1 2007,2067871
+USA,May 1 2007,4775884
+USA,Jun 1 2007,4653465
+USA,Jul 1 2007,3431743
+USA,Aug 1 2007,1967566
+USA,Sep 1 2007,2154281
+USA,Oct 1 2007,3658832
+USA,Nov 1 2007,3043602
+USA,Dec 1 2007,3967941
+USA,Jan 1 2008,4170779
+USA,Feb 1 2008,1906158
+USA,Mar 1 2008,4134237
+USA,Apr 1 2008,3399152
+USA,May 1 2008,2726547
+USA,Jun 1 2008,3762634
+USA,Jul 1 2008,2631107
+USA,Aug 1 2008,4962243
+USA,Sep 1 2008,2760049
+USA,Oct 1 2008,2554810
+USA,Nov 1 2008,3095463
+USA,Dec 1 2008,3499634
+USA,Jan 1 2009,3401613
+USA,Feb 1 2009,3725446
+USA,Mar 1 2009,2129230
+USA,Apr 1 2009,2893741
+USA,May 1 2009,4240114
+USA,Jun 1 2009,1904537
+USA,Jul 1 2009,3031237
+USA,Aug 1 2009,3717063
+USA,Sep 1 2009,4714770
+USA,Oct 1 2009,2976600
+USA,Nov 1 2009,3935641
+USA,Dec 1 2009,4677392
+USA,Jan 1 2010,3749816
+USA,Feb 1 2010,4903832
+USA,Mar 1 2010,3554878
+China,Jan 1 2000,2430148
+China,Feb 1 2000,2959855
+China,Mar 1 2000,2899419
+China,Apr 1 2000,4735991
+China,May 1 2000,4098363
+China,Jun 1 2000,2881407
+China,Jul 1 2000,2589964
+China,Aug 1 2000,3775987
+China,Sep 1 2000,2567467
+China,Oct 1 2000,1922483
+China,Nov 1 2000,4332186
+China,Dec 1 2000,3635088
+China,Jan 1 2001,4439961
+China,Feb 1 2001,4911463
+China,Mar 1 2001,4714903
+China,Apr 1 2001,3828568
+China,May 1 2001,3775418
+China,Jun 1 2001,3051667
+China,Jul 1 2001,2621621
+China,Aug 1 2001,3266565
+China,Sep 1 2001,4671862
+China,Oct 1 2001,4466848
+China,Nov 1 2001,2502567
+China,Dec 1 2001,3766433
+China,Jan 1 2002,4768359
+China,Feb 1 2002,2995413
+China,Mar 1 2002,3740179
+China,Apr 1 2002,2608412
+China,May 1 2002,4871791
+China,Jun 1 2002,3315249
+China,Jul 1 2002,3346898
+China,Aug 1 2002,3893558
+China,Sep 1 2002,2328127
+China,Oct 1 2002,1944697
+China,Nov 1 2002,4537719
+China,Dec 1 2002,2825520
+China,Jan 1 2003,2555601
+China,Feb 1 2003,4686458
+China,Mar 1 2003,2038559
+China,Apr 1 2003,2963392
+China,May 1 2003,2478518
+China,Jun 1 2003,4064143
+China,Jul 1 2003,2344166
+China,Aug 1 2003,2077549
+China,Sep 1 2003,2483000
+China,Oct 1 2003,3787836
+China,Nov 1 2003,2843319
+China,Dec 1 2003,4756715
+China,Jan 1 2004,4412488
+China,Feb 1 2004,4012502
+China,Mar 1 2004,2107644
+China,Apr 1 2004,3427242
+China,May 1 2004,4735700
+China,Jun 1 2004,4359905
+China,Jul 1 2004,3762149
+China,Aug 1 2004,4600309
+China,Sep 1 2004,4207210
+China,Oct 1 2004,2701273
+China,Nov 1 2004,2846572
+China,Dec 1 2004,3657471
+China,Jan 1 2005,3214141
+China,Feb 1 2005,2504710
+China,Mar 1 2005,3289831
+China,Apr 1 2005,4066744
+China,May 1 2005,3882177
+China,Jun 1 2005,3644775
+China,Jul 1 2005,3364513
+China,Aug 1 2005,2508754
+China,Sep 1 2005,4522673
+China,Oct 1 2005,4451231
+China,Nov 1 2005,2770389
+China,Dec 1 2005,4355912
+China,Jan 1 2006,3088104
+China,Feb 1 2006,3179679
+China,Mar 1 2006,4748913
+China,Apr 1 2006,1959424
+China,May 1 2006,4346904
+China,Jun 1 2006,2194416
+China,Jul 1 2006,2440842
+China,Aug 1 2006,2446302
+China,Sep 1 2006,4864134
+China,Oct 1 2006,3201152
+China,Nov 1 2006,3148839
+China,Dec 1 2006,1900616
+China,Jan 1 2007,3469083
+China,Feb 1 2007,3828827
+China,Mar 1 2007,3172993
+China,Apr 1 2007,2999114
+China,May 1 2007,4946636
+China,Jun 1 2007,2621860
+China,Jul 1 2007,3076047
+China,Aug 1 2007,2880859
+China,Sep 1 2007,4198309
+China,Oct 1 2007,2619877
+China,Nov 1 2007,3790459
+China,Dec 1 2007,2192536
+China,Jan 1 2008,2137430
+China,Feb 1 2008,2037428
+China,Mar 1 2008,3106449
+China,Apr 1 2008,2038937
+China,May 1 2008,3955163
+China,Jun 1 2008,3186263
+China,Jul 1 2008,2602732
+China,Aug 1 2008,4728471
+China,Sep 1 2008,3024220
+China,Oct 1 2008,3987083
+China,Nov 1 2008,4571627
+China,Dec 1 2008,4874782
+China,Jan 1 2009,2259058
+China,Feb 1 2009,3173497
+China,Mar 1 2009,3828371
+China,Apr 1 2009,4238146
+China,May 1 2009,4710262
+China,Jun 1 2009,3923262
+China,Jul 1 2009,3759794
+China,Aug 1 2009,2651930
+China,Sep 1 2009,2547595
+China,Oct 1 2009,4851815
+China,Nov 1 2009,2757621
+China,Dec 1 2009,1986059
+China,Jan 1 2010,4577455
+China,Feb 1 2010,4306885
+China,Mar 1 2010,3570960
+UAE,Jan 1 2000,1324897
+UAE,Feb 1 2000,925744
+UAE,Mar 1 2000,1705915
+UAE,Apr 1 2000,1396530
+UAE,May 1 2000,1844918
+UAE,Jun 1 2000,1724418
+UAE,Jul 1 2000,1203317
+UAE,Aug 1 2000,1129834
+UAE,Sep 1 2000,1727020
+UAE,Oct 1 2000,1742678
+UAE,Nov 1 2000,1147055
+UAE,Dec 1 2000,1055239
+UAE,Jan 1 2001,1373500
+UAE,Feb 1 2001,1250789
+UAE,Mar 1 2001,1111043
+UAE,Apr 1 2001,1175175
+UAE,May 1 2001,1817176
+UAE,Jun 1 2001,1235413
+UAE,Jul 1 2001,1002134
+UAE,Aug 1 2001,975231
+UAE,Sep 1 2001,1055507
+UAE,Oct 1 2001,1393026
+UAE,Nov 1 2001,1513938
+UAE,Dec 1 2001,1425489
+UAE,Jan 1 2002,1113107
+UAE,Feb 1 2002,1529062
+UAE,Mar 1 2002,911116
+UAE,Apr 1 2002,1790330
+UAE,May 1 2002,1333126
+UAE,Jun 1 2002,1292353
+UAE,Jul 1 2002,1385329
+UAE,Aug 1 2002,1226716
+UAE,Sep 1 2002,1008054
+UAE,Oct 1 2002,1878330
+UAE,Nov 1 2002,1340018
+UAE,Dec 1 2002,1737243
+UAE,Jan 1 2003,1118017
+UAE,Feb 1 2003,998990
+UAE,Mar 1 2003,1424116
+UAE,Apr 1 2003,1223605
+UAE,May 1 2003,1159092
+UAE,Jun 1 2003,1426705
+UAE,Jul 1 2003,1212777
+UAE,Aug 1 2003,1174610
+UAE,Sep 1 2003,1830371
+UAE,Oct 1 2003,1077735
+UAE,Nov 1 2003,914429
+UAE,Dec 1 2003,1488746
+UAE,Jan 1 2004,1829174
+UAE,Feb 1 2004,910467
+UAE,Mar 1 2004,1044023
+UAE,Apr 1 2004,1283130
+UAE,May 1 2004,1331282
+UAE,Jun 1 2004,1642558
+UAE,Jul 1 2004,938640
+UAE,Aug 1 2004,992203
+UAE,Sep 1 2004,1198158
+UAE,Oct 1 2004,1248996
+UAE,Nov 1 2004,977313
+UAE,Dec 1 2004,924185
+UAE,Jan 1 2005,1263061
+UAE,Feb 1 2005,1782588
+UAE,Mar 1 2005,1501469
+UAE,Apr 1 2005,1862012
+UAE,May 1 2005,1349080
+UAE,Jun 1 2005,1602214
+UAE,Jul 1 2005,1666576
+UAE,Aug 1 2005,1865685
+UAE,Sep 1 2005,1411199
+UAE,Oct 1 2005,1880385
+UAE,Nov 1 2005,1701769
+UAE,Dec 1 2005,1351163
+UAE,Jan 1 2006,1329908
+UAE,Feb 1 2006,1271403
+UAE,Mar 1 2006,1281668
+UAE,Apr 1 2006,1220877
+UAE,May 1 2006,1277262
+UAE,Jun 1 2006,1541405
+UAE,Jul 1 2006,938000
+UAE,Aug 1 2006,1508088
+UAE,Sep 1 2006,1405489
+UAE,Oct 1 2006,1038251
+UAE,Nov 1 2006,948950
+UAE,Dec 1 2006,1085212
+UAE,Jan 1 2007,1576306
+UAE,Feb 1 2007,1667182
+UAE,Mar 1 2007,1497182
+UAE,Apr 1 2007,1639546
+UAE,May 1 2007,1089467
+UAE,Jun 1 2007,1321382
+UAE,Jul 1 2007,966091
+UAE,Aug 1 2007,1317869
+UAE,Sep 1 2007,1348054
+UAE,Oct 1 2007,1507442
+UAE,Nov 1 2007,1380268
+UAE,Dec 1 2007,1462498
+UAE,Jan 1 2008,948487
+UAE,Feb 1 2008,1813596
+UAE,Mar 1 2008,1152198
+UAE,Apr 1 2008,1202422
+UAE,May 1 2008,941050
+UAE,Jun 1 2008,1365486
+UAE,Jul 1 2008,1276212
+UAE,Aug 1 2008,1380067
+UAE,Sep 1 2008,1447205
+UAE,Oct 1 2008,1321844
+UAE,Nov 1 2008,1457667
+UAE,Dec 1 2008,1691876
+UAE,Jan 1 2009,1571595
+UAE,Feb 1 2009,999238
+UAE,Mar 1 2009,1621602
+UAE,Apr 1 2009,1797803
+UAE,May 1 2009,1210932
+UAE,Jun 1 2009,1352487
+UAE,Jul 1 2009,1302825
+UAE,Aug 1 2009,1337188
+UAE,Sep 1 2009,1419615
+UAE,Oct 1 2009,1462401
+UAE,Nov 1 2009,1110648
+UAE,Dec 1 2009,941052
+UAE,Jan 1 2010,1796528
+UAE,Feb 1 2010,1465451
+UAE,Mar 1 2010,1613648

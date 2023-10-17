@@ -1,0 +1,84 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 500,
+    "height": 300,
+    "data": {
+        "url": "life expectancy and suicide.csv"
+    },
+    "layer": [
+        {
+            "mark": "point",
+            "encoding": {
+                "opacity": {
+                    "condition": {
+                        "test": "test(regexp(search_input,'i'),datum.Country)",
+                        "value": 0.8
+                    },
+                    "value": 0.1
+                },
+                "tooltip": [
+                    {
+                        "field": "Country",
+                        "type": "nominal",
+                        "title": "Country"
+                    },
+                    {
+                        "field": "Life expectancy",
+                        "type": "quantitative",
+                        "title": "Life Expectancy (2016)"
+                    },
+                    {
+                        "field": "Suicide rate",
+                        "type": "quantitative",
+                        "title": "Suicide Rate"
+                    }
+                ],
+                "x": {
+                    "field": "Life expectancy",
+                    "type": "quantitative",
+                    "title": "Life Expectancy (2016)",
+                    "scale": {"domain": [45, 86]}
+                },
+                "y": {
+                    "field": "Suicide rate",
+                    "type": "quantitative",
+                    "title": "Suicide Rate",
+                    "scale": {"domain": [4, 20]}
+                }
+            }
+        },
+        {
+            "mark": {
+                "type": "line",
+                "color": "firebrick"
+            },
+            "transform": [
+                {
+                    "regression": "Suicide rate",
+                    "on": "Life expectancy"
+                }
+            ],
+            "encoding": {
+                "x": {
+                    "field": "Life expectancy",
+                    "type": "quantitative"
+                },
+                "y": {
+                    "field": "Suicide rate",
+                    "type": "quantitative"
+                }
+            }
+        }
+    ],
+    "params": [
+        {
+            "name": "search_input",
+            "bind": {
+                "input": "search",
+                "placeholder": "Search by country",
+                "name": "Search"
+            },
+            "value": ""
+        }
+    ]
+  }

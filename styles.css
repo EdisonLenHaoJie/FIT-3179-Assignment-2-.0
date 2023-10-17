@@ -1,0 +1,46 @@
+.flex-center {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+body {
+    background-color:lightgreen;
+}
+
+.page {
+    width: 1400px;
+    background-color: white;
+    margin: auto;
+    padding: 50px;
+    padding-top: 20px;
+  }
+
+.page_header {
+width: 1400px;
+background-color: black;
+margin: auto;
+padding: 50px;
+padding-top: 20px;
+}
+
+h1 {
+    color: white;
+    font-size: 75px;
+}
+
+p {
+    font-family: Arial, sans-serif;
+}
+
+h3 {
+    font-family: Georgia, serif;
+    font-size: 25px;
+    color:black
+}
+
+.divider {
+    width: 5px; /* Width of the vertical line */
+    background-color: #000; /* Color of the line */
+    margin: 0 1px; /* Adjust the margin to control the space between the containers and the line */
+  }
