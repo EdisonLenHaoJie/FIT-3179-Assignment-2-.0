@@ -1,0 +1,67 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "transform": [{"filter": "datum.symbol !== 'GOOG'"}],
+  "width": 500,
+  "height": 300,
+  "data": {
+    "url": "Cancercases.csv",
+    "format": {
+      "type": "csv",
+      "parse": {
+        "date": "date:'%b %d %Y'"
+      }
+    }
+  },
+  "mark": "rect",
+  "encoding": {
+    "x": {
+      "timeUnit": "yearmonthdate",
+      "field": "date",
+      "type": "ordinal",
+      "title": "Years",
+      "axis": {
+        "format": "%Y",
+        "labelAngle": 0,
+        "labelOverlap": false,
+        "labelColor": {
+          "condition": {
+            "test": {
+              "timeUnit": "monthdate",
+              "field": "value",
+              "equal": {"month": 1, "date": 1}
+            },
+            "value": "black"
+          },
+          "value": null
+        },
+        "tickColor": {
+          "condition": {
+            "test": {
+              "timeUnit": "monthdate",
+              "field": "value",
+              "equal": {"month": 1, "date": 1}
+            },
+            "value": "black"
+          },
+          "value": null
+        }
+      }
+    },
+    "color": {
+      "aggregate": "sum",
+      "field": "Cancer cases",
+      "type": "quantitative",
+      "title": "Cancer cases"
+    },
+    "y": {
+      "field": "Country",
+      "type": "nominal",
+      "title": null
+    },
+    "tooltip": [
+      {"field": "Country", "type": "nominal", "title": "Country"},
+      {"field": "date", "type": "ordinal", "title": "Date"},
+      {"field": "Cancer cases", "type": "quantitative", "title": "Cancer Cases"}
+    ]
+  }
+}
